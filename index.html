@@ -2,7 +2,14 @@
 <html>
 
 <meta charset="UTF-8">
-
+<style>
+    div{
+        margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px;
+    }
+</style>
 <body>
 
 
@@ -37,7 +44,8 @@ function parseFile(){
     //var lines = file.split("\\n");
     //document.getElementById("file").innerHTML=window.file;
     var both=file[page].split("====");
-    document.getElementById("file").innerHTML=both[0];
+    document.getElementById("file").innerHTML=both[1];
+    var answere = both[0];
 }
 
 //-----------------------------------------------------------------------------
@@ -58,6 +66,10 @@ function readTextFile() {
   rawFile.send();
 }
 </script>
+<div>
 <span id='file'></span>
+
+<input type="text" /> 
+</div>
 </body>
 </html>
