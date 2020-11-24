@@ -39,7 +39,7 @@ function init() {
 }
 
 //-----------------------------------------------------------------------------
-//
+// draw the question
 //-----------------------------------------------------------------------------
 var page=1;
 function parseFile(){
@@ -95,11 +95,15 @@ function checkInput(input){
 function handleCorrectAns(){
     document.getElementById("feedback").innerHTML='yes';
     document.getElementById('input').value='';
+    page++;
+    parseFile();
 }
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
 function compare(left,right){
+    left=left.replace(/\ /g,"");
+    right=right.replace(/\ /g,"");
     left=left.toLowerCase().trim();
     right=right.toLowerCase().trim();
     return left === right;
@@ -127,7 +131,7 @@ function interpolate(text){
 
 <input type="text" id='input' onkeyup='checkInput(this.value)'/> 
 
-<span id='ans_key'></span>
+<span id='ans_key'></span><br/>
 <span id='feedback'></span>
 </div>
 </body>
