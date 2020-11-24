@@ -85,7 +85,9 @@ function readTextFile() {
 
     if (response.status === 200) {
         let data = await response.text();
-        alert(data);
+         file = data.split("\n");
+        
+        parseFile();
         // handle data
     }
 }
