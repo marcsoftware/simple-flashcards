@@ -43,8 +43,10 @@ function init() {
 //-----------------------------------------------------------------------------
 var page=1;
 function parseFile(){
-    //var lines = file.split("\\n");
-    //document.getElementById("file").innerHTML=window.file;
+    
+    
+    document.getElementById("page").innerHTML=page;
+
     var both=file[page].split("====");
     document.getElementById("que").innerHTML=both[1];
 
@@ -137,6 +139,8 @@ function feedback(text){
 }
 </script>
 <div>
+
+<span id='page'></span><br/>
 <span id='que'></span>
 
 <input type="text" id='input' onkeyup='checkInput(this.value)'/> 
