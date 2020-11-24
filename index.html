@@ -23,6 +23,7 @@
 //-----------------------------------------------------------------------------    
 
  file='x';
+ ans_key = '';
  window.onload=init();
 //-----------------------------------------------------------------------------
 //
@@ -44,8 +45,10 @@ function parseFile(){
     //var lines = file.split("\\n");
     //document.getElementById("file").innerHTML=window.file;
     var both=file[page].split("====");
-    document.getElementById("file").innerHTML=both[1];
-    var answere = both[0];
+    document.getElementById("que").innerHTML=both[1];
+
+     ans_key = both[0].trim();
+    document.getElementById("ans_key").innerHTML=ans_key;
 }
 
 //-----------------------------------------------------------------------------
@@ -56,20 +59,60 @@ function readTextFile() {
   //study_material/germanCH1.txt 
   rawFile.open("GET", "study_material/germanCH1.txt", true);
   rawFile.onreadystatechange = function() {
-    if (rawFile.readyState === 4) {
+    if (rawFile.status === 200 || rawFile.status == 0) {
+     
        file = rawFile.responseText.split("\n");
-       document.getElementById("file").innerHTML=file[5];
+       document.getElementById("que").innerHTML=file[5];
         parseFile();
 
     }
   }
-  rawFile.send();
+
+  rawFile.setRequestHeader("Content-Type", "text/plain");
+  rawFile.send(null);
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function checkInput(handle){
+    console.log(handle.value+'|'+ans_key);
+    var check=interpolate(handle.value) ;
+    if(compare(check,ans_key)){
+        document.getElementById("feedback").innerHTML='yes';
+    }
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function compare(left,right){
+    return handle.value === ans_key;
+}
+
+
+//-----------------------------------------------------------------------------
+// german has special letters like ä ö ü ß Ä Ö Ü 
+// this function takes m`ar`s and turns it to mäß
+//  example : m`ar`s => mäß
+//-----------------------------------------------------------------------------
+function interpolate(text){
+    text=text.replace("`a","ä");
+    text=text.replace("`o","ö");
+    text=text.replace("`u","ü");
+    text=text.replace("`s","ß");
+    text=text.replace("`A","Ä");
+    text=text.replace("`O","ß");
+    text=text.replace("`U","Ü");
+    return text;
 }
 </script>
 <div>
-<span id='file'></span>
+<span id='que'></span>
 
-<input type="text" /> 
+<input type="text" onkeyup='checkInput(this)'/> 
+<span id='feedback'></span>
+<span id='ans_key'></span>
 </div>
 </body>
 </html>
