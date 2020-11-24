@@ -102,8 +102,11 @@ function handleCorrectAns(){
 //
 //-----------------------------------------------------------------------------
 function compare(left,right){
-    left=left.replace(/\ /g,"");
-    right=right.replace(/\ /g,"");
+    left=left.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+    right=right.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+
+
+    feedback(left);
     left=left.toLowerCase().trim();
     right=right.toLowerCase().trim();
     return left === right;
@@ -125,6 +128,13 @@ function interpolate(text){
     text=text.replace("`U","Ü");
     return text;
 }
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function feedback(text){
+    document.getElementById('color').innerHTML=text;
+}
 </script>
 <div>
 <span id='que'></span>
@@ -133,6 +143,7 @@ function interpolate(text){
 
 <span id='ans_key'></span><br/>
 <span id='feedback'></span>
+<span id='color'></span>
 </div>
 </body>
 </html>
