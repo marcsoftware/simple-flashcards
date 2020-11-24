@@ -30,7 +30,7 @@
 //-----------------------------------------------------------------------------
    
 function init() {
-  //readTextFile();
+  
   doGet("study_material/germanCH1.txt");
   
  
@@ -52,27 +52,8 @@ function parseFile(){
     document.getElementById("ans_key").innerHTML=ans_key;
 }
 
-//-----------------------------------------------------------------------------
-//page
-//-----------------------------------------------------------------------------
-function readTextFile() {
-  var rawFile = new XMLHttpRequest();
-  //study_material/germanCH1.txt 
-  
-  rawFile.onreadystatechange = function() {
-    if (rawFile.status === 200 || rawFile.status == 4) {
-     
-       file = rawFile.responseText.split("\n");
-        
-        parseFile();
 
-    }
-  }
 
-  rawFile.open("GET", "study_material/germanCH1.txt", true);
-  rawFile.setRequestHeader("Content-Type", "text/plain");
-  rawFile.send(null);
-}
 
 //-----------------------------------------------------------------------------
 //
