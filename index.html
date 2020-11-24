@@ -80,17 +80,27 @@ function checkInput(input){
     if(input==""){
         return;
     }
-    console.log(input+'|'+ans_key);
+    
     var check=interpolate(input) ;
     if(compare(check,ans_key)){
-        document.getElementById("feedback").innerHTML='yes';
+        handleCorrectAns();
+    }else{
+        document.getElementById("feedback").innerHTML='no';
     }
 }
 
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
+function handleCorrectAns(){
+    document.getElementById("feedback").innerHTML='yes';
+}
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
 function compare(left,right){
+    left=left.toLowerCase().trim();
+    right=right.toLowerCase().trim();
     return left === right;
 }
 
@@ -120,3 +130,4 @@ function interpolate(text){
 </div>
 </body>
 </html>
+
