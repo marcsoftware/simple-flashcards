@@ -1,25 +1,58 @@
 <!DOCTYPE html>
 <html>
+
+<meta charset="UTF-8">
+
 <body>
 
-<p>Click the button to display an alert box.</p>
 
-<button onclick="myFunction()">Try it</button>
+
+
 
 <script>
-function myFunction() {
+
+//-----------------------------------------------------------------------------
+// global variables
+//-----------------------------------------------------------------------------    
+
+ file='x';
+ window.onload=init();
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+   
+function init() {
   readTextFile();
+  
+ 
+ 
+  
 }
 
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+var page=0;
+function parseFile(){
+    //var lines = file.split("\\n");
+    //document.getElementById("file").innerHTML=window.file;
+    var both=file[page].split("====");
+    document.getElementById("file").innerHTML=both[0];
+}
 
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
 function readTextFile() {
   var rawFile = new XMLHttpRequest();
   //study_material/germanCH1.txt 
   rawFile.open("GET", "study_material/germanCH1.txt", true);
   rawFile.onreadystatechange = function() {
     if (rawFile.readyState === 4) {
-      var allText = rawFile.responseText;
-      document.getElementById("file").innerHTML = allText;
+       file = rawFile.responseText.split("\n");
+       document.getElementById("file").innerHTML=file[5];
+        parseFile();
+
     }
   }
   rawFile.send();
