@@ -30,7 +30,8 @@
 //-----------------------------------------------------------------------------
    
 function init() {
-  readTextFile();
+  //readTextFile();
+  doGet("study_material/germanCH1.txt");
   
  
  
@@ -40,7 +41,7 @@ function init() {
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
-var page=0;
+var page=1;
 function parseFile(){
     //var lines = file.split("\\n");
     //document.getElementById("file").innerHTML=window.file;
@@ -52,22 +53,23 @@ function parseFile(){
 }
 
 //-----------------------------------------------------------------------------
-//
+//page
 //-----------------------------------------------------------------------------
 function readTextFile() {
   var rawFile = new XMLHttpRequest();
   //study_material/germanCH1.txt 
-  rawFile.open("GET", "study_material/germanCH1.txt", true);
+  
   rawFile.onreadystatechange = function() {
-    if (rawFile.status === 200 || rawFile.status == 0) {
+    if (rawFile.status === 200 || rawFile.status == 4) {
      
        file = rawFile.responseText.split("\n");
-       document.getElementById("que").innerHTML=file[5];
+        
         parseFile();
 
     }
   }
 
+  rawFile.open("GET", "study_material/germanCH1.txt", true);
   rawFile.setRequestHeader("Content-Type", "text/plain");
   rawFile.send(null);
 }
@@ -75,9 +77,28 @@ function readTextFile() {
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
-function checkInput(handle){
-    console.log(handle.value+'|'+ans_key);
-    var check=interpolate(handle.value) ;
+ async  function doGet(url) {
+      let response = await fetch(url);
+
+    console.log(response.status); // 200
+    console.log(response.statusText); // OK
+
+    if (response.status === 200) {
+        let data = await response.text();
+        alert(data);
+        // handle data
+    }
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function checkInput(input){
+    if(input==""){
+        return;
+    }
+    console.log(input+'|'+ans_key);
+    var check=interpolate(input) ;
     if(compare(check,ans_key)){
         document.getElementById("feedback").innerHTML='yes';
     }
@@ -87,7 +108,7 @@ function checkInput(handle){
 //
 //-----------------------------------------------------------------------------
 function compare(left,right){
-    return handle.value === ans_key;
+    return left === right;
 }
 
 
@@ -110,7 +131,7 @@ function interpolate(text){
 <div>
 <span id='que'></span>
 
-<input type="text" onkeyup='checkInput(this)'/> 
+<input type="text" onkeyup='checkInput(this.value)'/> 
 <span id='feedback'></span>
 <span id='ans_key'></span>
 </div>
