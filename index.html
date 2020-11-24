@@ -30,8 +30,8 @@
 //-----------------------------------------------------------------------------
    
 function init() {
-  page=getCookie("page");
-  alert(page);
+  page=parseInt(getCookie("page"));
+  
   doGet("study_material/germanCH1.txt");
   
  
@@ -44,7 +44,7 @@ function init() {
 //-----------------------------------------------------------------------------
 // draw the question
 //-----------------------------------------------------------------------------
-var page=0;
+var page;
 function parseFile(){
     
     console.log("----"+page);
