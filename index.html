@@ -45,7 +45,7 @@ var page=1;
 function parseFile(){
     
     
-    document.getElementById("page").innerHTML=page;
+    document.getElementById("page").innerHTML=page+"/"+file.length;
 
     var both=file[page].split("====");
     document.getElementById("que").innerHTML=both[1];
