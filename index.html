@@ -38,14 +38,16 @@ function init() {
   
 }
 
+
+
 //-----------------------------------------------------------------------------
 // draw the question
 //-----------------------------------------------------------------------------
-var page=1;
+var page=0;
 function parseFile(){
     
     
-    document.getElementById("page").innerHTML=page+"/"+file.length;
+    document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
 
     var both=file[page].split("====");
     document.getElementById("que").innerHTML=both[1];
@@ -68,7 +70,8 @@ function parseFile(){
 
     if (response.status === 200) {
         let data = await response.text();
-         file = data.split("\n");
+         file = data.split("\n"); 
+         file.shift();// shift() deletes the empty element.
         
         parseFile();
         // handle data
@@ -94,10 +97,32 @@ function checkInput(input){
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
 function handleCorrectAns(){
     document.getElementById("feedback").innerHTML='yes';
     document.getElementById('input').value='';
     page++;
+
+    document.cookie = "page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC"; 
+
     parseFile();
 }
 //-----------------------------------------------------------------------------
