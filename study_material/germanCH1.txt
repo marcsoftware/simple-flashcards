@@ -1,0 +1,160 @@
+Begrüßungen ====Greetings
+Hallo! ====Hello!
+Guten Morgen! ====Good morning!
+Guten Tag! ====Hello ("good day")!
+Auf Wiedersehen! ====Goodbye! (Formal)
+Bis morgen. ====See you tomorrow.
+Bis Samstag. ====See you Saturday.
+Persönliche Informationen ====Personal information
+Wie heißt du? / Wie ist dein Name? ====What's your name?
+Wie heißen Sie? / Wie ist Ihr Name? ====What's your name (formal)?
+Ich heiße... ====My name is...
+Ich bin... ====I am ...
+Ich bin Student/Studentin. ====I am a student (m)/(f)
+heißen ====to be called...
+sein ====to be
+haben ====to have
+wohnen ====to live (reside)
+gehen ====to go or walk
+bleiben ====to stay or remain
+finden ====to find
+möchten ====would like
+jemanden kennenlernen ====to meet someone
+Wer ist das? ====Who is that?
+vorstellen ====to introduce
+Freut mich! ====Pleased to meet you.
+Angenehm. ====(here) Pleased to meet you.
+Danke. ====Thank you.
+Bitte. ====Please / You are welcome.
+Entschuldigung. ====Excuse me.
+(Es) tut mir leid. ====I am sorry.
+Ja, bitte. ====Yes, please.
+Nein, danke. ====No, thank you.
+die Herkunft ====Origin/Nationality
+kommen aus ====to come from
+Woher kommst du? ====Where do you come from?(informal)
+die U.S.A. ====the U.S.
+Deutschland ====Germany
+Österreich ====Austria
+die Schweiz ====Switzerland
+Amerika (Nord-, Mittel-, Südamerika) ====America (North, Central, South America)
+Europa ====Europe
+Zahlen ====Numbers
+die Zahl ====number
+die Nummer ====specific number (phone, house)
+null ====zero
+eins ====one
+zwei ====two
+drei ====three
+vier ====four
+fünf ====five
+sechs ====six
+sieben ====seven
+acht ====eight
+neun ====nine
+zehn ====ten
+elf ====eleven
+zwölf ====twelve
+dreizehn ====thirteen
+vierzehn ====fourteen
+fünfzehn ====fifteen
+sechzehn ====sixteen
+siebzehn ====seventeen
+achtzehn ====eighteen
+neunzehn ====nineteen
+zwanzig ====twenty
+einundzwanzig ====twenty-one
+mehr persönliche Informationen ====more personal information
+das Jahr ====the year
+Wie alt bist du? ====How old are you?
+Wie alt sind Sie? ====How old are you? (formal)
+Ich bin achtzehn Jahre alt. ====I am 18 years old.
+Was ist Ihre Adresse? ====What is your address?
+die Hausnummer (Hausnummern) ====house number
+die Postleitzahl (Postleitzahlen) ====zip code
+die Farbe (Farben ====color
+beige ====beige
+blau ====blue
+braun ====brown
+gelb ====yellow
+grau ====gray
+grün ====green
+lila ====purple
+rosa ====pink
+rot ====red
+schwarz ====black
+weiß ====white
+dunkel ====dark
+hell ====light
+bunt ====colorful
+die Lieblingsfarbe ====favorite color
+Wie geht's? ====How are you? (informal)
+Wie geht es Ihnen? ====How are you? (formal)
+positive Reaktionen ====positive reactions
+Sehr gut, danke! ====Very well, thanks.
+Es geht mir gut. ====I'm doing great!
+Ausgezeichnet! ====Excellent!
+negative Reaktionen ====negative reactions
+Es geht mir nicht so gut. ====I'm not feeling well.
+Ich bin müde. ====I'm tired.
+Geld, Handy usw. ====Money, cell phone, etc.
+anrufen ====to call someone on the phone
+bezahlen ====to pay
+brauchen ====to need
+der Geldautomat ====the automatic teller machine (ATM)
+Geld wechseln ====to exchange money
+das Handy ====cell phone
+kosten ====to cost
+telefonieren ====to talk to someone on the phone
+die Telefonkarte (Telefonkarten) ====calling card
+das Telefon (Telefone) ====Telephone
+die Telefonnummer (Telefonnummern) ====Telephone number
+An der Uni studieren ====Studying at the University
+das Hauptfach (Hauptfächer) ====major
+das Nebenfach (Nebenfächer) ====minor
+lernen ====to learn, to study (homework, for a test, etc.)
+studieren ====to study (major in; study at university)
+der Studentenausweis (Studentenausweise) ====student ID card
+das Studentenwohnheim (Studentenwohnheime) ====dormitory
+die Toilette (Toiletten) ====restrooms
+das Studienfach ====field of study
+Studienfächer ====fields of study
+Amerikanistik ====American studies
+Anglistik ====British studies
+Anthropologie ====Anthropology
+Architektur ====Architecture
+Biologie ====Biology
+Chemie ====Chemistry
+Computerwissenschaften / Informatik ====Computer Sciences
+Deutsch ====German
+Englisch ====English
+Film ====Film / Film studies
+Französisch ====French
+Geographie ====Geography
+Geschichte ====History
+Germanistik ====German studies
+Ingenieurwissenschaften ====Engineering
+Jura ====Law
+Kunst ====Art
+Kunstgeschichte ====Art history
+Linguistik ====Linguistics
+Mathematik ====Math
+Medizin ====Medicine
+Musikwissenschaft ====Music
+Ökonomie / Wirtschaft ====Economics
+Philosophie ====Philosophy
+Physik ====Physics
+Politikwissenschaft ====Political science
+Psychologie ====Psychology
+Soziologie ====Sociology
+Spanisch ====Spanish
+Theologie ====Theology
+die Woche ====The week
+Montag ====Monday
+Dienstag ====Tuesday
+Mittwoch ====Wednesday
+Donnerstag ====Thursday
+Freitag ====Friday
+Samstag / Sonnabend ====Saturday
+Sonntag ====Sunday
+das Wochenende ====the weekend
