@@ -5,9 +5,15 @@
 <style>
     div{
         margin: auto;
+        text-align: center;
   width: 50%;
-  border: 3px solid white;
+  border: 3px solid black;
   padding: 10px;
+    }
+
+
+    a{
+        padding:10px;
     }
 </style>
 <body>
@@ -18,165 +24,20 @@
 
 <script>
 
-//-----------------------------------------------------------------------------
-// global variables
-//-----------------------------------------------------------------------------    
 
- file='x';
- ans_key = '';
- window.onload=init();
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-   
-function init() {
-  page=parseInt(getCookie("page"));
-  
-  doGet("study_material/germanCH1.txt");
-  
- 
- 
-  
-}
-
-
-
-//-----------------------------------------------------------------------------
-// draw the question
-//-----------------------------------------------------------------------------
-var page;
-function parseFile(){
-    
-    console.log("----"+page);
-    document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
-
-    var both=file[page].split("====");
-    document.getElementById("que").innerHTML=both[1];
-
-     ans_key = both[0].trim();
-    document.getElementById("ans_key").innerHTML=ans_key;
-}
-
-
-
-
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
- async  function doGet(url) {
-      let response = await fetch(url);
-
-    console.log(response.status); // 200
-    console.log(response.statusText); // OK
-
-    if (response.status === 200) {
-        let data = await response.text();
-         file = data.split("\n"); 
-         file.shift();// shift() deletes the empty element.
-        
-        parseFile();
-        // handle data
-    }
-}
-
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function checkInput(input){
-    if(input==""){
-        return;
-    }
-    
-    var check=interpolate(input) ;
-    if(compare(check,ans_key)){
-        handleCorrectAns();
-    }else{
-        document.getElementById("feedback").innerHTML='no';
-    }
-}
-
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function getCookie(cname) {
-  var name = cname + "=";
-  var decodedCookie = decodeURIComponent(document.cookie);
-  var ca = decodedCookie.split(';');
-  for(var i = 0; i <ca.length; i++) {
-    var c = ca[i];
-    while (c.charAt(0) == ' ') {
-      c = c.substring(1);
-    }
-    if (c.indexOf(name) == 0) {
-      return c.substring(name.length, c.length);
-    }
-  }
-
-
-  return 0;
-}
-
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function handleCorrectAns(){
-    document.getElementById("feedback").innerHTML='yes';
-    document.getElementById('input').value='';
-    page++;
-
-    document.cookie = "page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC;SameSite=None; Secure"; 
-
-    parseFile();
-}
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function compare(left,right){
-    left=left.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
-    right=right.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
-
-
-    feedback(left);
-    left=left.toLowerCase().trim();
-    right=right.toLowerCase().trim();
-    return left === right;
-}
-
-
-//-----------------------------------------------------------------------------
-// german has special letters like ä ö ü ß Ä Ö Ü 
-// this function takes m`ar`s and turns it to mäß
-//  example : m`ar`s => mäß
-//-----------------------------------------------------------------------------
-function interpolate(text){
-    text=text.replace("`a","ä");
-    text=text.replace("`o","ö");
-    text=text.replace("`u","ü");
-    text=text.replace("`s","ß");
-    text=text.replace("`A","Ä");
-    text=text.replace("`O","ß");
-    text=text.replace("`U","Ü");
-    return text;
-}
-
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function feedback(text){
-    document.getElementById('color').innerHTML=text;
-}
 </script>
 <div>
 
-<span id='page'></span><br/>
-<span id='que'></span>
 
-<input type="text" id='input' onkeyup='checkInput(this.value)'/> 
 
-<span id='ans_key'></span><br/>
-<span id='feedback'></span>
-<span id='color'></span>
+    <a href="file:///C:/Users/marc/Desktop/simple-flashcards/order.html">flashcards</a>
+    <a href="https://quizlet.com/41610431/deutsch-im-blick-kapitel-1-flash-cards/">quizlet</a>
+    <a href="https://coerll.utexas.edu/dib/pdfs/k_01.pdf">textbook chapter1</a>
 </div>
+    <a href="https://coerll.utexas.edu/dib/siteindex.php#pdf">textbook chapters</a>
+    
+
+
 </body>
 </html>
 
