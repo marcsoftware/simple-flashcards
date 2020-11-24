@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display an alert box.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  readTextFile();
+}
+
+
+function readTextFile() {
+  var rawFile = new XMLHttpRequest();
+  //study_material/germanCH1.txt 
+  rawFile.open("GET", "study_material/germanCH1.txt", true);
+  rawFile.onreadystatechange = function() {
+    if (rawFile.readyState === 4) {
+      var allText = rawFile.responseText;
+      document.getElementById("file").innerHTML = allText;
+    }
+  }
+  rawFile.send();
+}
+</script>
+<span id='file'></span>
+</body>
+</html>
