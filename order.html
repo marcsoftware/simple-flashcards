@@ -30,9 +30,16 @@
 //-----------------------------------------------------------------------------
    
 function init() {
+  const queryString = window.location.search;
+  console.log(queryString);
+
+  const urlParams = new URLSearchParams(queryString);
+  
+  var file_name = (urlParams+"").split("=")[1];
+
   page=parseInt(getCookie("page"));
   
-  doGet("study_material/germanCH1.txt");
+  doGet("study_material/"+file_name+'.txt');
   
  
  
@@ -124,6 +131,11 @@ function handleCorrectAns(){
     document.getElementById('input').value='';
     page++;
 
+if(page>=file.length-1){
+  page=0;
+  document.getElementById("feedback").innerHTML='----------------------';
+
+}
     document.cookie = "page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC;SameSite=None; Secure"; 
 
     parseFile();
