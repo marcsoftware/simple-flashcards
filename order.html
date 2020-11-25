@@ -57,7 +57,7 @@ function init() {
 var page;
 function parseFile(){
     
-    console.log("----"+page);
+    
     document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
 
     var both=file[page].split("====");
@@ -178,6 +178,7 @@ function interpolate(text){
 //
 //-----------------------------------------------------------------------------
 function feedback(text){
+  console.log('key'+ans_key);
     document.getElementById('color').innerHTML=text;
 }
 </script>
