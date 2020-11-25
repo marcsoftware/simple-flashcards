@@ -82,7 +82,7 @@ function parseFile(){
     if (response.status === 200) {
         let data = await response.text();
          file = data.split("\n"); 
-         file.shift();// shift() deletes the empty element.
+         //file.shift();// shift() deletes the empty element.
         
         parseFile();
         // handle data

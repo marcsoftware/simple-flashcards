@@ -1,5 +1,5 @@
-im Unterricht====in class
-die Hausaufgabe (Hausaufgaben)====homework
+im fakegrammar3====fakeline1
+grammar3====grammar3line2
 das Klassenzimmer (Klassenzimmer)====the classroom
 die Klausur (Klausuren)====exam (written during a course)
 der Kreis (Kreise)====circle
