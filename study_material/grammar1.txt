@@ -5,96 +5,70 @@ In German spelling two consonants after a vowel will normally indicate it is sho
   (e.g. Kamm ‘comb’ SHORT)
  (e.g. kam ‘came’ LONG)
 
-LETTER a 
-a is pronounced short in words like Hand, Mann and statt
-– compare the vowel in ‘but’.
-a is pronounced long in words like kam, Vater and zahlen
-– compare the vowel in ‘father’.
+
+LETTER a
+short : kamm Hand Mann statt - 'comb'
+long  : kam Vater zahlen     - 'came'
 
 LETTER ä
- ä is pronounced short in words like lässt, kälter and Männer
-– compare the vowel in ‘bed’. It is identical to German short e.
-ä is pronounced long in words like gäbe, Hähne and Väter
-– compare the vowel in ‘hair’.
+short : lässt, kälter and Männer - ‘bed’
+ long : gäbe, Hähne and Väter    - ‘hair’.
+
 LETTER e
- e is pronounced short in words like Bett, Henne and Sekt
-– compare the vowel in ‘bed’. It is identical to German short ä.
-e is pronounced even shorter in words like Beruf, Tante and
-zahlen where it is unstressed – compare the vowel in the first
-syllable of ‘believe’ or the last syllable of ‘wooden’. 
-
-In all words
-ending in e like Schule and Kassette the e must be pronounced
-and not merely dropped as in ‘cassette’. It is similar to the second
-syllable in ‘rubber’ as it is pronounced in British English.
-e is pronounced long in words like lesen, Planet and Tee
-– compare the vowel in ‘tray’, but keep it pure, i.e. do not
-diphthongize it at all.
-
+short :  Bett, Henne and Sekt – ‘bed’. identical to German short ä.
+even shorter : Beruf, Tante and zahlen  –  ‘b`elieve’ or  ‘wood`en’. 
+NO SILENT E : Schule Kassette -‘rubb(er)’
+long(always pure): lesen, Planet and Tee - ‘tr(a)y’
 
 LETTER i
- i is pronounced short in words like bitter, ich and Pilz
-– compare the vowel in ‘pit’. In very few words such as Liga and
-wider i is pronounced long – compare the vowel in ‘read’.
-ie ie is always pronounced long, e.g. liegen, lieh and sie – compare
-the vowel in ‘fee’.
+
+short: bitter, ich and Pilz -‘p(i)t’
+long(this is rare) : Liga wider – compare the vowel in ‘read’.
+
+LETTER ie
+long(always): liegen lieh sie–  ‘f(ee)’.
 
 LETTER o
- o is pronounced short in words like Loch, Schloss and Stollen
-– compare the vowel in ‘lot’.
-o is pronounced long in words like Floh, rot and Ton – compare
-the vowel in ‘post’, but keep it pure, i.e. do not diphthongize it at
-all.
+short :  Loch, Schloss  Stollen -‘l(o)t’.
+long(always pure):  Floh, rot and Ton –  ‘p(o)st’
 
 LETTER ö
- ö is pronounced short in words like Löcher, Töchter and zwölf
-– compare the vowel in ‘bird’, but keep it short.
-ö is pronounced long in words like Flöte, Löhne and schön
-– compare the vowel in ‘bird’ but with the lips as rounded as you
-can make them.
+short : Löcher, Töchter and zwölf - ‘b(i)rd’
+
+long :  Flöte, Löhne and schön – ‘b(i)rd’  with the lips as rounded as you can make them.
 
 
 LETTER u
-u is pronounced short in words like Butt, Truppe and Zunge
-– compare the vowel in ‘put’.
-u is pronounced long in words like Buch, Fuß and gut –
-compare the vowel in ‘food’ but with less lip rounding. Make sure
-you clearly distinguish between this sound and long ü. This sound
-is commonly pronounced too short by English speakers.
+short : Butt, Truppe and Zunge – ‘p(u)t’.
+long:  Buch, Fuß and gut –‘f(oo)d’ but with less lip rounding. 
+long ü and long u , Make sure you clearly distinguish between these sounds. 
+long u ,This sound is commonly pronounced too short by English speakers.
 
 LETTER ü 
-ü is pronounced short in words like fünf, Flüsse and Pfütze
-– compare the vowel in ‘too’ but make it shorter and with the
-lips as rounded and tightened as you can make them, as if trying
-to whistle.
-ü is pronounced long in words like fühlen, Füße and trübe
-– compare the vowel in ‘food’ but make it longer and with more
+short: fünf, Flüsse and Pfütze - ‘t(oo)’ but make it shorter and with the
+lips as rounded and tightened as you can make them, as if trying to whistle.
+long :  fühlen, Füße and trübe -‘f(oo)d’ but make it longer and with more
 lip rounding and tightening, as if trying to whistle.
 
                         CHAPTER 1.2 Diphthongs
 
 German has only three diphthong sounds [ei, au, eu]
-English has quite a few more.
 
 Diphthongs ei 
-ei in words like Blei, Stein and Verleih is identical to the vowel
-in ‘fight’.
+ Blei, Stein and Verleih - 'f(i)ght'
 
-Diphthongs ai
-ai in words like Hain, Laib and Mai is identical in pronunciation
-to ei and occurs in very few words.
+
+Diphthongs ai (rare)
+ Hain, Laib  Mai - 'f(i)ght' 
 
 Diphthongs au
-au in words like aus, Auto and Traum is very similar to the
-vowel in ‘house’.
+aus, Auto Traum - vowel in ‘h(ou)se’.
 
 Diphthongs eu
-eu in words like euch, Feuer and heute is identical to the
-vowel in ‘boy’.
+euch, Feuer  heute -  ‘b(oy)’.
 
 Diphthongs äu
-äu in words like enttäuschen, Kräuter and Schläuche is
-identical to eu.
+enttäuschen, Kräuter  Schläuche -'b(oy)'.
 
                 CHAPTER 1.3 Consonants
 
@@ -102,21 +76,21 @@ There are few problems lurking here for English speakers.
 
 
 Problem b
- b in words like Bein, Krabbe and loben is identical to that in ‘bed’.
- At the end of a word as in ab, Lob and ob a b is always
-devoiced, i.e. it is pronounced as a ‘p’.
+ b in words like [Bein, Krabbe  loben] is identical to that in ‘bed’.
+ At the end of a word as in [ab, Lob and ob] b is always
+devoiced meaning it is pronounced as a ‘p’.
 
 Problem c
-c in words like Cicero and Mercedes (both foreign words) is
-pronounced like a German z, i.e. as ‘ts’.
+c in words like [Cicero  Mercedes] (both foreign words) is
+pronounced like a German z, => ‘ts’.
 
 Problem ch 
-    ch in words like Bach, Loch, Buch and rauchen (i.e. after a, o,
+ch in words like [Bach, Loch, Buch  rauchen] (i.e. after a, o,
 u and au) is pronounced as in Scottish ‘loch’. The Germans call
 this the ach-Laut, a hard sound.
 
-    ch in words like Blech, ich, lächeln, Schläuche, Löcher,
-Bücher, welche, manche and durch (i.e. after e, i, ä, äu, ö, ü
+    ch in words like [Blech, ich, lächeln, Schläuche, Löcher,
+Bücher, welche, manche  durch] (i.e. after e, i, ä, äu, ö, ü
 as well as the consonants l, n and r) is a softer sound than when
 it follows a, o, u and au,  it is pronounced with the tongue
 curved, hugging both the soft and hard palates. The Germans call
@@ -124,77 +98,83 @@ this the ich-Laut, a soft sound. It must be clearly distinguished
 from the more guttural ach-Laut. 
 
     The two ch sounds can alternate within variations of the same
-word when it is infl ected,e.g. Buch (with the ach sound) and Bücher
-(with the ich sound).
+word when it is inflected,e.g. Buch (with the ach sound) and Bücher
+(with the ich sound). [Buch Bücher]
 
-The combination chs is pronounced like English ‘x’, e.g. sechs,
-Dachs, Fuchs. Compare sechs (6) with sechzehn (16) and
+The combination chs is pronounced like English ‘x’, e.g. 
+[sechs, Dachs, Fuchs]. 
+Compare sechs (6) with sechzehn (16) and
 sechzig (60) where ch is pronunced as in Blech above.
+[sechs sechzehn sechzig]
 The diminutive ending -chen is also pronounced with this soft
 variant of ch.
 
 ch at the beginning of loanwords is pronounced like 1) English
 ‘k’, 2) English ‘sh’ or 3) soft German ch, depending on the
-source language, e.g. 1) Chaos, Chlor, Charakter; 2) Chance,
-chauvinistisch, Chef; 3) Chemie, China.
+source language, e.g. 
+1) [Chaos, Chlor, Charakter]; 
+2) [Chance,chauvinistisch, Chef] 
+3) [Chemie, China].
 
 
 ck ck, found in the middle and at the end of words, is pronounced
-‘k’, e.g. lecker, Fleck.
+‘k’, e.g. [lecker, Fleck].
 
-d d in words like denken and Feder is pronounced as in
+d d in words like [denken and Feder] is pronounced as in
 English.
-At the end of a word as in Glied, Gold and Hand a d is always
+At the end of a word as in [Glied, Gold  Hand] a d is always
 devoiced, i.e. it is pronounced as a ‘t’.
 
-f f in words like Frosch, Pfeffer and Schiff is pronounced as in
+f f in words like [Frosch, Pfeffer Schiff] is pronounced as in
 English.
 
-g g at the beginning or in the middle of words, as in Gang, gießen
-and fl iegen, is pronounced as in English.
+g g at the beginning or in the middle of words, as in 
+[Gang, gießen fliegen], is pronounced as in English.
 
-At the end of a word as in Tag, Teig and Zug a g is always
+At the end of a word as in [Tag, Teig and Zug] a g is always
 devoiced, i.e. it is pronounced as a ‘k’. However, the ending -ig is
-pronounced like German ich, e.g. König and lustig (see 1.5).
-h h at the beginning of a words, as in Haus, Horn and Hut, is
+pronounced like German ich, e.g. [König and lustig] (see 1.5).
+
+h h at the beginning of a words, as in [Haus, Horn  Hut], is
 pronounced as in English. After a vowel it is not pronounced
-but simply serves to show that the vowel is long, e.g. Floh,
-sehen, Schuhe (see 2.1). Sometimes this h is superfl uous
-to pronunciation but spelling requires it, e.g. sieh and sie are
+but simply serves to show that the vowel is long, e.g. 
+[Floh, sehen, Schuhe] (see 2.1). Sometimes this h is superfluous
+to pronunciation but spelling requires it, e.g. [sieh  sie] are
 pronounced the same, as are liehst (? leihen ‘to lend’) and liest
-(? lesen ‘to read’).
+(? lesen ‘to read’). [liehst leihen liest lesen]
 
-j j is pronounced ‘y’, e.g. Jahr, jeder, Joch.
+j j is pronounced ‘y’, e.g. [Jahr, jeder, Joch].
 j in French loanwords is pronounced like the ‘s’ in ‘leisure’, e.g.
-Journalist.
+[Journalist].
 
-k k is pronounced as in English, e.g. Katze, Klasse, kommen.
+k k is pronounced as in English, e.g. [Katze, Klasse, kommen].
 
 l l in all positions is pronounced as in ‘light’ never as in ‘well’, i.e. it
-is never a ‘thick l’, e.g. Lohn, Licht, wählen, wohl.
+is never a ‘thick l’, e.g. [Lohn, Licht, wählen, wohl].
 
-m m is pronounced as in English, e.g. Mann, Lämmer, Lehm.
+m m is pronounced as in English, e.g. [Mann, Lämmer, Lehm].
 
-n n is pronounced as in English, e.g. nein, Tonne, zehn.
+n n is pronounced as in English, e.g. [nein, Tonne, zehn].
 
-ng ng is always pronounced as in ‘singer’, never as in ‘fi nger’, e.g.
-Finger, lang, Sänger, Zeitung.
+ng ng is always pronounced as in ‘singer’, never as in ‘finger’, e.g.
+[Finger, lang, Sänger, Zeitung].
 
-p p is pronounced as in English, e.g. Penner, Lippe, kaputt. At
+
+
+p p is pronounced as in English, e.g. [Penner, Lippe, kaputt]. At
 the beginning of a word, where it is rare, it is lightly aspirated, as
 in English.
 
 pf pf is pronounced as the spelling suggests, i.e. both the p and the f
 are articulated, but this can be hard for English speakers at
-the beginning of a word, e.g. Pfeffer, Tropfen, Kopf (see pf
+the beginning of a word, e.g. [Pfeffer, Tropfen, Kopf] (see pf
 under 1.5).
 
 ph ph is still used in some loanwords and is pronounced as an ‘f’, e.g.
-Photograph, Philosophie.
+[Photograph, Philosophie].
 
 q q always occurs in combination with u, as in English, and
-together they are pronounced ‘kv’, e.g. Qualität, Quelle,
-Quadratmeter.
+together they are pronounced ‘kv’, e.g. [Qualität, Quelle,Quadratmeter].
 
 r In most of the German-speaking region r before a vowel is
 pronounced by slightly trilling the uvula in the back of your
@@ -202,129 +182,127 @@ throat, but there are areas where, and individuals who, pronounce
 it by trilling their tongue against their alveolar ridge, i.e. the ridge
 of gum behind the top teeth, as in Italian. Either way r must be
 trilled, which usually means most English speakers have trouble
-with this sound, e.g. Reh, reißen, Brot, schreiben.
+with this sound, e.g. [Reh, reißen, Brot, schreiben].
+
 After a vowel an r is vocalized, i.e. it is pronounced as a vowel,
-e.g. in er, mir and Uhr you pronounce the vowel as you
+e.g. [in er, mir Uhr] you pronounce the vowel as you
 would expect it to be pronounced and follow it by ‘uh’, as in
 the colloquial question form ‘huh?,’ i.e. air-uh, mee-uh, oo-uh.
 The common ending -er is simply pronounced ‘uh’; alternatively
 you could say it resembles the second syllable in ‘teacher’, but
-imagine this being spelt ‘teacha’, e.g. Schuster (shoos-tuh). The
-ending -ern is pronounced ‘airn’, not trilling the r, e.g. wandern
+imagine this being spelt ‘teacha’, e.g. [Schuster] (shoos-tuh). The
+ending -ern is pronounced ‘airn’, not trilling the r, e.g. [wandern]
 (vundairn).
 Note how -er and -e differ in pronunciation at the end of words:
-Mütter/Feuer (with ‘uh’), but Hütte/Treue (with the vowel in
+[Mütter/Feuer] (with ‘uh’), but [Hütte/Treue] (with the vowel in
 the second syllable in British English ‘rubber’; in American English
-this fi nal ‘r’ is pronounced, but not in British English).
+this final ‘r’ is pronounced, but not in British English).
 
 s s at the beginning and in the middle of a word is pronounced ‘z’,
-e.g. sollen, lesen, Gänse. S at the end of a word is pronounced
-‘s’, e.g. es, Gans, Glas. The spelling ss is always pronounced ‘s’
-too, e.g. Flüsse, Guss, schoss.
+e.g. [sollen, lesen, Gänse]. S at the end of a word is pronounced
+‘s’, e.g. [es, Gans, Glas]. The spelling ss is always pronounced ‘s’
+too, e.g. [Flüsse, Guss, schoss].
 
 ß ß, which only occurs in the middle and at the end of words, is
-always pronounced ‘s’, e.g. bloß, reißen, schießen. ß indicates
+always pronounced ‘s’, e.g. [bloß, reißen, schießen]. ß indicates
 that any vowel preceding it is long (see 2.5).
-sch sch is pronounced ‘sh’, e.g. Schule, fi schen, Tisch.
-sp sp at the beginning of a word is pronounced ‘shp’, e.g. spät,
-Spaten, Spatz. This is also the case in compounds and derived
+sch sch is pronounced ‘sh’, e.g. [Schule, fischen, Tisch].
+
+sp sp at the beginning of a word is pronounced ‘shp’, e.g. 
+[spät, Spaten, Spatz]. This is also the case in compounds and derived
 words where the sp is still seen as being at the ‘beginning’ of the
-word, e.g. Aussprache, verspätet (? spät).
+word, e.g. [Aussprache, verspätet, spät].
 In the middle of a word, however, sp is pronounced ‘sp’, e.g.
-lispeln, Wespe.
+[lispeln, Wespe].
 
-st There are parallels here with the way sp is pronounced. At the
-beginning of a word it is pronounced ‘sht’, e.g. Stadt, stehen,
-stoßen. This is also the case in compounds and derived words
+There are parallels here with the way sp is pronounced. At the
+beginning of a word it is pronounced ‘sht’, e.g. 
+[Stadt, stehen,stoßen]. 
+
+This is also the case in compounds and derived words
 where the st is still seen as being at the ‘beginning’ of the word,
-e.g. Ausstoß, Großstadt, verstehen (? stehen).
+e.g. [Ausstoß, Großstadt, verstehen ,stehen].
 In the middle and at the end of a word, however, st is
-pronounced ‘st’, e.g. Gast, gestern, bist.
+pronounced ‘st’, e.g. [Gast, gestern, bist].
 
-t t is pronounced as in English, e.g. Tag, rot, bitte. At the
+t t is pronounced as in English, e.g. [Tag, rot, bitte]. At the
 beginning of a word it is aspirated, as in English.
 In French loanwords ending in -tion, t is pronounced ‘ts’, e.g.
-Nation, national.
-tsch tsch is pronounced like ‘tch’ in ‘butcher’, e.g. Deutsch,
-Dolmetscher, Quatsch. It only occurs at the beginning in
-foreign words, e.g. Tschechien, tschüs.
+[Nation, national].
+tsch tsch is pronounced like ‘tch’ in ‘butcher’, e.g. 
+[Deutsch,Dolmetscher, Quatsch.] 
+It only occurs at the beginning in
+foreign words, e.g. [Tschechien, tschüs.]
 
-v v is pronounced ‘f’ in true German words, e.g. Vater, von, Volk.
+v v is pronounced ‘f’ in true German words, e.g. [Vater, von, Volk].
 At the beginning of loanwords v is pronounced as in English, e.g.
-Vase, Veteran, Video, Violine.
+[pVase, Veteran, Video, Violine].
 
 v occurs at the end of some loanwords, in which case it is
-pronounced ‘f’ (i.e. it is devoiced), but when v is no longer in fi nal
-position, it is pronounced ‘v’, e.g. aktiv, passiv, but aktive.
+pronounced ‘f’ (i.e. it is devoiced), but when v is no longer in final
+position, it is pronounced ‘v’, e.g. [aktiv, passiv, but aktive].
 
-w w is pronounced ‘v’, e.g. Wasser, wir, Wurm.
+w w is pronounced ‘v’, e.g. [Wasser, wir, Wurm].
 
-x x, which is rare in German, is always pronounced ‘ks’, e.g. nix,
-Xylophon.
+x x, which is rare in German, is always pronounced ‘ks’, e.g. [nix,
+Xylophon].
 
-y y is pronounced the same as long ü, e.g. typisch, Zylinder,
-zynisch.
+y y is pronounced the same as long ü, e.g. [typisch, Zylinder,
+zynisch].
 
 z z is pronounced ‘ts’, e.g. Polizei, zählen, zittern. Sometimes
 it occurs together with t but the pronunciation is still ‘ts’, e.g.
-Glotze, Platz, Spritze.
+[Glotze, Platz, Spritze].
 
                 CHAPTER 1.4 Stress
 
-As a general rule the fi rst syllable of a German word bears the stress, e.g.
-ankommen, Bruder, Rathaus, Wörterbuch.
+As a general rule the first syllable of a German word bears the stress.
+[ankommen, Bruder, Rathaus, Wörterbuch].
 
-The verbal prefi xes be-, emp-, ent-, er-, ge-, ver- and zer-, which are also
-found in nouns derived from verbs, are never stressed (compare the stress in
-‘believe’, ‘release’, ‘forgive’ in English), e.g. Bezug, empfehlen, entkommen,
-erreichen, gestehen, Verkauf, zerbrechen. Some additional verbal prefi xes
-are not stressed, e.g. durchsuchen, vollenden, widersprechen, while others
-are, e.g. anrufen, ausgehen, wiedersehen (see separable and inseparable
-verbs 10.9.1 to 10.9.3).
+The verbal prefi xes be-, emp-, ent-, er-, ge-, ver- and zer-, 
+which are also found in nouns derived from verbs, are never stressed 
+ [Bezug, empfehlen, entkommen, erreichen, gestehen, Verkauf, zerbrechen].
+ 
+ Some additional verbal prefixes are not stressed.
+ [durchsuchen, vollenden, widersprechen,anrufen, ausgehen, wiedersehen ]
 
-Many foreign loanwords, usually of French origin, stress the fi nal syllable
-as in the source language, e.g. Agent, Akzent, Bäckerei, kaputt, Partei,
-Pelikan, Philosoph, Planet, Satellit, Student. Loanwords ending in e stress
-the second last syllable, e.g. Forelle, Garage, Kassette, Kusine.
+
+Many foreign loanwords, usually of French origin, stress the final syllable
+as in the source language,
+[Agent, Akzent, Bäckerei, kaputt, Partei,Pelikan, Philosoph, Planet, Satellit, Student]. 
+
+Loanwords ending in e stress the second last syllable.
+[Forelle, Garage, Kassette, Kusine.]
 
 Verbs ending in -ieren, mostly derived from French, are also stressed on the
-second last syllable, e.g. buchstabieren, renovieren, studieren.
+second last syllable, 
+ [buchstabieren, renovieren, studieren.]
 
                 CHAPTER 1.5 Regional variants
 
+In the north of Germany
+distinction between [gäbe/gebe  nähme/nehme],  is not made.
 
-                As German is spoken over a very wide area and in several countries, there
-is great variety in regional pronunciation. Some of these variations are
-considered standard, not dialect; only these variants are dealt with here.
+In the north of Germany 
+many long vowels ending in a consonant are pronounced short [Glas, Tag, Zug].
 
+In the north of Germany 
+final g is pronounced like German ch [ Tag, Teig, Weg, zog,Zug]
 
-In the north of Germany long ä is pronounced ‘eh’, i.e. the same as German
-long e, and thus the distinction between gäbe/gebe and nähme/nehme, for
-example, is not made.
-
-In the north of Germany many long vowels in closed syllables (i.e. those
-ending in a consonant) are pronounced short, e.g. Glas, Tag, Zug.
-In the north of Germany final g is pronounced like German ch (both ich-
-and ach-Laut, depending on the preceding sound), e.g. Tag, Teig, Weg, zog,
-Zug.
-
-In verbs before the endings -t and -te/-ten etc. g is also pronounced in this
-way, e.g. liegt, gesagt, legte, sagte; in standard German the g in these words
+[liegt, gesagt, legte, sagte]; in standard German the g in these words
 is automatically pronounced ‘k’ due to the influence of the following t.
 
-In the north the ending -ung is often pronounced ‘oonk’, e.g. Zeitung,
-Rechnung.
+In the north 
+the ending -ung is often pronounced ‘oonk’,[Zeitung, Rechnung].
 
-Over large areas of northern and central Germany pf at the beginning of
-a word is likely to be pronounced ‘f’, e.g. Pfeffer, Pfund. If you are having
-trouble pronouncing pf in such words, simply say Feffer and Fund and no
-one will even notice you are not saying pf.
+
 
 In southern Germany and Austria, sp and st are pronounced ‘shp’ and ‘sht’
-in all positions, not just initially, e.g. bist, Australien, Wespe.
+in all positions, not just initially, e.g. [bist, Australien, Wespe].
 The reverse can occur in the far north of Germany where sp and st might
-be pronounced ‘sp’ and ‘st’ in all positions, e.g. Stadt, spät.
+be pronounced ‘sp’ and ‘st’ in all positions, e.g. [Stadt, spät].
 
+*
 In the south of Germany and in Austria k, p and t are commonly
 pronounced in a way that makes them barely distinguishable from g, b and
-d respectively, e.g. kaufen ? gaufen, Parade ? Barade, trinken ? drinken.
+d respectively, e.g. [kaufen ? gaufen, Parade ? Barade, trinken ? drinken].
