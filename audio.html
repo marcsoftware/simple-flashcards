@@ -42,6 +42,10 @@ function init() {
   page=parseInt(getCookie("page"));
   doGet("study_material/"+file_name+'.txt');
 
+    
+  
+ 
+ 
   
 }
 
@@ -79,15 +83,6 @@ function parseFile(){
         let data = await response.text();
          file = data.split("\n"); 
          //file.shift();// shift() deletes the empty element.
-
-         // get the words only
-         data=data.match(/\[.*\]/g);
-         data=data.join();
-         data=data.match(/[^\[\]\,\ ]+/g);
-         data=data.join("<br/>");
-
-         document.getElementById('data').innerHTML=data;
-         
         
         parseFile();
         // handle data
@@ -164,7 +159,7 @@ function compare(left,right){
 
 
 //-----------------------------------------------------------------------------
-// german has special letters like äöüßÄÖÜ 
+// german has special letters like ä ö ü ß Ä Ö Ü 
 // this function takes m`ar`s and turns it to mäß
 //  example : m`ar`s => mäß
 //-----------------------------------------------------------------------------
@@ -188,8 +183,8 @@ function feedback(text){
 }
 </script>
 <div>
-<pre id='data'>x</pre><br/>
-<span id='page'>x</span><br/>
+
+<span id='page'></span><br/>
 <span id='que'></span>
 
 <input type="text" id='input' onkeyup='checkInput(this.value)'/> 
