@@ -60,10 +60,10 @@ function parseFile(){
     
     document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
 
-    var both=file[page].split("====");
-    document.getElementById("que").innerHTML=both[1];
+    
+    document.getElementById("que").innerHTML=file[page];
 
-     ans_key = both[0].trim();
+     ans_key = file[page].trim();
     document.getElementById("ans_key").innerHTML=ans_key;
 }
 
