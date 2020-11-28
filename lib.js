@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// german has special letters like ä ö ü ß Ä Ö Ü 
+// german has special letters like äöüßÄÖÜ 
 // this function takes m`ar`s and turns it to mäß
 //  example : m`ar`s => mäß
 //-----------------------------------------------------------------------------

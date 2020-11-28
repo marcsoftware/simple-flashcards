@@ -89,7 +89,7 @@ function init() {
          document.getElementById('data').innerHTML=data;
          
         
-        parseFile();
+        
         // handle data
     }
 }
@@ -99,7 +99,8 @@ function init() {
 //
 //-----------------------------------------------------------------------------
 function wrapAudio(x){
-  return `<div class='quiz'>${x}</div>`;
+  var y=x.replace(/[a-zA-ZäöüßÄÖÜ]+/g,"-[$1]-");
+  return `<div class='quiz'>${y}</div>`;
 }
 
 //-----------------------------------------------------------------------------
