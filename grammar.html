@@ -80,7 +80,7 @@ function init() {
          //file.shift();// shift() deletes the empty element.
 
          // parse the [] to make mini-quizes
-         data=data.replace(/(\[.*\])/g,"<div class='quiz'>$1</div>");
+         data=data.replace(/(\[.*\])/g,wrapAudio("$1"));
          data=data.split("\n");
          data=data.join("</div><div class='line' >"); 
          data = "<div class='line' >"+data+"/div>"
@@ -92,6 +92,14 @@ function init() {
         parseFile();
         // handle data
     }
+}
+
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function wrapAudio(x){
+  return `<div class='quiz'>${x}</div>`;
 }
 
 //-----------------------------------------------------------------------------
