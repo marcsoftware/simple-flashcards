@@ -1,10 +1,9 @@
                     CHAPTER 1.1 VOWELS
 
-In German spelling two consonants after a vowel will normally indicate it is short
-  whereas only one consonant indicates it is long 
-  (e.g. Kamm ‘comb’ SHORT)
- (e.g. kam ‘came’ LONG)
-
+Two consonants after a vowel often indicate it is short
+whereas only one consonant indicates it is long 
+(e.g. Kamm ‘comb’ SHORT)
+(e.g. kam ‘came’ LONG)
 
 LETTER a
 short : [kamm Hand Mann statt] - 'comb'
@@ -37,7 +36,6 @@ short : [Löcher, Töchter  zwölf] - ‘b(i)rd’
 
 long :  [Flöte, Löhne  schön] – ‘b(i)rd’  with the lips as rounded as you can make them.
 
-
 LETTER u
 short : [Butt, Truppe   Zunge] – ‘p(u)t’.
 long:  [Buch, Fuß   gut] –‘f(oo)d’ but with less lip rounding. 
@@ -57,7 +55,6 @@ German has only three diphthong sounds (ei, au, eu)
 Diphthongs ei 
  Blei, Stein and Verleih - 'f(i)ght'
 
-
 Diphthongs ai (rare)
  Hain, Laib  Mai - 'f(i)ght' 
 
@@ -74,7 +71,6 @@ enttäuschen, Kräuter  Schläuche -'b(oy)'.
 
 There are few problems lurking here for English speakers.
 
-
 Problem b
 b in some words likeis identical to that in ‘bed’.
   [Bein, Krabbe  loben] 
@@ -90,7 +86,6 @@ Problem ch
 ch after a, o, u and au is pronounced as in Scottish ‘loch’. 
 The Germans call this the ach-Laut, a hard sound.
 [Bach, Loch, Buch  rauchen]
-
 
 ch after e, i, ä, äu, ö, ü as well as the consonants l, n and r)
  is a softer sound than when it follows a, o, u and au.
@@ -118,7 +113,6 @@ source language, e.g.
 1) [Chaos, Chlor, Charakter]; 
 2) [Chance,chauvinistisch, Chef] 
 3) [Chemie, China].
-
 
 ck ck, found in the middle and at the end of words, is pronounced ‘k’
 [lecker, Fleck].
@@ -168,8 +162,6 @@ n is pronounced as in English
 ng is always pronounced as in ‘singer’, never as in ‘finger’.
 [Finger, lang, Sänger, Zeitung].
 
-
-
 p is pronounced as in English.
 [Penner, Lippe, kaputt]. 
 
@@ -213,7 +205,6 @@ The ending -ern is pronounced ‘airn’, not trilling the r
 Note how -er and -e differ in pronunciation at the end of words:
 [Mütter/Feuer]  [Hütte/Treue] 
 
-
 s at the beginning and in the middle of a word is pronounced ‘z’,
 [sollen, lesen, Gänse]. 
 
@@ -226,7 +217,6 @@ The spelling ss is always pronounced ‘s’ too.
 ß, which only occurs in the middle and at the end of words, is always pronounced ‘s’.
 ß indicates that any vowel preceding it is long.
 [bloß, reißen, schießen]. 
-
 
 sch is pronounced ‘sh’.
 [Schule, fischen, Tisch].
@@ -299,7 +289,6 @@ which are also found in nouns derived from verbs, are never stressed
  Some additional verbal prefixes are not stressed.
  [durchsuchen, vollenden, widersprechen,anrufen, ausgehen, wiedersehen ]
 
-
 Many foreign loanwords, usually of French origin, stress the final syllable
 as in the source language,
 [Agent, Akzent, Bäckerei, kaputt, Partei,Pelikan, Philosoph, Planet, Satellit, Student]. 
@@ -333,8 +322,6 @@ In the north
 the ending -ung is often pronounced ‘oonk’.
 [Zeitung, Rechnung].
 
-
-
 In southern Germany and Austria, sp and st are pronounced ‘shp’ and ‘sht’
 in all positions, not just initially.
 [bist, Australien, Wespe]
@@ -342,7 +329,6 @@ in all positions, not just initially.
 The reverse can occur in the far north of Germany where sp and st might
 be pronounced ‘sp’ and ‘st’ in all positions.
 [Stadt, spät]
-
 
 In the south of Germany and in Austria 
 k, p and t are commonly
