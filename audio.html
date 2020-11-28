@@ -74,11 +74,11 @@ function parseFile(){
     document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
 
     
-    document.getElementById("que").innerHTML=file[page];
+    //document.getElementById("que").innerHTML=file[page];
     playAudio(file[page]);
 
      ans_key = file[page].trim();
-    document.getElementById("ans_key").innerHTML=ans_key;
+    //document.getElementById("ans_key").innerHTML=ans_key;
 }
 
 
@@ -109,9 +109,21 @@ function parseFile(){
 function checkInput(input){
     if(input==""){
       playAudio(ans_key);
+      document.getElementById('ans_key').innerHTML=ans_key;
+        return;
+    }
+
+    if(input=="?"){
+      
+      document.getElementById('ans_key').innerHTML=ans_key;
+      document.getElementById('input').value="";
+
+      
         return;
     }
     
+    document.getElementById('ans_key').innerHTML=""; // if user starts typing hide the key
+
     var check=interpolate(input) ;
     if(compare(check,ans_key)){
         handleCorrectAns();
