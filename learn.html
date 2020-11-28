@@ -87,7 +87,7 @@ function init() {
          //file.shift();// shift() deletes the empty element.
 
          // parse the [] to make mini-quizes
-         data=data.replace(/(\[.*\])/g,function(v) { return wrapAudio(v); });
+         data=data.replace(/(\{[^}]+[}])/g,function(v) { return wrapQuiz(v); });
 
          data=data.split("\n");
          data=data.join("</div><div class='line' >"); 
@@ -106,7 +106,7 @@ function init() {
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
-function wrapAudio(x){
+function wrapQuiz(x){
   return x.replace(/([a-zA-ZäöüßÄÖÜ]+)/g,"<input type='button' class='word' value='$1📢' onmouseup='playAudio(this.value)'/>");
 
   
