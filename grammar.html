@@ -14,6 +14,11 @@
       background-color: blue;
       display:inline;
     }
+
+    .line{
+        background-color: red;
+        display :block;
+    }
 </style>
 <body>
 
@@ -71,6 +76,9 @@ function init() {
 
          // parse the [] to make mini-quizes
          data=data.replace(/(\[.*\])/g,"<div class='quiz'>$1</div>");
+         data=data.split("\n");
+         data=data.join("</div><div class='line' >"); 
+         data = "<div class='line' >"+data+"/div>"
          
 
          document.getElementById('data').innerHTML=data;
