@@ -9,7 +9,7 @@
   border: 3px solid white;
   padding: 10px;
   padding:1px;
-        margin-top:1px;
+        margin-top:0px;
         margin-bottom: :1px;
     }
 
@@ -19,9 +19,9 @@
     }
 
     .line{
-        background-color: white;
+        
         width: 75%;
-       
+        
         word-wrap: break-word;
     }
 </style>
@@ -80,10 +80,11 @@ function init() {
          //file.shift();// shift() deletes the empty element.
 
          // parse the [] to make mini-quizes
-         data=data.replace(/(\[.*\])/g,wrapAudio("$1"));
-         //data=data.split("\n");
-         //data=data.join("</div><div class='line' >"); 
-         //data = "<div class='line' >"+data+"/div>"
+         data=data.replace(/(\[.*\])/g,function(v) { return wrapAudio(v); });
+
+         data=data.split("\n");
+         data=data.join("</div><div class='line' >"); 
+         data = "<div class='line' >"+data+"/div>"
          
 
          document.getElementById('data').innerHTML=data;
@@ -99,9 +100,9 @@ function init() {
 //
 //-----------------------------------------------------------------------------
 function wrapAudio(x){
-  var y=x.replace(/[a-zA-ZäöüßÄÖÜ]+/g,"-[$1]-");
+  return x.replace(/([a-zA-ZäöüßÄÖÜ]+)/g,"<div class='quiz'>-$1-</div>");
 
-  return `---<div class='quiz'>$1</div>`;
+  
 }
 
 //-----------------------------------------------------------------------------
