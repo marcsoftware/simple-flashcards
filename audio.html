@@ -55,7 +55,12 @@ function init() {
 function playAudio(word){
 
   var audio = new Audio("audio-de/"+word.trim()+".wav");
-audio.play();
+  try{
+    audio.play();
+  }catch(e){
+    console.log("USER MUST ENABLE AUTO PLAY!!!!!!!!!!!!!!!!");
+    console.log(e);
+  }
 
 }
 
