@@ -117,6 +117,7 @@ function checkInput(input){
     if(input==" "){ //if user enter space then flash the word and replay the audio
       playAudio(ans_key);
       document.getElementById('ans_key').innerHTML=ans_key;
+      document.getElementById('input').value="";
       setTimeout(hideAnswere, 150);
         return;
     }
