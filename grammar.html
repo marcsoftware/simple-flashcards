@@ -9,11 +9,16 @@
   border: 3px solid white;
   padding: 10px;
     }
+
+    .quiz{
+      background-color: blue;
+      display:inline;
+    }
 </style>
 <body>
 
 
-
+ <script src="lib.js"></script> 
 
 
 <script>
@@ -47,22 +52,6 @@ function init() {
 
 
 
-//-----------------------------------------------------------------------------
-// draw the question
-//-----------------------------------------------------------------------------
-var page;
-function parseFile(){
-    
-    
-    document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
-
-    var both=file[page].split("====");
-    document.getElementById("que").innerHTML=both[1];
-
-     ans_key = both[0].trim();
-    document.getElementById("ans_key").innerHTML=ans_key;
-}
-
 
 
 
@@ -80,11 +69,9 @@ function parseFile(){
          file = data.split("\n"); 
          //file.shift();// shift() deletes the empty element.
 
-         // get the words only
-         data=data.match(/\[.*\]/g);
-         data=data.join();
-         data=data.match(/[^\[\]\,\ ]+/g);
-         data=data.join("<br/>");
+         // parse the [] to make mini-quizes
+         data=data.replace(/(\[.*\])/g,"<div class='quiz'>$1</div>");
+         
 
          document.getElementById('data').innerHTML=data;
          
@@ -131,61 +118,10 @@ function getCookie(cname) {
   return 0;
 }
 
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function handleCorrectAns(){
-    document.getElementById("feedback").innerHTML='yes';
-    document.getElementById('input').value='';
-    page++;
-
-if(page>=file.length-1){
-  page=0;
-  document.getElementById("feedback").innerHTML='----------------------';
-
-}
-    document.cookie = file_name+"page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC;SameSite=None; Secure"; 
-
-    parseFile();
-}
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function compare(left,right){
-    left=left.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
-    right=right.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
 
 
-    feedback(left);
-    left=left.toLowerCase().trim();
-    right=right.toLowerCase().trim();
-    return left === right;
-}
 
 
-//-----------------------------------------------------------------------------
-// german has special letters like äöüßÄÖÜ 
-// this function takes m`ar`s and turns it to mäß
-//  example : m`ar`s => mäß
-//-----------------------------------------------------------------------------
-function interpolate(text){
-    text=text.replace("`a","ä");
-    text=text.replace("`o","ö");
-    text=text.replace("`u","ü");
-    text=text.replace("`s","ß");
-    text=text.replace("`A","Ä");
-    text=text.replace("`O","ß");
-    text=text.replace("`U","Ü");
-    return text;
-}
-
-//-----------------------------------------------------------------------------
-//
-//-----------------------------------------------------------------------------
-function feedback(text){
-  console.log('key'+ans_key);
-    document.getElementById('color').innerHTML=text;
-}
 </script>
 <div>
 <pre id='data'>x</pre><br/>
