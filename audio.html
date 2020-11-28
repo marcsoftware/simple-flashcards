@@ -49,7 +49,15 @@ function init() {
   
 }
 
+//-----------------------------------------------------------------------------
+// play audio
+//-----------------------------------------------------------------------------
+function playAudio(word){
 
+  var audio = new Audio("audio-de/"+word.trim()+".wav");
+audio.play();
+
+}
 
 //-----------------------------------------------------------------------------
 // draw the question
@@ -62,6 +70,7 @@ function parseFile(){
 
     
     document.getElementById("que").innerHTML=file[page];
+    playAudio(file[page]);
 
      ans_key = file[page].trim();
     document.getElementById("ans_key").innerHTML=ans_key;
