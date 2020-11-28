@@ -60,11 +60,11 @@ function init() {
          //file.shift();// shift() deletes the empty element.
 
          // parse the [] to make mini-quizes
-         //data=data.replace(/(\[.*\])/g,function(v) { return wrapAudio(v); });
+         data=data.match(/(\[.*\])/g);
 
-         data=data.split("\n");
-         data=data.join("</div><div class='line' >"); 
-         data = "<div class='line' >"+data+"/div>"
+         data=data.join(" ").match(/[a-zA-ZäöüßÄÖÜ]+/g);
+         
+         data =data.join("<br/>");
          
 
          document.getElementById('data').innerHTML=data;
