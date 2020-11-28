@@ -26,7 +26,10 @@
     }
 
     .word{
-      background-color: 
+      background-color: white;
+      margin:0px;
+      border: none;
+      outline:none
     }
 </style>
 <body>
@@ -104,7 +107,7 @@ function init() {
 //
 //-----------------------------------------------------------------------------
 function wrapAudio(x){
-  return x.replace(/([a-zA-ZäöüßÄÖÜ]+)/g,"<input type='button' class='word' value='$1' onmouseup='playAudio(this.value)'/>");
+  return x.replace(/([a-zA-ZäöüßÄÖÜ]+)/g,"<input type='button' class='word' value='$1📢' onmouseup='playAudio(this.value)'/>");
 
   
 }
