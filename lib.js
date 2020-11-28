@@ -13,3 +13,18 @@ function interpolate(text){
     text=text.replace(";U","Ü");
     return text;
 }
+
+//-----------------------------------------------------------------------------
+// play audio
+//-----------------------------------------------------------------------------
+function playAudio(word){
+
+  var audio = new Audio("audio-de/"+word.trim()+".wav");
+  try{
+    audio.play();
+  }catch(e){
+    console.log("USER MUST ENABLE AUTO PLAY!!!!!!!!!!!!!!!!");
+    console.log(e);
+  }
+
+}

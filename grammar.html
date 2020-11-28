@@ -24,6 +24,10 @@
         
         word-wrap: break-word;
     }
+
+    .word{
+      background-color: 
+    }
 </style>
 <body>
 
@@ -100,7 +104,7 @@ function init() {
 //
 //-----------------------------------------------------------------------------
 function wrapAudio(x){
-  return x.replace(/([a-zA-ZäöüßÄÖÜ]+)/g,"<div class='quiz'>-$1-</div>");
+  return x.replace(/([a-zA-ZäöüßÄÖÜ]+)/g,"<input type='button' class='word' value='$1' onmouseup='playAudio(this.value)'/>");
 
   
 }
