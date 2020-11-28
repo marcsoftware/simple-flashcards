@@ -81,9 +81,9 @@ function init() {
 
          // parse the [] to make mini-quizes
          data=data.replace(/(\[.*\])/g,wrapAudio("$1"));
-         data=data.split("\n");
-         data=data.join("</div><div class='line' >"); 
-         data = "<div class='line' >"+data+"/div>"
+         //data=data.split("\n");
+         //data=data.join("</div><div class='line' >"); 
+         //data = "<div class='line' >"+data+"/div>"
          
 
          document.getElementById('data').innerHTML=data;
@@ -100,7 +100,8 @@ function init() {
 //-----------------------------------------------------------------------------
 function wrapAudio(x){
   var y=x.replace(/[a-zA-ZäöüßÄÖÜ]+/g,"-[$1]-");
-  return `<div class='quiz'>${y}</div>`;
+
+  return `---<div class='quiz'>$1</div>`;
 }
 
 //-----------------------------------------------------------------------------
