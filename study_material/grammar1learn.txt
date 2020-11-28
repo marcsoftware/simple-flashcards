@@ -1,17 +1,55 @@
-                    CHAPTER 1.1 VOWELS
+
+
+
+shortcut type umlauts on this website with out installing a german keyboard.
+    äöüß
+
+       q: type [a to make ä 
+       k: [ä]
+
+
+
+        ß actually makes an 'ss' sound.
+        
+        q:type [s to type ß. 
+        k:[ß]
+
+
+
 
 Two consonants after a vowel often indicate it is short
 whereas only one consonant indicates it is long 
-(e.g. Kamm ‘comb’ SHORT)
-(e.g. kam ‘came’ LONG)
+(e.g. Kamm ‘kOHmm’ SHORT)
+(e.g. kam ‘kAm’ LONG)
 
-LETTER a
-short : [kamm Hand Mann statt] - 'comb'
-long  : [kam Vater zahlen]     - 'came'
+    
+    audio:kamm
+     multi:[kOHm,kAm]
+    
 
-LETTER ä
-short : [lässt, kälter  Männer] - ‘bed’
- long : [gäbe, Hähne  Väter]    - ‘hair’.
+
+    audio:kam
+     multi:[kAm,kOHm]
+    
+
+
+
+LETTER ä  sounds like e in bed or ai in hair.
+short : [lässt,   Männer] - ‘bed’
+ long : [gäbe,   Väter]    - ‘hair’.
+ 
+
+audio:Hähne
+    multi:[hehne, hAIhne]
+    
+    audio:kälter
+    multi:[kElter,KAIlter]
+
+
+ 
+
+    
+
 
 LETTER e
 short :  [Bett, Henne  Sekt] – ‘bed’. identical to German short ä.
