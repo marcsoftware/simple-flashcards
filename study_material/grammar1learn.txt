@@ -1,7 +1,7 @@
 
 
-
-Shortcut type umlauts ä,ö,ü and ß on this website with out installing a german keyboard.
+<h3>How to type strange letters.</h3>
+The Shortcut to type umlauts ä,ö,ü and ß on this website with out installing a german keyboard.
 This will work only on this website.
     
 {
@@ -13,6 +13,7 @@ q:type ';s' to make a ß. <br/> ß actually makes an 'ss' sound.
 k:ß
 }
 
+<h3>letter A</h3>
 Two consonants after a vowel often indicate it is short
 whereas only one consonant indicates it is long 
 (e.g. Kamm ‘kOHmm’ SHORT)
@@ -31,71 +32,62 @@ fake:?❔?
  }   
 
 
-
-LETTER ä  sounds like e in bed or ai in hair.
+<h3>letter ä</h3>
+ ä sounds like e in bed or ai in hair.
 short : [lässt,   Männer] - ‘bed’
- long : [gäbe,   Väter]    - ‘hair’.
- 
+long : [gäbe,   Väter]    - ‘hair’.
  {
 
     audio:Männer
      multi:MEnner,Mainner
  }   
-
  {
-
     audio:Manner
      multi:MAInner,Menner
  } 
-
 {
-
 audio:Hähne
     multi:hehne, hAIhne
  }
-
  {   
-
     audio:kälter
     multi:kElter,KAIlter
 }
-LETTER e
+
+<h3>letter e</h3>
 short :  [Bett, Henne  Sekt] – ‘bed’. identical to German short ä.
 even shorter : [Beruf, Tante  zahlen]  –  ‘b`elieve’ or  ‘wood`en’. 
 NO SILENT E : [Schule Kassette] -‘rubb(er)’
 long(always pure): [lesen, Planet  Tee] - ‘tr(a)y’
 
-LETTER i
-
+<h3>letter i</h3>
 short: [bitter, ich  Pilz] -‘p(i)t’
 long(this is rare) : [Liga wider] – compare the vowel in ‘read’.
 
-LETTER ie
+<h3>letter ie</h3>
 long(always): [liegen lieh sie]–  ‘f(ee)’.
 
-LETTER o
+<h3>letter o</h3>
 short :  [Loch, Schloss  Stollen] -‘l(o)t’.
 long(always pure):  [Floh, rot  Ton] –  ‘p(o)st’
 
-LETTER ö
+<h3>letter ö</h3>
 short : [Löcher, Töchter  zwölf] - ‘b(i)rd’
-
 long :  [Flöte, Löhne  schön] – ‘b(i)rd’  with the lips as rounded as you can make them.
 
-LETTER u
+<h3>letter u</h3>
 short : [Butt, Truppe   Zunge] – ‘p(u)t’.
 long:  [Buch, Fuß   gut] –‘f(oo)d’ but with less lip rounding. 
 long ü and long u , Make sure you clearly distinguish between these sounds. 
 long u ,This sound is commonly pronounced too short by English speakers.
 
-LETTER ü 
+<h3>letter ü</h3>
 short: [fünf, Flüsse  Pfütze] - ‘t(oo)’ but make it shorter and with the
 lips as rounded and tightened as you can make them, as if trying to whistle.
 long :  [fühlen, Füße  trübe] -‘f(oo)d’ but make it longer and with more
 lip rounding and tightening, as if trying to whistle.
-
-                        CHAPTER 1.2 Diphthongs
-
+ 
+<h3>- chapter 1.2 Diphthongs -</h3>
 German has only three diphthong sounds (ei, au, eu)
 
 Diphthongs ei 
