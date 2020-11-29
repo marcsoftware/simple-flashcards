@@ -101,7 +101,7 @@ Diphthongs äu
     audio:Schläuche
      multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
  } 
-                CHAPTER 1.3 Consonants
+                <h3>CHAPTER 1.3 Consonants</h3>
 
 There are few problems lurking here for English speakers.
 
@@ -176,7 +176,8 @@ j in French loanwords is pronounced like the ‘s’ in ‘leisure’
 
 pf is pronounced as the spelling suggests. both the p and the f
 are articulated, but this can be hard for English speakers at
-the beginning of a word
+the beginning of a word. 
+And In some german regions it is just pronouced as an f.
 [Pfeffer, Tropfen, Kopf]
 
 
@@ -281,61 +282,5 @@ z is pronounced ‘ts’, e.g. Polizei, zählen, zittern. Sometimes
 it occurs together with t but the pronunciation is still ‘ts’.
 [Glotze, Platz, Spritze].
 
-                CHAPTER 1.4 Stress
 
-As a general rule the first syllable of a German word bears the stress.
-[ankommen, Bruder, Rathaus, Wörterbuch].
-
-The verbal prefi xes be-, emp-, ent-, er-, ge-, ver- and zer-, 
-which are also found in nouns derived from verbs, are never stressed 
- [Bezug, empfehlen, entkommen, erreichen, gestehen, Verkauf, zerbrechen].
- 
- Some additional verbal prefixes are not stressed.
- [durchsuchen, vollenden, widersprechen,anrufen, ausgehen, wiedersehen ]
-
-Many foreign loanwords, usually of French origin, stress the final syllable
-as in the source language,
-[Agent, Akzent, Bäckerei, kaputt, Partei,Pelikan, Philosoph, Planet, Satellit, Student]. 
-
-Loanwords ending in e stress the second last syllable.
-[Forelle, Garage, Kassette, Kusine.]
-
-Verbs ending in -ieren, mostly derived from French, are also stressed on the
-second last syllable, 
- [buchstabieren, renovieren, studieren.]
-
-                CHAPTER 1.5 Regional variants
-
-In the north of Germany
-distinction between gäbe/gebe & nähme/nehme,  is not made.
- [gäbe/gebe  nähme/nehme] 
-
-In the north of Germany 
-many long vowels ending in a consonant are pronounced short. 
-[Glas, Tag, Zug].
-
-In the north of Germany 
-final g is pronounced like German ch 
-[ Tag, Teig, Weg, zog,Zug]
-
-in standard German the g in these words
-is automatically pronounced ‘k’ due to the influence of the following t.
-[liegt, gesagt, legte, sagte] 
-
-In the north 
-the ending -ung is often pronounced ‘oonk’.
-[Zeitung, Rechnung].
-
-In southern Germany and Austria, sp and st are pronounced ‘shp’ and ‘sht’
-in all positions, not just initially.
-[bist, Australien, Wespe]
-
-The reverse can occur in the far north of Germany where sp and st might
-be pronounced ‘sp’ and ‘st’ in all positions.
-[Stadt, spät]
-
-In the south of Germany and in Austria 
-k, p and t are commonly
-pronounced in a way that makes them barely distinguishable from g, b and
-d respectively.
- [kaufen  gaufen, Parade  Barade, trinken  drinken].
+                
