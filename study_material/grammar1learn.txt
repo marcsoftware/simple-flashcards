@@ -16,10 +16,6 @@ q:type ';s' to make a ß. <br/> ß actually makes an 'ss' sound.
 k:ß
 }
 
-<h3>letter A</h3>
-
-
-<h3>letter ä</h3>
 
 
 <h3>letter e</h3>
@@ -35,33 +31,19 @@ NO SILENT E : [Schule Kassette] -‘rubb(er)’
  } 
 
 
-<h3>letter i</h3>
 
-long(this is rare) : [Liga wider] – compare the vowel in ‘read’.
-
- {
-    audio:bitter
-     multi:bItter,bEEtter
- } 
- {
-    audio:wider
-     multi:wEEder,wIder
- } 
-<h3>letter ie</h3>
-long(always): [liegen  sie]–  ‘f(ee)’.
+<h3>letter ie VS ei </h3>
 ie makes EE sound
 ei makes EYE sound
  {
     audio:liegen
-     multi:lEEgen,lIgen
+     multi:lEEgen,lEYEgen
  } 
   {
     audio:leigen
-     multi:lIgen,lEgen
+     multi:lEEgen,lEYEgen
  } 
-<h3>letter o</h3>
 
-<h3>letter ö</h3>
 
 <h3>letter u</h3>
 short : [Butt, Truppe   Zunge] – ‘p(u)t’.
@@ -77,30 +59,34 @@ long u ,This sound is commonly pronounced too short by English speakers.
     audio:Buch
      multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
  } 
-<h3>letter ü</h3>
+
+   {
+    audio:fünf
+     multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
+ } 
+
 
 <h3>- chapter 1.2 Diphthongs -</h3>
 German has only three diphthong sounds (ei, au, eu)
 
-Diphthongs ei 
- [Blei, Stein and Verleih] - 'f(i)ght'
- 
-Diphthongs ai (rare)
+Blei
+Hain
+Traum
+Kräuter
+heute
 
-Diphthongs au
-
-Diphthongs eu
-[euch, Feuer  heute] -  ‘b(oy)’.
  {
     audio:Feuer
      multi:FOYer,FIyer
  } 
-Diphthongs äu
-[enttäuschen, Kräuter  Schläuche] -'b(oy)'.
- {
-    audio:Schläuche
-     multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
+
+  {
+    audio:Kräuter
+     multi:xxx,yyy
  } 
+
+
+  
                 <h3>CHAPTER 1.3 Consonants</h3>
 
 There are few problems lurking here for English speakers.
