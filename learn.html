@@ -125,7 +125,10 @@ function wrapQuiz(x){
    lines=lines.join("").replace(/\,/i,"");
    lines=lines.split("").reverse().join("");
 
-return lines;
+
+   var obj = JSON.parse(lines); 
+
+  return lines;
   
 }
 
