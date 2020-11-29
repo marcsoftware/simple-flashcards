@@ -10,10 +10,10 @@ shortcut type umlauts on this website with out installing a german keyboard.
 
 
         ß actually makes an 'ss' sound.
-        
-        q:type [s to type ß. 
-        k:ß
-
+{
+q:type [s to type ß. 
+k:ß
+}
 
 
 

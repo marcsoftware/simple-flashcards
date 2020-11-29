@@ -151,6 +151,7 @@ function checkQuiz(handle,key){
   handle.value=interpolate(handle.value);
   if(compare(handle.value,key)){
     handle.style.color='green';
+    handle.disabled = true;
   }else{
     handle.style.color='red';
   }
