@@ -25,6 +25,10 @@
       width: 50%;
       white-space: normal;
       display:block;
+
+      margin-top:0px;
+        margin-bottom: :1px;
+
     }
 
     .line{
@@ -97,7 +101,10 @@ function init() {
 
     if (response.status === 200) {
         let data = await response.text();
+
          file = data.split("\n"); 
+         //data = data.replace(/[\n\r][\n\r][\n\r]+/g,"\n\n");
+         
          //file.shift();// shift() deletes the empty element.
 
          // parse the [] to make mini-quizes

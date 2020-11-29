@@ -7,16 +7,11 @@ This will work only on this website.
 {
        q: type semicolon ';a' to make ä. <br/>The semicolon will add •• to the 'a' 
        k: ä
-}
-
-
-       
+}       
 {
 q:type ';s' to make a ß. <br/> ß actually makes an 'ss' sound.
 k:ß
 }
-
-
 
 Two consonants after a vowel often indicate it is short
 whereas only one consonant indicates it is long 
@@ -47,12 +42,6 @@ audio:Hähne
     
     audio:kälter
     multi:[kElter,KAIlter]
-
-
- 
-
-    
-
 
 LETTER e
 short :  [Bett, Henne  Sekt] – ‘bed’. identical to German short ä.
