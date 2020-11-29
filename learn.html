@@ -163,7 +163,8 @@ function wrapQuiz(x){
       var id = Math.floor(Math.random() * 1000000); // make random number
       return ` <input type="radio" onmouseup="checkQuiz(this,'${key}',${id})"  value="${v}"><span id=${id}>${v}</span>`; 
     });
-    //options = `<select>${options}</select>`;
+    
+    shuffle(options);
       return `<span class='quiz'>${audio+options}</span>`;
    }  
 
