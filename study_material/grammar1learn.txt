@@ -19,13 +19,13 @@ whereas only one consonant indicates it is long
 (e.g. kam ‘kAm’ LONG)
 
     {
-    fake:k?mm
+    fake:?❔?
     audio:kamm
      multi:kOHm,kAm
     }
 
 {
-fake:k?m
+fake:?❔?
     audio:kam
      multi:kAm,kOHm
  }   

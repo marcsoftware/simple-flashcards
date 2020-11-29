@@ -72,7 +72,7 @@
    
 function init() {
   const queryString = window.location.search;
-  console.log(queryString);
+  
 
   const urlParams = new URLSearchParams(queryString);
   
@@ -96,8 +96,7 @@ function init() {
  async  function doGet(url) {
       let response = await fetch(url);
 
-    console.log(response.status); // 200
-    console.log(response.statusText); // OK
+   
 
     if (response.status === 200) {
         let data = await response.text();
@@ -135,7 +134,7 @@ function wrapQuiz(x){
    for(var i=0;i<lines.length;i++){
       if(lines[i].indexOf(":")>=0){
           lines[i]="\""+lines[i].trim()+"\","
-          console.log(lines[i]);
+          
       }
 
    }
@@ -155,8 +154,16 @@ function wrapQuiz(x){
    }
 
    if(obj.audio != undefined){
+
     var audio = ` <input type='button' class='word' value='${obj.fake}📢' onmouseup="playAudio('${obj.audio}')"/>`;
-    var options = `${obj.multi.split(",")}`;
+    var options = obj.multi.split(",");
+    var key = options[0];
+    
+    options=options.map(function(v) { 
+      var id = Math.floor(Math.random() * 1000000); // make random number
+      return ` <input type="radio" onmouseup="checkQuiz(this,'${key}',${id})"  value="${v}"><span id=${id}>${v}</span>`; 
+    });
+    //options = `<select>${options}</select>`;
       return `<span class='quiz'>${audio+options}</span>`;
    }  
 
@@ -168,13 +175,20 @@ function wrapQuiz(x){
 // 
 // key is the answere_key
 //-----------------------------------------------------------------------------
-function checkQuiz(handle,key){
+function checkQuiz(handle,key,id){
   handle.value=interpolate(handle.value);
   if(compare(handle.value,key)){
-    handle.style.color='green';
+    handle.style.color='white';
+    handle.style.backgroundColor='green';
     handle.disabled = true;
+    if(id != null){
+      document.getElementById(id).style.color='green';
+    }
   }else{
     handle.style.color='red';
+    if(id != null){
+      document.getElementById(id).style.color='red';
+    }
   }
 }
 
