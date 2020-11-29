@@ -148,8 +148,9 @@ function wrapQuiz(x){
    }
 
    if(obj.audio != undefined){
-    var audio = ` <input type='button' class='word' value='${obj.audio}📢' onmouseup='playAudio("${obj.audio}")'/>`;
-      return audio;
+    var audio = ` <input type='button' class='word' value='${obj.fake}📢' onmouseup="playAudio('${obj.audio}')"/>`;
+    var options = `${obj.multi.split(",")}`;
+      return `<span class='quiz'>${audio+options}</span>`;
    }  
 
    return 'ERROR';

@@ -5,14 +5,14 @@ Shortcut type umlauts ä,ö,ü and ß on this website with out installing a germ
 This will work only on this website.
     
 {
-       q: type semicolon ;a to make ä. <br/>The semicolon will add ¨ to the 'a' 
+       q: type semicolon ';a' to make ä. <br/>The semicolon will add •• to the 'a' 
        k: ä
 }
 
 
-        ß actually makes an 'ss' sound.
+       
 {
-q:type [s to type ß. 
+q:type ';s' to make a ß. <br/> ß actually makes an 'ss' sound.
 k:ß
 }
 
@@ -24,11 +24,13 @@ whereas only one consonant indicates it is long
 (e.g. kam ‘kAm’ LONG)
 
     {
+    fake:k?mm
     audio:kamm
      multi:kOHm,kAm
     }
 
 {
+fake:k?m
     audio:kam
      multi:kAm,kOHm
  }   
