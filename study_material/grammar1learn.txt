@@ -1,4 +1,7 @@
-
+ {
+    audio:xxxxxxxxxxxxx
+     multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
+ } 
 
 <h3>How to type strange letters.</h3>
 The Shortcut to type umlauts ä,ö,ü and ß on this website with out installing a german keyboard.
@@ -14,104 +17,93 @@ k:ß
 }
 
 <h3>letter A</h3>
-Two consonants after a vowel often indicate it is short
-whereas only one consonant indicates it is long 
-(e.g. Kamm ‘kOHmm’ SHORT)
-(e.g. kam ‘kAm’ LONG)
-
-    {
-    fake:?❔?
-    audio:kamm
-     multi:kOHm,kAm
-    }
-
-{
-fake:?❔?
-    audio:kam
-     multi:kAm,kOHm
- }   
 
 
 <h3>letter ä</h3>
- ä sounds like e in bed or ai in hair.
-short : [lässt,   Männer] - ‘bed’
-long : [gäbe,   Väter]    - ‘hair’.
- {
 
-    audio:Männer
-     multi:MEnner,Mainner
- }   
- {
-    audio:Manner
-     multi:MAInner,Menner
- } 
-{
-audio:Hähne
-    multi:hehne, hAIhne
- }
- {   
-    audio:kälter
-    multi:kElter,KAIlter
-}
 
 <h3>letter e</h3>
-short :  [Bett, Henne  Sekt] – ‘bed’. identical to German short ä.
-even shorter : [Beruf, Tante  zahlen]  –  ‘b`elieve’ or  ‘wood`en’. 
+
+
 NO SILENT E : [Schule Kassette] -‘rubb(er)’
-long(always pure): [lesen, Planet  Tee] - ‘tr(a)y’
+
+
+
+ {
+    audio:Kassette
+     multi:kasetE,kaset
+ } 
+
 
 <h3>letter i</h3>
-short: [bitter, ich  Pilz] -‘p(i)t’
+
 long(this is rare) : [Liga wider] – compare the vowel in ‘read’.
 
+ {
+    audio:bitter
+     multi:bItter,bEEtter
+ } 
+ {
+    audio:wider
+     multi:wEEder,wIder
+ } 
 <h3>letter ie</h3>
-long(always): [liegen lieh sie]–  ‘f(ee)’.
-
+long(always): [liegen  sie]–  ‘f(ee)’.
+ie makes EE sound
+ei makes EYE sound
+ {
+    audio:liegen
+     multi:lEEgen,lIgen
+ } 
+  {
+    audio:leigen
+     multi:lIgen,lEgen
+ } 
 <h3>letter o</h3>
-short :  [Loch, Schloss  Stollen] -‘l(o)t’.
-long(always pure):  [Floh, rot  Ton] –  ‘p(o)st’
 
 <h3>letter ö</h3>
-short : [Löcher, Töchter  zwölf] - ‘b(i)rd’
-long :  [Flöte, Löhne  schön] – ‘b(i)rd’  with the lips as rounded as you can make them.
 
 <h3>letter u</h3>
 short : [Butt, Truppe   Zunge] – ‘p(u)t’.
 long:  [Buch, Fuß   gut] –‘f(oo)d’ but with less lip rounding. 
 long ü and long u , Make sure you clearly distinguish between these sounds. 
 long u ,This sound is commonly pronounced too short by English speakers.
+ {
+    audio:Butt
+     multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
+ } 
 
+  {
+    audio:Buch
+     multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
+ } 
 <h3>letter ü</h3>
-short: [fünf, Flüsse  Pfütze] - ‘t(oo)’ but make it shorter and with the
-lips as rounded and tightened as you can make them, as if trying to whistle.
-long :  [fühlen, Füße  trübe] -‘f(oo)d’ but make it longer and with more
-lip rounding and tightening, as if trying to whistle.
- 
+
 <h3>- chapter 1.2 Diphthongs -</h3>
 German has only three diphthong sounds (ei, au, eu)
 
 Diphthongs ei 
  [Blei, Stein and Verleih] - 'f(i)ght'
-
+ 
 Diphthongs ai (rare)
- [Hain, Laib  Mai] - 'f(i)ght' 
 
 Diphthongs au
-[aus, Auto Traum] - vowel in ‘h(ou)se’.
 
 Diphthongs eu
 [euch, Feuer  heute] -  ‘b(oy)’.
-
+ {
+    audio:Feuer
+     multi:FOYer,FIyer
+ } 
 Diphthongs äu
 [enttäuschen, Kräuter  Schläuche] -'b(oy)'.
-
+ {
+    audio:Schläuche
+     multi:xxxxxxxxxxxxxxxxx,yyyyyyyyy
+ } 
                 CHAPTER 1.3 Consonants
 
 There are few problems lurking here for English speakers.
-
-Problem b
-b in some words likeis identical to that in ‘bed’.
-  [Bein, Krabbe  loben] 
 
 At the end of a word  b is always devoiced meaning it is pronounced as a ‘p’.
  [ab, Lob  ob]
@@ -160,11 +152,6 @@ d is pronounced as in English.
 At the end of a d is always devoiced, => it is pronounced as a ‘t’.
 [Glied, Gold  Hand]
 
-f is pronounced as in English.
-[Frosch, Pfeffer Schiff]
-
-g  at the beginning or in the middle of words is pronounced as in English.
-[Gang, gießen fliegen]
 
 At the end of a g is always devoiced, => it is pronounced as a ‘k’. 
  [Tag, Teig and Zug] 
@@ -185,34 +172,13 @@ j  is pronounced ‘y’
 j in French loanwords is pronounced like the ‘s’ in ‘leisure’
 [Journalist].
 
- k is pronounced as in English
- [Katze, Klasse, kommen].
 
- l in all positions is pronounced as in ‘light’ never as in ‘well’. 
- [Lohn, Licht, wählen, wohl].
-
- m is pronounced as in English.
- [Mann, Lämmer, Lehm].
-
-n is pronounced as in English
-[nein, Tonne, zehn].
-
-ng is always pronounced as in ‘singer’, never as in ‘finger’.
-[Finger, lang, Sänger, Zeitung].
-
-p is pronounced as in English.
-[Penner, Lippe, kaputt]. 
-
-p at the beginning of a word, where it is rare, it is lightly aspirated, as
-in English.
 
 pf is pronounced as the spelling suggests. both the p and the f
 are articulated, but this can be hard for English speakers at
 the beginning of a word
 [Pfeffer, Tropfen, Kopf]
 
-ph is still used in some loanwords and is pronounced as an ‘f’.
-[Photograph, Philosophie].
 
 q always occurs in combination with u, as in English, and
 together they are pronounced ‘kv’.
