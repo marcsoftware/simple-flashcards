@@ -107,8 +107,25 @@ function init() {
 //
 //-----------------------------------------------------------------------------
 function wrapQuiz(x){
-  return x.replace(/([a-zA-ZäöüßÄÖÜ]+)/g,"<input type='button' class='word' value='$1📢' onmouseup='playAudio(this.value)'/>");
+   x=x.replace(/\:/g,'":"');
 
+   var lines = x.split("\n");
+   for(var i=0;i<lines.length;i++){
+      if(lines[i].indexOf(":")>=0){
+          lines[i]="\""+lines[i].trim()+"\","
+          console.log(lines[i]);
+      }
+
+   }
+
+   lines=lines.join("\n");
+
+   //delete the last comma
+   lines=lines.split("").reverse();
+   lines=lines.join("").replace(/\,/i,"");
+   lines=lines.split("").reverse().join("");
+
+return lines;
   
 }
 
