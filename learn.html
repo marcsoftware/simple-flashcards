@@ -128,9 +128,9 @@ function wrapQuiz(x){
 
    //
    var obj = JSON.parse(lines); 
-   obj.q=`<input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
-   alert(obj.k);
-  return `<div id='quiz'>${obj.q}<div>`;
+   obj.k=`${obj.q}<input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
+   
+  return `<div id='quiz'>${obj.k}<div>`;
   
 }
 //-----------------------------------------------------------------------------
