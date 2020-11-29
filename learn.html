@@ -14,8 +14,13 @@
     }
 
     .quiz{
-      background-color: blue;
-      display:inline;
+      
+      
+      padding:10px;
+      margin-left: 60px;
+      
+      border-style:   solid ;
+      word-wrap: normal;
     }
 
     .line{
@@ -30,6 +35,11 @@
       margin:0px;
       border: none;
       outline:none
+    }
+
+    input{
+      margin-left:10px;
+      margin-top:10px;
     }
 </style>
 <body>
@@ -130,7 +140,7 @@ function wrapQuiz(x){
    var obj = JSON.parse(lines); 
    obj.k=`${obj.q}<input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
    
-  return `<div id='quiz'>${obj.k}<div>`;
+  return `<span class='quiz'>${obj.k}</span>`;
   
 }
 //-----------------------------------------------------------------------------
@@ -191,8 +201,8 @@ function getCookie(cname) {
 </script>
 <div>
 <pre id='data'>x</pre><br/>
-
 </div>
+
 </body>
 </html>
 
