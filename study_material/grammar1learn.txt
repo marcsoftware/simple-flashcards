@@ -4,7 +4,7 @@
 shortcut type umlauts on this website with out installing a german keyboard.
     äöüß
 {
-       q: type ;a to make ä. The semicolon will turn the 'a' into 'ä'
+       q: type ;a to make ä. <br/>The semicolon will turn the 'a' into 'ä'
        k: ä
 }
 

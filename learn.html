@@ -5,10 +5,10 @@
 <style>
     div{
         margin: auto;
-  width: 50%;
-  border: 3px solid white;
-  padding: 10px;
-  padding:1px;
+        width: 50%;
+        border: 3px solid white;
+        padding: 10px;
+        padding:1px;
         margin-top:0px;
         margin-bottom: :1px;
         white-space: pre;
@@ -22,8 +22,9 @@
       
       border-style:   solid ;
       word-wrap: normal;
-      width: 100%;
+      width: 50%;
       white-space: normal;
+      display:block;
     }
 
     .line{
@@ -141,7 +142,7 @@ function wrapQuiz(x){
 
    //
    var obj = JSON.parse(lines); 
-   obj.k=`${obj.q}<input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
+   obj.k=`${obj.q}<br/><input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
    
   return `<span class='quiz'>${obj.k}</span>`;
   
