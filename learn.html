@@ -142,9 +142,18 @@ function wrapQuiz(x){
 
    //
    var obj = JSON.parse(lines); 
-   obj.k=`${obj.q}<br/><input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
-   
-  return `<span class='quiz'>${obj.k}</span>`;
+   if(obj.k != undefined){
+    obj.k=`${obj.q}<br/><input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
+    return `<span class='quiz'>${obj.k}</span>`;
+   }
+
+   if(obj.audio != undefined){
+    var audio = ` <input type='button' class='word' value='${obj.audio}📢' onmouseup='playAudio("${obj.audio}")'/>`;
+      return audio;
+   }  
+
+   return 'ERROR';
+  
   
 }
 //-----------------------------------------------------------------------------

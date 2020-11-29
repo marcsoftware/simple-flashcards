@@ -5,7 +5,7 @@ Shortcut type umlauts ä,ö,ü and ß on this website with out installing a germ
 This will work only on this website.
     
 {
-       q: type ;a to make ä. <br/>The semicolon will turn the 'a' into 'ä'
+       q: type semicolon ;a to make ä. <br/>The semicolon will add ¨ to the 'a' 
        k: ä
 }
 

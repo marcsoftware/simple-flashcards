@@ -19,6 +19,7 @@ function interpolate(text){
 //-----------------------------------------------------------------------------
 function playAudio(word){
     word=word.replace(/📢/g,"");
+    word=word.trim();
   var audio = new Audio("audio-de/"+word.trim()+".wav");
   try{
     audio.play();
