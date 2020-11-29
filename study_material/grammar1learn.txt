@@ -4,7 +4,7 @@
 shortcut type umlauts on this website with out installing a german keyboard.
     äöüß
 {
-       q: type [a to make ä 
+       q: type ;a to make ä. The semicolon will turn the 'a' into 'ä'
        k: ä
 }
 
@@ -22,15 +22,15 @@ whereas only one consonant indicates it is long
 (e.g. Kamm ‘kOHmm’ SHORT)
 (e.g. kam ‘kAm’ LONG)
 
-    
+    {
     audio:kamm
-     multi:[kOHm,kAm]
-    
+     multi:kOHm,kAm
+    }
 
-
+{
     audio:kam
-     multi:[kAm,kOHm]
-    
+     multi:kAm,kOHm
+ }   
 
 
 
