@@ -109,6 +109,7 @@ function init() {
 function wrapQuiz(x){
    x=x.replace(/\:/g,'":"');
 
+ // add quotes so that it will be valid jasob
    var lines = x.split("\n");
    for(var i=0;i<lines.length;i++){
       if(lines[i].indexOf(":")>=0){
@@ -125,28 +126,42 @@ function wrapQuiz(x){
    lines=lines.join("").replace(/\,/i,"");
    lines=lines.split("").reverse().join("");
 
-
+   //
    var obj = JSON.parse(lines); 
-
-  return `<div id='quiz'>${lines}<div>`;
+   obj.q=`<input type='test' onkeyup="checkQuiz(this,'${obj.k}')"></input>`;
+   alert(obj.k);
+  return `<div id='quiz'>${obj.q}<div>`;
   
 }
+//-----------------------------------------------------------------------------
+// 
+// key is the answere_key
+//-----------------------------------------------------------------------------
+function checkQuiz(handle,key){
+  handle.value=interpolate(handle.value);
+  if(compare(handle.value,key)){
+    handle.style.color='green';
+  }else{
+    handle.style.color='red';
+  }
+}
+
 
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
-function checkInput(input){
-    if(input==""){
-        return;
-    }
+function compare(left,right){
+    left=left.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+    right=right.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+
+
     
-    var check=interpolate(input) ;
-    if(compare(check,ans_key)){
-        handleCorrectAns();
-    }else{
-        document.getElementById("feedback").innerHTML='no';
-    }
+    left=left.toLowerCase().trim();
+    right=right.toLowerCase().trim();
+    return left === right;
 }
+
+
 
 //-----------------------------------------------------------------------------
 //

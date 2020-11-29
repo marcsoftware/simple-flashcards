@@ -28,3 +28,18 @@ function playAudio(word){
   }
 
 }
+
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function compare(left,right){
+    left=left.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+    right=right.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+
+
+    feedback(left);
+    left=left.toLowerCase().trim();
+    right=right.toLowerCase().trim();
+    return left === right;
+}

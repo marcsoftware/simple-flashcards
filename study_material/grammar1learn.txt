@@ -5,14 +5,14 @@ shortcut type umlauts on this website with out installing a german keyboard.
     äöüß
 {
        q: type [a to make ä 
-       k: [ä]
+       k: ä
 }
 
 
         ß actually makes an 'ss' sound.
         
         q:type [s to type ß. 
-        k:[ß]
+        k:ß
 
 
 
