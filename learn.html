@@ -27,7 +27,7 @@
       display:block;
 
       margin-top:0px;
-        margin-bottom: :1px;
+        margin-bottom: :0px;
 
     }
 
@@ -155,7 +155,7 @@ function wrapQuiz(x){
 
    if(obj.audio != undefined){
 
-    var audio = ` <input type='button' class='word' value='${obj.fake}📢' onmouseup="playAudio('${obj.audio}')"/>`;
+    var audio = ` <input type='button' class='word' value='${obj.audio}📢' onmouseup="playAudio('${obj.audio}')"/>`;
     var options = obj.multi.split(",");
     var key = options[0];
     

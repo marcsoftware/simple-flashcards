@@ -36,13 +36,29 @@ LETTER ä  sounds like e in bed or ai in hair.
 short : [lässt,   Männer] - ‘bed’
  long : [gäbe,   Väter]    - ‘hair’.
  
+ {
+
+    audio:Männer
+     multi:MEnner,Mainner
+ }   
+
+ {
+
+    audio:Manner
+     multi:MAInner,Menner
+ } 
+
+{
 
 audio:Hähne
-    multi:[hehne, hAIhne]
-    
-    audio:kälter
-    multi:[kElter,KAIlter]
+    multi:hehne, hAIhne
+ }
 
+ {   
+
+    audio:kälter
+    multi:kElter,KAIlter
+}
 LETTER e
 short :  [Bett, Henne  Sekt] – ‘bed’. identical to German short ä.
 even shorter : [Beruf, Tante  zahlen]  –  ‘b`elieve’ or  ‘wood`en’. 
