@@ -1,0 +1,126 @@
+page 17
+German is a so-called infl ectional language. Inflections are grammatical
+endings. The plural endings of nouns (books, children, oxen) and the
+endings of the various persons of the verb (I go, he goes) are examples
+of inflectional endings that both English and German share. Case is
+another form of inflection. At its simplest level case is the distinction
+between the subject (the nominative case), the direct object (the
+accusative case) and the indirect object (the dative case, i.e. ‘to’) in a
+sentence, e.g.
+
+    Der Vater hat seiner Tochter eine Email geschickt.
+    The father (nom.) sent an email (acc.) to his daughter (dat.).
+
+This sentence shows case being applied to nouns, der, seiner and eine being
+the indicators not only of the gender of their respective nouns, but also of
+their case, something which English can only indicate with word order. But
+look at this variant:
+
+    Seiner Tochter hat der Vater eine Email geschickt.
+    
+    This sentence means the same as the former although the connotation
+is different, i.e. it was his daughter he sent an email to and not anyone
+else. The forms seiner and der clearly indicate who is doing the sending
+(the subject or nominative) and who the email is being sent to (the
+indirect object or dative). One advantage of case, as this simple example
+illustrates, is that it can give the speaker a greater choice of word
+order.
+
+English has only preserved separate case forms in its pronouns, i.e. ‘I/me’,
+‘he/him’, ‘she/her’, ‘we/us’, ‘they/them’; only in the second person, i.e. ‘you/
+you’, is no distinction made any more, although previously it was ‘thou/
+thee’ and ‘ye/you’. English uses ‘me’, ‘him’, ‘her’ etc. in both the accusative
+and the dative, e.g.
+
+    Ich habe ihn zu Hause besucht und ihm einen Scheck für €55 gegeben.
+    I visited him (acc.) at home and gave him (dat.) a cheque (acc.) for 55 euros.
+
+The difference between ‘who’ and ‘whom’, which is now waning in English,
+is also an example of case, i.e. nominative versus accusative/dative, e.g.
+    
+    Who lives here?
+    Wer wohnt hier?
+
+    Who(m) did you visit in Berlin?
+    Wen hast du in Berlin besucht?
+
+    Who did you give the cheque to?/To whom did you give the cheque?
+    Wem hast du den Scheck gegeben?
+
+The fact that ‘whom’ is fast dying out in English provides a living (just)
+example of the fate of case distinctions in English. But the point is that these
+distinctions are still very much alive and kicking in German and contribute
+to what English speakers fi nd diffi cult about learning German. But once
+you have got your mind around the concept of case, it is extremely logical
+and getting it right is one of the great satisfactions of learning German.
+In German, case endings don’t just apply in the above instances. Adjectives
+take case endings, and verbs and prepositions can require that the pronouns
+and nouns that follow them take either the accusative, dative or genitive
+case, e.g.
+
+    Unser alter (nom. m.) Nachbar hat einen sehr netten (acc. m.) Sohn.
+    Our elderly neighbour has a very nice son.
+
+    Er hat mir geholfen. (The verb helfen takes a dative object.)
+    He helped me.
+
+    Meine Frau ist böse auf mich. (böse auf ? acc. ? angry with)
+    My wife is angry with me.
+
+
+//// 4.1
+
+In a few specifi c cases the nouns themselves take case endings, not just the
+determiners (i.e. indefi nite and defi nite articles, possessives etc.) standing in
+front of them as illustrated above. These few cases need to be noted.
+
+All masculine and neuter nouns take an -(e)s ending in the genitive case in
+the singular; monosyllabic nouns may take -es rather than simply -s in more
+formal sounding language, but you will never be wrong if you simply add
+-s, except if the noun itself ends in s, ß or z, when -es must be used, e.g.
+
+    der Name seines Sohn(e)s
+    his son’s name
+
+    der Anfang des Gebets
+    the beginning of the prayer
+
+    die Größe des Kreuzes
+    the size of the cross
+
+In very formal written style and in older texts monosyllabic masculine and
+neuter nouns in the dative singular optionally take an -e ending, e.g.
+
+    hinter dem Baume
+    behind the tree
+
+    auf dem Meeresgrunde
+    at the bottom of the sea
+
+    Dem Deutschen Volke
+    To the German people (written on the façade of the Reichstag)
+
+Generally speaking, these days this ending is limited to standard expres-
+sions, e.g.
+
+    zu Hause
+    at home
+    
+    im Grunde genommen
+    basically
+
+    im Laufe der Zeit
+    in the course of time
+
+Nouns of all three genders must add an n in the dative plural if the plural
+form does not already end in -n, e.g.
+    in den Zimmern (? pl. Zimmer)
+    in the rooms
+
+    unter den Bäumen (? pl. Bäume)
+    under the trees
+
+    von den Mädchen (? pl. Mädchen, i.e. plural already ends in n)
+    from the girls
+
+//// 4.2
