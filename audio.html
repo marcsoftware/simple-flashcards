@@ -113,12 +113,12 @@ function hideAnswere(){
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
-var timeout_length=20000;
+var timeout_length=200000;
 function checkInput(input){
     if(input==" "){ //if user enter space then flash the word and replay the audio
       playAudio(ans_key);
       document.getElementById('ans_key').innerHTML=ans_key;
-      document.getElementById('input').value="";
+      document.getElementById('input').value=" ";
       setTimeout(hideAnswere, timeout_length);
         return;
     }
@@ -182,14 +182,29 @@ if(page>=file.length-1){
 }
 
 
-
+//-----------------------------------------------------------------------------
+// german has special letters like ä ö ü ß Ä Ö Ü 
+// this function takes m`ar`s and turns it to mäß
+//  example : m`ar`s => mäß
+//-----------------------------------------------------------------------------
+function interpolate(text){
+    text=text.replace(/`a/g,"ä");
+    text=text.replace(/`o/g,"ö");
+    text=text.replace(/`u/g,"ü");
+    text=text.replace(/`s/g,"ß");
+    text=text.replace(/`A/g,"Ä");
+    text=text.replace(/`S/g,"ß");
+    text=text.replace(/`U/g,"Ü");
+    return text;
+}
 
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
 function colorLetters(input,ans_key){
-
-  ans_key=ans_key.replace(/\n/g,'±');
+input=interpolate(input);
+document.getElementById('input').value=input;
+  
   
     var spaces = ans_key;
      var new_key = ans_key.replace(/\s/g,"").split("");
