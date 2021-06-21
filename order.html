@@ -98,6 +98,7 @@ function checkInput(input){
     }
     
     var check=interpolate(input) ;
+    document.getElementById('input').value=check;
     if(compare(check,ans_key)){
         handleCorrectAns();
     }else{
