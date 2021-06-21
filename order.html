@@ -164,13 +164,13 @@ function compare(left,right){
 //  example : m`ar`s => mäß
 //-----------------------------------------------------------------------------
 function interpolate(text){
-    text=text.replace("`a","ä");
-    text=text.replace("`o","ö");
-    text=text.replace("`u","ü");
-    text=text.replace("`s","ß");
-    text=text.replace("`A","Ä");
-    text=text.replace("`O","ß");
-    text=text.replace("`U","Ü");
+    text=text.replace(/`a/g,"ä");
+    text=text.replace(/`o/g,"ö");
+    text=text.replace(/`u/g,"ü");
+    text=text.replace(/`s/g,"ß");
+    text=text.replace(/`A/g,"Ä");
+    text=text.replace(/`S/g,"ß");
+    text=text.replace(/`U/g,"Ü");
     return text;
 }
 
