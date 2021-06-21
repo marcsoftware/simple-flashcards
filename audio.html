@@ -256,7 +256,7 @@ function colorLetters(input,ans_key){
 //-----------------------------------------------------------------------------
 function feedback(text){
   console.log('key'+ans_key);
-    document.getElementById('color').innerHTML=text;
+    
     colorLetters(text,ans_key);
 }
 </script>
@@ -268,10 +268,11 @@ function feedback(text){
 <input type="text" id='input' onkeyup='checkInput(this.value)'/> 
 
 <br/>
-<span id='feedback'></span>
-<span id='color'></span><br/>
+<span id='ans_key'></span><br/>
+
 <span id='exclamations'></span><br/>
-<span id='ans_key'></span>
+<span id='color'></span><br/>
+<span id='feedback'></span>
 
 </div>
 </body>
