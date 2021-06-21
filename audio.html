@@ -113,12 +113,13 @@ function hideAnswere(){
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
+var timeout_length=20000;
 function checkInput(input){
     if(input==" "){ //if user enter space then flash the word and replay the audio
       playAudio(ans_key);
       document.getElementById('ans_key').innerHTML=ans_key;
       document.getElementById('input').value="";
-      setTimeout(hideAnswere, 150);
+      setTimeout(hideAnswere, timeout_length);
         return;
     }
 
