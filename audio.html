@@ -186,9 +186,78 @@ if(page>=file.length-1){
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
+function colorLetters(input,ans_key){
+
+  ans_key=ans_key.replace(/\n/g,'±');
+  
+    var spaces = ans_key;
+     var new_key = ans_key.replace(/\s/g,"").split("");
+     var new_input = input.replace(/\s/g,"").split("");
+     var result='';
+     var right_flag=true;
+
+     if(!new_key.join('').toLowerCase().match(/[a-z]/g)){
+        //if contains no word charactess than skip.
+        handleCorrectAns();
+
+     }
+    for(var i=0;i<new_key.length;i++){
+        if(new_key[i]==="±"){
+          result+="\r";
+          new_key.splice(i, 1);
+          if(i>=new_key.length){
+            continue;
+          }
+        }
+
+         if(new_key[i].toLowerCase()===new_input[i] || new_key[i].toUpperCase()===new_input[i]){
+          result+=new_key[i];
+
+          
+        }else if(i<new_input.length){
+          result+="❕"; //WRONG LETTER -> white explamation emoji
+          right_flag=false;
+        }else{
+          result+="❗️";  //NO LETTER -> red explamation emoji
+        }
+    }
+
+       if(!result.includes("❗️") && !result.includes("❕")){
+        //if contains no word charactess than skip.
+        handleCorrectAns();
+
+     }
+    if(right_flag){
+        
+    }else{
+       // playSound('keytype.wav');
+    }
+/*
+    //TODO : X. for loop input legnth 
+             X. compare to var spaces. if spaces[i] == " "
+             4.  insert space into result 
+             5. and insertspace into newinput?
+  */
+  result=result.split("");
+  //alert(result);
+    for(var i=0;i<=new_input.length;i++){
+       if(spaces[i]===" "){
+            //
+            //substring()     Extracts the characters from a string, between two specified indices
+            result.splice(i, 0, " ");
+       }
+    }
+
+    document.getElementById("exclamations").innerHTML=result.join('').replace(/</g,"&lt;");
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
 function feedback(text){
   console.log('key'+ans_key);
     document.getElementById('color').innerHTML=text;
+    colorLetters(text,ans_key);
 }
 </script>
 <div>
@@ -198,9 +267,12 @@ function feedback(text){
 
 <input type="text" id='input' onkeyup='checkInput(this.value)'/> 
 
-<span id='ans_key'></span><br/>
+<br/>
 <span id='feedback'></span>
-<span id='color'></span>
+<span id='color'></span><br/>
+<span id='exclamations'></span><br/>
+<span id='ans_key'></span>
+
 </div>
 </body>
 </html>
