@@ -9,6 +9,14 @@
   border: 3px solid white;
   padding: 10px;
     }
+
+    #ans_key{
+        width:200%;
+    }
+
+    #exclamations{
+        width:200%;
+    }
 </style>
 <body>
 
@@ -92,7 +100,7 @@ document.getElementById('input').value=input;
        if(!result.includes("❗️") && !result.includes("❕")){
         //if contains no word charactess than skip.
         handleCorrectAns();
-        document.getElementById('exclamations').innerHTML='';
+        
 
      }
     if(right_flag){
@@ -219,7 +227,7 @@ function getCookie(cname) {
 //
 //-----------------------------------------------------------------------------
 function handleCorrectAns(){
-
+document.getElementById('exclamations').innerHTML='';
     
     document.getElementById('input').value='';
     page++;
@@ -277,7 +285,7 @@ function feedback(text){
 <span id='page'></span><br/>
 <span id='que'></span>
 
-<input type="text" id='input' onkeyup='checkInput(this.value)'/> 
+<input type="text" id='input' onkeyup='checkInput(this.value)'/> <br/>
 
 <span id='ans_key'></span><br/>
 
