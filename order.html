@@ -132,8 +132,11 @@ document.getElementById('input').value=input;
 // play audio
 //-----------------------------------------------------------------------------
 function playAudio(word){
-
-  var audio = new Audio("audio-de/"+word.trim().replace(/\ /g,'.')+".wav");
+  var string = "audio-de/"+word.trim().replace(/\ /g,'.')+".wav";
+  string = string.replace(/\?/g,'')
+  var audio = new Audio(string);
+  
+  console.log(audio);
   try{
     audio.play();
   }catch(e){
