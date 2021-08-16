@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+
+<meta charset="UTF-8">
+<style>
+    div{
+        margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px;
+    }
+
+    #ans_key{
+        width:200%;
+    }
+
+    #exclamations{
+        width:200%;
+    }
+</style>
+<body>
+
+
+
+
+
+<script>
+
+//-----------------------------------------------------------------------------
+// global variables
+//-----------------------------------------------------------------------------    
+
+ file='x';
+ ans_key = '';
+ var file_name;
+ window.onload=init();
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+   
+function init() {
+  const queryString = window.location.search;
+  console.log(queryString);
+
+  const urlParams = new URLSearchParams(queryString);
+  
+   file_name = (urlParams+"").split("=")[1];
+  document.title=file_name;
+
+  page=parseInt(getCookie("page"));
+  doGet("study_material/"+file_name+'.txt');
+
+    
+  
+ 
+ 
+  
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function colorLetters(input,ans_key){
+input=interpolate(input);
+document.getElementById('input').value=input;
+  
+  
+    var spaces = ans_key;
+     var new_key = ans_key.replace(/\s/g,"").split("");
+     var new_input = input.replace(/\s/g,"").split("");
+     var result='';
+     var right_flag=true;
+
+     if(!new_key.join('').toLowerCase().match(/[a-z]/g)){
+        //if contains no word charactess than skip.
+        handleCorrectAns();
+
+     }
+    for(var i=0;i<new_key.length;i++){
+        if(new_key[i]==="±"){
+          result+="\r";
+          new_key.splice(i, 1);
+          if(i>=new_key.length){
+            continue;
+          }
+        }
+
+         if(new_key[i].toLowerCase()===new_input[i] || new_key[i].toUpperCase()===new_input[i]){
+          result+=new_key[i];
+
+          
+        }else if(i<new_input.length){
+          result+="❕"; //WRONG LETTER -> white explamation emoji
+          right_flag=false;
+        }else{
+          result+="❗️";  //NO LETTER -> red explamation emoji
+        }
+    }
+
+       if(!result.includes("❗️") && !result.includes("❕")){
+        //if contains no word charactess than skip.
+        handleCorrectAns();
+        
+
+     }
+    if(right_flag){
+        
+    }else{
+       // playSound('keytype.wav');
+    }
+/*
+    //TODO : X. for loop input legnth 
+             X. compare to var spaces. if spaces[i] == " "
+             4.  insert space into result 
+             5. and insertspace into newinput?
+  */
+  result=result.split("");
+  //alert(result);
+    for(var i=0;i<=new_input.length;i++){
+       if(spaces[i]===" "){
+            //
+            //substring()     Extracts the characters from a string, between two specified indices
+            result.splice(i, 0, " ");
+       }
+    }
+
+    document.getElementById("exclamations").innerHTML=result.join('').replace(/</g,"&lt;");
+}
+
+
+//-----------------------------------------------------------------------------
+// play audio
+//-----------------------------------------------------------------------------
+function playAudio(word){
+  var string = "audio-de/"+word.trim().replace(/\ /g,'.')+".wav";
+  string = string.replace(/\?/g,'')
+  var audio = new Audio(string);
+  
+  console.log(audio);
+  try{
+    audio.play();
+  }catch(e){
+    console.log("USER MUST ENABLE AUTO PLAY!!!!!!!!!!!!!!!!");
+    console.log(e);
+  }
+
+}
+
+//-----------------------------------------------------------------------------
+// draw the question
+//-----------------------------------------------------------------------------
+var page;
+function parseFile(){
+    
+    
+    document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
+
+    var both=file[page].split("====");
+    document.getElementById("que").innerHTML=both[1];
+
+     ans_key = both[0].trim();
+    document.getElementById("ans_key").innerHTML=ans_key;
+
+    playAudio(ans_key);
+}
+
+
+
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+ async  function doGet(url) {
+      let response = await fetch(url);
+
+    console.log(response.status); // 200
+    console.log(response.statusText); // OK
+
+    if (response.status === 200) {
+        let data = await response.text();
+         file = data.split("\n"); 
+         //file.shift();// shift() deletes the empty element.
+        
+        parseFile();
+        // handle data
+    }
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function checkInput(input){
+    if(input==" "){
+        playAudio(ans_key);
+        return;
+    }
+    
+    var check=interpolate(input) ;
+    document.getElementById('input').value=check;
+    colorLetters(input,ans_key);
+    if(compare(check,ans_key)){
+        handleCorrectAns();
+    }else{
+        
+    }
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function getCookie(cname) {
+  var name = file_name+cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+
+
+  return 0;
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function handleCorrectAns(){
+document.getElementById('exclamations').innerHTML='';
+    
+    document.getElementById('input').value='';
+    page++;
+
+if(page>=file.length-1){
+  page=0;
+  document.getElementById("feedback").innerHTML='----------------------';
+
+}
+    document.cookie = file_name+"page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC;SameSite=None; Secure"; 
+
+    parseFile();
+}
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function compare(left,right){
+    left=left.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+    right=right.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+
+
+    feedback(left);
+    left=left.toLowerCase().trim();
+    right=right.toLowerCase().trim();
+    return left === right;
+}
+
+
+//-----------------------------------------------------------------------------
+// german has special letters like ä ö ü ß Ä Ö Ü 
+// this function takes m`ar`s and turns it to mäß
+//  example : m`ar`s => mäß
+//-----------------------------------------------------------------------------
+function interpolate(text){
+    text=text.replace(/`a/g,"ä");
+    text=text.replace(/`o/g,"ö");
+    text=text.replace(/`u/g,"ü");
+    text=text.replace(/`s/g,"ß");
+    text=text.replace(/`A/g,"Ä");
+    text=text.replace(/`S/g,"ß");
+    text=text.replace(/`U/g,"Ü");
+    return text;
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function feedback(text){
+  console.log('key'+ans_key);
+    
+}
+</script>
+<div>
+
+<span id='page'></span><br/>
+<span id='que'></span>
+
+<input type="text" id='input' onkeyup='checkInput(this.value)'/> <br/>
+
+<span id='ans_key'></span><br/>
+
+<span id='exclamations'></span><br/>
+<span id='feedback'></span><br/>
+<span id='color'></span><br/>
+</div>
+</body>
+</html>
+
