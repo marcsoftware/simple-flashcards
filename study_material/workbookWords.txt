@@ -1,441 +1,441 @@
-Ich
-wohne
-in
-Berlin
-Er
-trinkt
-Bier
-Sie
-spielt
-Tennis
-Carla
-und
-Sophia
-spielen
-Fußball
-Woher
-kommst
-du
-kommen
-Wo
-wohnst
-wohnen
-wohnt
-ihr
-liest
-ein
-Buch
-Peter
-spricht
-Deutsch
-Englisch
-Wir
-sprechen
-Spanisch
-Magda
-isst
-gern
-Pizza
-nehme
-bitte
-nimmt
-trägt
-T
-Shirt
-Es
-regnet
-sind
-aus
-New
-York
-Australien
-Mario
-ist
-München
-a
-Bist
-Herr
-Becker
-b
-Sind
-hat
-eine
-Schwester
-Hast
-Zeit
-Haben
-Studenten
-die
-Hauptstadt
-von
-Deutschland
-habe
-Wohnung
-haben
-Hunger
-stehe
-um
-sechs
-Uhr
-auf
-fange
-meine
-Arbeit
-acht
-an
-Das
-Meeting
-findet
-am
-Montag
-statt
-Wann
-fährt
-der
-Zug
-ab
-kommt
-Michael
-räumt
-seine
-Kinder
-sehen
-fern
-Kommen
-Kommst
-mit
-ins
-Kino
-Bitte
-fangen
-Öffnen
-das
-Fenster
-Bringen
-mir
-Rechnung
-Seien
-vorsichtig
-Bittte
-fang
-Öffne
-Bring
-Sei
-c
-Fangt
-Öffnet
-Bringt
-Seid
-Wie
-dein
-Ihr
-Name
-deine
-Ihre
-E
-Mail
-Adresse
-viel
-es
-ver
-heiratet
-Sprichst
-Sprechen
-Der
-Ferrari
-sehr
-schnell
-Tisch
-kaput
-Die
-Tochter
-heißt
-Marianna
-Zeitung
-zu
-teuer
-Rose
-schön
-geschlossen
-Fußballmannschaft
-schlecht
-kostet
-zwei
-Euro
-Stadtzentrum
-alt
-Ist
-Computer
-neu
-Mädchen
-fünf
-Junge
-sieben
-Jahre
-Käse
-Frankreich
-möchte
-Flaschen
-Zwei
-Bratwürste
-Äpfel
-süß
-Schwestern
-Brüder
-drei
-Zeitungen
-vier
-Zimmer
-Sprachen
-Party
-immer
-interessant
-Haus
-Mann
-Ingenieur
-Aldi
-Super
-markt
-einen
-Kaffee
-Tee
-Flasche
-Wurst
-Würstchen
-kauft
-den
-Frau
-Videorekorder
-Kind
-für
-CD
-meinen
-Bruder
-gehen
-durch
-Park
-bin
-Idee
-gibt
-dem
-Baby
-Paulina
-Großvater
-Wein
-folgt
-Telefon
-gehört
-Fahrer
-hilft
-Kindern
-meines
-Bruders
-Auto
-meiner
-Dies
-Freunde
-Kindes
-Paulas
-Tasche
-war
-Boris
-Beckers
-Fehler
-Ruf
-mich
-Rufen
-Blumen
-dich
-Besuchst
-uns
-Besuchen
-geht
-dir
-Ihnen
-Mir
-gut
-Kannst
-helfen
-Können
-tut
-Leid
-mein
-Vater
-Mutter
-Jörg
-sucht
-Kreditkarte
-Susanne
-ihren
-Führerschein
-treffen
-unsere
-Sebastian
-seiner
-Arianne
-ihrem
-Großeltern
-dusche
-putze
-Zähne
-ziehe
-kämme
-Haare
-Jacke
-beeile
-Luke
-nicht
-Stadt
-billig
-weit
-Paul
-kein
-Fahrrad
-keine
-Arnd
-Geld
-gute
-spreche
-Französisch
-London
-größer
-als
-Paris
-Rhein
-länger
-Donau
-Jens
-älter
-intelligenter
-Claus
-Gabriella
-intelligentesten
-Flugzeug
-teurer
-Ralf
-lang
-samer
-besser
-Film
-kann
-Salsa
-tanzen
-will
-fahren
-soll
-mehr
-Sport
-treiben
-möchten
-bezahlen
-Darf
-ich
-etwas
-fragen
-Hier
-darfst
-rauchen
-dürfen
-photographieren
-Gestern
-spielte
-kaufte
-Tasse
-Als
-lebte
-Frankfurt
-ging
-blieb
-Woche
-letztes
-Jahr
-Am
-Abend
-besuche
-werde
-besuchen
-Morgen
-gehe
-Freitag
-arbeite
-lange
-arbeiten
-Wochenende
-bleibe
-Hause
-bleiben
-komme
-später
-Was
-machst
-machen
-macht
-wirst
-werden
-werdet
-Sommerferien
-denSommerferien
-verbringe
-Ferien
-Spanien
-meineFerien
-verbringen
-gegen
-Plan
-Normalerweise
-fahre
-Restaurant
-zum
-Bahnhof
-nach
-Guten
-Gute
-Nacht
-schöner
-Tag
-interessantes
-gekauft
-neue
-mag
-blauen
-Anzug
-trage
-schwarzen
-Schuhe
-arbeitet
-BMW
-keinen
-sondern
-aber
-muss
-denkt
-dass
-weil
-interes
-sante
-Oxford
-Obwohl
-kalt
-er
-spazieren
-können
-wenn
-hast
-rufe
-fertig
-spät
-faszinierende
-obwohl
-sie
-wollte
-Bus
-billiger
-Weil
-wollen
-viele
-Leute
-Menschen
-hier
-Wenn
-Österreich
-oder
+Ich  ====   I
+wohne    ====   live
+in   ====   in
+Berlin   ====   Berlin
+Er   ====   He
+trinkt   ====   drinks
+Bier     ====   beer
+Sie  ====   they
+spielt   ====   plays
+Tennis   ====   tennis
+Carla    ====   Carla
+und  ====   and
+Sophia   ====   Sophia
+spielen  ====   to play
+Fußball  ====   Soccer
+Woher    ====   Where from
+kommst   ====   come
+du   ====   you
+kommen   ====   come
+Wo   ====   Where
+wohnst   ====   live
+wohnen   ====   reside
+wohnt    ====   lives
+ihr  ====   her
+liest    ====   reads
+ein  ====   on
+Buch     ====   a book
+Peter    ====   Peter
+spricht  ====   speaks
+Deutsch  ====   German
+Englisch     ====   English
+Wir  ====   we
+sprechen     ====   to speak
+Spanisch     ====   Spanish
+Magda    ====   Magda
+isst     ====   eats
+gern     ====   gladly
+Pizza    ====   Pizza
+nehme    ====   take
+bitte    ====   You're welcome
+nimmt    ====   takes
+trägt    ====   wearing
+T    ====   T
+Shirt    ====   Shirt
+Es   ====   It
+regnet   ====   raining
+sind     ====   are
+aus  ====   the end
+New  ====   New
+York     ====   York
+Australien   ====   Australia
+Mario    ====   Mario
+ist  ====   is
+München  ====   Munich
+a    ====   a
+Bist     ====   Are you
+Herr     ====   gentleman
+Becker   ====   Becker
+b    ====   b
+Sind     ====   Are
+hat  ====   Has
+eine     ====   one
+Schwester    ====   sister
+Hast     ====   Have
+Zeit     ====   Time
+Haben    ====   To have
+Studenten    ====   students
+die  ====   the
+Hauptstadt   ====   capital city
+von  ====   from
+Deutschland  ====   Germany
+habe     ====   have
+Wohnung  ====   apartment
+haben    ====   to have
+Hunger   ====   hunger
+stehe    ====   stand
+um   ====   around
+sechs    ====   six
+Uhr  ====   clock
+auf  ====   on
+fange    ====   catch
+meine    ====   my
+Arbeit   ====   work
+acht     ====   eight
+an   ====   on
+Das  ====   That
+Meeting  ====   meeting
+findet   ====   finds
+am   ====   at the
+Montag   ====   Monday
+statt    ====   instead of
+Wann     ====   When
+fährt    ====   moves
+der  ====   the
+Zug  ====   train
+ab   ====   away
+kommt    ====   comes
+Michael  ====   Michael
+räumt    ====   clears
+seine    ====   his
+Kinder   ====   children
+sehen    ====   see
+fern     ====   remote
+Kommen   ====   Come
+Kommst   ====   Come
+mit  ====   with
+ins  ====   into the
+Kino     ====   movie theater
+Bitte    ====   Please
+fangen   ====   catch
+Öffnen   ====   Open
+das  ====   the
+Fenster  ====   window
+Bringen  ====   Bring
+mir  ====   to me
+Rechnung     ====   invoice
+Seien    ====   Be
+vorsichtig   ====   careful
+Bittte   ====   Please
+fang     ====   catch
+Öffne    ====   Open
+Bring    ====   Bring
+Sei  ====   Be
+c    ====   c
+Fangt    ====   Catches
+Öffnet   ====   Opens
+Bringt   ====   Brings
+Seid     ====   Are
+Wie  ====   As
+dein     ====   your
+Ihr  ====   your
+Name     ====   Surname
+deine    ====   yours
+Ihre     ====   Your
+E    ====   E.
+Mail     ====   Mail
+Adresse  ====   address
+viel     ====   a lot of
+es   ====   it
+ver  ====   ver
+heiratet     ====   get married
+Sprichst     ====   speak
+Sprechen     ====   To speak
+Der  ====   the
+Ferrari  ====   Ferrari
+sehr     ====   very
+schnell  ====   quickly
+Tisch    ====   table
+kaput    ====   broken
+Die  ====   the
+Tochter  ====   daughter
+heißt    ====   called
+Marianna     ====   Marianna
+Zeitung  ====   newspaper
+zu   ====   to
+teuer    ====   expensive
+Rose     ====   rose
+schön    ====   beautiful
+geschlossen  ====   closed
+Fußballmannschaft    ====   Soccer team
+schlecht     ====   bad
+kostet   ====   costs
+zwei     ====   two
+Euro     ====   Euro
+Stadtzentrum     ====   City center
+alt  ====   old
+Ist  ====   is
+Computer     ====   computer
+neu  ====   New
+Mädchen  ====   girl
+fünf     ====   five
+Junge    ====   Young
+sieben   ====   seven
+Jahre    ====   years
+Käse     ====   cheese
+Frankreich   ====   France
+möchte   ====   would like
+Flaschen     ====   Bottles
+Zwei     ====   Two
+Bratwürste   ====   Sausages
+Äpfel    ====   Apples
+süß  ====   cute
+Schwestern   ====   Sisters
+Brüder   ====   brothers
+drei     ====   three
+Zeitungen    ====   Newspapers
+vier     ====   four
+Zimmer   ====   room
+Sprachen     ====   languages
+Party    ====   party
+immer    ====   always
+interessant  ====   Interesting
+Haus     ====   a house
+Mann     ====   man
+Ingenieur    ====   engineer
+Aldi     ====   Aldi
+Super    ====   great
+markt    ====   market
+einen    ====   a
+Kaffee   ====   coffee
+Tee  ====   tea
+Flasche  ====   bottle
+Wurst    ====   sausage
+Würstchen    ====   hot dog
+kauft    ====   buys
+den  ====   the
+Frau     ====   woman
+Videorekorder    ====   Video recorder
+Kind     ====   child
+für  ====   for
+CD   ====   CD
+meinen   ====   say
+Bruder   ====   Brothers
+gehen    ====   walk
+durch    ====   through
+Park     ====   park
+bin  ====   am
+Idee     ====   idea
+gibt     ====   are
+dem  ====   to the
+Baby     ====   infant
+Paulina  ====   Paulina
+Großvater    ====   grandfather
+Wein     ====   wine
+folgt    ====   follows
+Telefon  ====   phone
+gehört   ====   heard
+Fahrer   ====   driver
+hilft    ====   helps
+Kindern  ====   Children
+meines   ====   mine
+Bruders  ====   Brother
+Auto     ====   automobile
+meiner   ====   mine
+Dies     ====   this
+Freunde  ====   friends
+Kindes   ====   Child
+Paulas   ====   Paulas
+Tasche   ====   pocket
+war  ====   was
+Boris    ====   Boris
+Beckers  ====   Beckers
+Fehler   ====   error
+Ruf  ====   call
+mich     ====   me
+Rufen    ====   To shout
+Blumen   ====   flower
+dich     ====   you
+Besuchst     ====   Visiting
+uns  ====   US
+Besuchen     ====   To visit
+geht     ====   goes
+dir  ====   to you
+Ihnen    ====   them
+Mir  ====   To me
+gut  ====   Good
+Kannst   ====   Can
+helfen   ====   help
+Können   ====   Be able
+tut  ====   does
+Leid     ====   suffering
+mein     ====   my
+Vater    ====   father
+Mutter   ====   mother
+Jörg     ====   Jörg
+sucht    ====   seeks
+Kreditkarte  ====   Credit card
+Susanne  ====   Susanne
+ihren    ====   your
+Führerschein     ====   driver's license
+treffen  ====   meet
+unsere   ====   our
+Sebastian    ====   Sebastian
+seiner   ====   his
+Arianne  ====   Arianne
+ihrem    ====   her
+Großeltern   ====   Grandparents
+dusche   ====   shower
+putze    ====   clean
+Zähne    ====   teeth
+ziehe    ====   pull
+kämme    ====   comb
+Haare    ====   hair
+Jacke    ====   jacket
+beeile   ====   hurry
+Luke     ====   hatch
+nicht    ====   Not
+Stadt    ====   city
+billig   ====   cheap
+weit     ====   far
+Paul     ====   Paul
+kein     ====   no
+Fahrrad  ====   bicycle
+keine    ====   no
+Arnd     ====   Arnd
+Geld     ====   money
+gute     ====   quality
+spreche  ====   speak
+Französisch  ====   French
+London   ====   London
+größer   ====   greater
+als  ====   as
+Paris    ====   Paris
+Rhein    ====   Rhine
+länger   ====   longer
+Donau    ====   Danube
+Jens     ====   Jens
+älter    ====   older
+intelligenter    ====   smarter
+Claus    ====   Claus
+Gabriella    ====   Gabriella
+intelligentesten     ====   smartest
+Flugzeug     ====   plane
+teurer   ====   more expensive
+Ralf     ====   Ralf
+lang     ====   long
+samer    ====   samer
+besser   ====   better
+Film     ====   Movie
+kann     ====   can
+Salsa    ====   Salsa
+tanzen   ====   to dance
+will     ====   want
+fahren   ====   ride
+soll     ====   target
+mehr     ====   more
+Sport    ====   Sports
+treiben  ====   to drive
+möchten  ====   would like
+bezahlen     ====   pay
+Darf     ====   May
+ich  ====   I
+etwas    ====   some
+fragen   ====   ask
+Hier     ====   here
+darfst   ====   may
+rauchen  ====   smoking
+dürfen   ====   allowed to
+photographieren  ====   photograph
+Gestern  ====   Yesterday
+spielte  ====   played
+kaufte   ====   bought
+Tasse    ====   Cup
+Als  ====   as
+lebte    ====   lived
+Frankfurt    ====   Frankfurt
+ging     ====   went
+blieb    ====   stayed
+Woche    ====   week
+letztes  ====   last
+Jahr     ====   year
+Am   ====   At the
+Abend    ====   Eve
+besuche  ====   visit
+werde    ====   become
+besuchen     ====   to visit
+Morgen   ====   tomorrow
+gehe     ====   go
+Freitag  ====   Friday
+arbeite  ====   work
+lange    ====   Long
+arbeiten     ====   work
+Wochenende   ====   weekend
+bleibe   ====   stay
+Hause    ====   Home
+bleiben  ====   stay
+komme    ====   come
+später   ====   later
+Was  ====   What
+machst   ====   do
+machen   ====   make
+macht    ====   power
+wirst    ====   will
+werden   ====   become
+werdet   ====   will
+Sommerferien     ====   summer holidays
+denSommerferien  ====   the summer vacation
+verbringe    ====   spend
+Ferien   ====   vacation
+Spanien  ====   Spain
+meineFerien  ====   my holidays
+verbringen   ====   spend
+gegen    ====   against
+Plan     ====   plan
+Normalerweise    ====   Normally
+fahre    ====   ride
+Restaurant   ====   restaurant
+zum  ====   to the
+Bahnhof  ====   station
+nach     ====   to
+Guten    ====   good
+Gute     ====   Quality
+Nacht    ====   night
+schöner  ====   more beautiful
+Tag  ====   Day
+interessantes    ====   interesting
+gekauft  ====   bought
+neue     ====   new
+mag  ====   like
+blauen   ====   blue
+Anzug    ====   men's suit
+trage    ====   sluggish
+schwarzen    ====   black
+Schuhe   ====   Shoes
+arbeitet     ====   is working
+BMW  ====   BMW
+keinen   ====   none
+sondern  ====   Then what
+aber     ====   but
+muss     ====   got to
+denkt    ====   thinks
+dass     ====   that
+weil     ====   because
+interes  ====   interes
+sante    ====   sante
+Oxford   ====   Oxford
+Obwohl   ====   Even though
+kalt     ====   cold
+er   ====   he
+spazieren    ====   to stroll
+können   ====   be able
+wenn     ====   if
+hast     ====   have
+rufe     ====   shout
+fertig   ====   finished
+spät     ====   late
+faszinierende    ====   fascinating
+obwohl   ====   although
+sie  ====   they
+wollte   ====   wanted to
+Bus  ====   bus
+billiger     ====   cheaper
+Weil     ====   because
+wollen   ====   want
+viele    ====   lots
+Leute    ====   people
+Menschen     ====   People
+hier     ====   here
+Wenn     ====   if
+Österreich   ====   Austria
+oder     ====   or
