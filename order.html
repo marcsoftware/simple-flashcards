@@ -76,6 +76,7 @@ document.getElementById('input').value=input;
      if(!new_key.join('').toLowerCase().match(/[a-z]/g)){
         //if contains no word charactess than skip.
         handleCorrectAns();
+        new_input='';
 
      }
     for(var i=0;i<new_key.length;i++){
@@ -102,6 +103,7 @@ document.getElementById('input').value=input;
        if(!result.includes("❗️") && !result.includes("❕")){
         //if contains no word charactess than skip.
         handleCorrectAns();
+        new_input='';
         
 
      }
@@ -232,7 +234,7 @@ function getCookie(cname) {
 //
 //-----------------------------------------------------------------------------
 function handleCorrectAns(){
-document.getElementById('exclamations').innerHTML='';
+
     
     document.getElementById('input').value='';
     page++;
@@ -245,6 +247,8 @@ if(page>=file.length-1){
     document.cookie = file_name+"page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC;SameSite=None; Secure"; 
 
     parseFile();
+    document.getElementById('exclamations').innerHTML='';
+    checkInput('');
 }
 //-----------------------------------------------------------------------------
 //
