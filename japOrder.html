@@ -73,7 +73,7 @@ document.getElementById('input').value=input;
      var result='';
      var right_flag=true;
 
-     if(!new_key.join('').toLowerCase().match(/[a-z]/g)){
+     if(!new_key.join('').toLowerCase().match(/\S/g)){
         //if contains no word charactess than skip.
         handleCorrectAns();
 
@@ -250,10 +250,13 @@ if(page>=file.length-1){
 //
 //-----------------------------------------------------------------------------
 function compare(left,right){
-    left=left.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
-    right=right.replace(/[^a-zA-ZäöüßÄÖÜ]/g,"");
+    //[。，、‥…『』〝〟〜：！？♪]
+    left=left.replace(/[^\S]/g,"");
+    right=right.replace(/[^\S]/g,"");
 
-
+    left=left.replace(/[。，、‥…『』〝〟〜：！？♪]/g,"");
+    right=right.replace(/[。，、‥…『』〝〟〜：！？♪]/g,"");
+    
     feedback(left);
     left=left.toLowerCase().trim();
     right=right.toLowerCase().trim();
