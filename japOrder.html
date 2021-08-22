@@ -319,12 +319,20 @@ var hirigana={
  }
 
  /*
- var objAssetSelection = $.parseJSON(strAssetSelection);
+ var reverse = $.parseJSON(strAssetSelection);
 objAssetSelection.info.reverse();
 console.log(objAssetSelection);
 */
 function interpolate(text){
- 
+    Object.keys(hirigana).forEach(function(key) {
+        console.log('Key : ' + key + ', Value : ' + hirigana[key])
+
+        var replace = hirigana[key];
+        var re = new RegExp(replace,"g");
+
+        text=text.replace(re,key);
+    })
+
     return text;
 }
 
