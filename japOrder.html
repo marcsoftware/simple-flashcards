@@ -137,6 +137,11 @@ document.getElementById('input').value=input;
 function largeHirigana(text){
     //ゃぁぃぅぇぉ
     //やあいうえお
+    //ょよゅゆ
+    
+
+    text=text.replace(/ょ/g,"よ");
+    text=text.replace(/ゅ/g,"ゆ");
     text=text.replace(/ゃ/g,"や");
     text=text.replace(/ぁ/g,"あ");
     text=text.replace(/ぃ/g,"い");
@@ -153,6 +158,8 @@ function largeHirigana(text){
 function smallHirigana(text){
     //ゃぁぃぅぇぉ
     //やあいうえお
+    text=text.replace(/よ/g,"ょ");
+    text=text.replace(/ゆ/g,"ゅ");
     text=text.replace(/や/g,"ゃ");
     text=text.replace(/あ/g,"ぁ");
     text=text.replace(/い/g,"ぃ");
