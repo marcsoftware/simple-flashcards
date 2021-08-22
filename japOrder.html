@@ -73,6 +73,7 @@ document.getElementById('input').value=input;
      var result='';
      var right_flag=true;
 
+     
      if(!new_key.join('').toLowerCase().match(/\S/g)){
         //if contains no word charactess than skip.
         handleCorrectAns();
@@ -87,7 +88,7 @@ document.getElementById('input').value=input;
           }
         }
 
-         if(new_key[i].toLowerCase()===new_input[i] || new_key[i].toUpperCase()===new_input[i]){
+         if(largeHirigana(new_key[i])===new_input[i] || smallHirigana(new_key[i])===new_input[i]){
           result+=new_key[i];
 
           
@@ -129,6 +130,37 @@ document.getElementById('input').value=input;
     document.getElementById("exclamations").innerHTML=result.join('').replace(/</g,"&lt;");
 }
 
+
+//-----------------------------------------------------------------------------
+// replace the small hirgiana with larger
+//-----------------------------------------------------------------------------
+function largeHirigana(text){
+    //ゃぁぃぅぇぉ
+    //やあいうえお
+    text=text.replace(/ゃ/g,"や");
+    text=text.replace(/ぁ/g,"あ");
+    text=text.replace(/ぃ/g,"い");
+    text=text.replace(/ぅ/g,"う");
+    text=text.replace(/ぇ/g,"え");
+    text=text.replace(/ぉ/g,"お");
+    return text;
+}
+
+
+//-----------------------------------------------------------------------------
+// replace the small hirgiana with larger
+//-----------------------------------------------------------------------------
+function smallHirigana(text){
+    //ゃぁぃぅぇぉ
+    //やあいうえお
+    text=text.replace(/や/g,"ゃ");
+    text=text.replace(/あ/g,"ぁ");
+    text=text.replace(/い/g,"ぃ");
+    text=text.replace(/う/g,"ぅ");
+    text=text.replace(/え/g,"ぇ");
+    text=text.replace(/お/g,"ぉ");
+    return text;
+}
 
 //-----------------------------------------------------------------------------
 // play audio
