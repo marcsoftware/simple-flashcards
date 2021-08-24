@@ -59,20 +59,37 @@ function init() {
   
 }
 
-//-----------------------------------------------------------------------------
+//-----------------------------------------------------------------
 //
-//-----------------------------------------------------------------------------
+//-----------------------------------------------------------------
+function showKanjiHint(input,new_key){
+    document.getElementById('kanjihint').innerHTML=''
+    
+    for(var i=0;i<new_key.length;i++){
+        if(globalkanji[new_key[i]]){
+            // show 
+            document.getElementById('kanjihint').innerHTML+=new_key+' '+globalkanji[new_key[i]];
+
+        }
+    }
+
+}
+
+//-----------------------------------------------------------------
+//
+//-----------------------------------------------------------------
 function colorLetters(input,ans_key){
 input=interpolate(input);
 document.getElementById('input').value=input;
   
-  
+    
     var spaces = ans_key;
      var new_key = ans_key.replace(/\s/g,"").split("");
      var new_input = input.replace(/\s/g,"").split("");
      var result='';
      var right_flag=true;
 
+    showKanjiHint(input,new_key);
      
      if(!new_key.join('').toLowerCase().match(/\S/g)){
         //if contains no word charactess than skip.
@@ -453,9 +470,11 @@ function feedback(text){
 <span id='ans_key'></span><br/>
 
 <span id='exclamations'></span><br/>
+<span id='kanjihint'>x</span><br/>
 <span id='feedback'></span><br/>
 <span id='color'></span><br/>
 </div>
 </body>
 </html>
+
 

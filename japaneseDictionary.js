@@ -1,4 +1,5 @@
-var kanji={
+var globalkanji={
+    "華":"missing",
 "党":"とう",
 "協":"きょう",
 "総":"そう",
