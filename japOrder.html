@@ -111,10 +111,10 @@ function showKanjiHint(input,new_key){
     document.getElementById('kanjihint').innerHTML=''
 
     for(var i=0;i<new_key.length;i++){
-        if(isKanji(new_key[i])){
-            alert('yes');
-        }
-        if(  globalkanji[new_key[i]] != undefined){
+        var x = parseInt( new_key[i].hexEncode());
+        document.getElementById('debug').innerHTML+=`${new_key[i]} :${x}`;
+        
+        if( globalkanji[new_key[i]] != undefined){
             // show 
             document.getElementById('kanjihint').innerHTML+=`
             <span class='kanji'>${new_key[i]}</span>
@@ -520,7 +520,9 @@ function feedback(text){
 <span id='ans_key'></span><br/>
 
 <span id='exclamations'></span><br/>
+<span id='debug'>x</span><br/>
 <span id='kanjihint'>x</span><br/>
+
 <span id='feedback'></span><br/>
 <span id='color'></span><br/>
 </div>
