@@ -71,10 +71,37 @@ function init() {
 //-----------------------------------------------------------------
 //
 //-----------------------------------------------------------------
-function filterKanji(new_key){
-    //  一  047000  19968   0x4E00  &#19968;
-    //  䶿   046677  19903   0x4DBF  &#19903;
-    //  new_key.charCodeAt(0);
+function isKanji(x){
+    //  一  047000  19968   0x4E00  &#19968; 19968
+    //  䶿   046677  19903   0x4DBF  &#19903; 4dbf
+    // ( 4e00 - 9faf)
+     var code = parseInt( x.hexEncode());
+     
+
+     var MIN = parseInt(0x4e00);
+     var MAX = parseInt(0x9faf);
+    if(code>=MIN && code <=MAX){
+        return true;
+    }
+    return false;
+}
+
+
+
+
+//-----------------------------------------------------------------
+//
+//-----------------------------------------------------------------
+String.prototype.hexEncode = function(){
+    var hex, i;
+
+    var result = "";
+    for (i=0; i<this.length; i++) {
+        hex = this.charCodeAt(i).toString(16);
+        result += ("000"+hex).slice(-4);
+    }
+
+    return result
 }
 
 //-----------------------------------------------------------------
@@ -84,7 +111,10 @@ function showKanjiHint(input,new_key){
     document.getElementById('kanjihint').innerHTML=''
 
     for(var i=0;i<new_key.length;i++){
-        if(globalkanji[new_key[i]] != undefined){
+        if(isKanji(new_key[i])){
+            alert('yes');
+        }
+        if(  globalkanji[new_key[i]] != undefined){
             // show 
             document.getElementById('kanjihint').innerHTML+=`
             <span class='kanji'>${new_key[i]}</span>
