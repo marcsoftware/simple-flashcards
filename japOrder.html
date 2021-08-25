@@ -55,6 +55,7 @@ function init() {
   const urlParams = new URLSearchParams(queryString);
   
    file_name = (urlParams+"").split("=")[1];
+    file_name=file_name.replace('%2F',"/");
   document.title=file_name;
 
   page=parseInt(getCookie("page"));
