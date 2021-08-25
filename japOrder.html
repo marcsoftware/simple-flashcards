@@ -359,6 +359,9 @@ if(page>=file.length-1){
 //
 //-----------------------------------------------------------------------------
 function compare(left,right){
+    if(left ==='????'){
+        return true;
+    }
     //[。，、‥…『』〝〟〜：！？♪]
     left=left.replace(/[^\S]/g,"");
     right=right.replace(/[^\S]/g,"");
@@ -523,7 +526,7 @@ function feedback(text){
 <span id='ans_key'></span><br/>
 
 <span id='exclamations'></span><br/>
-<span id='debug'>x</span><br/>
+<span id='debug'></span><br/>
 <span id='kanjihint'>x</span><br/>
 
 <span id='feedback'></span><br/>
