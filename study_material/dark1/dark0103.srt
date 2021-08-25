@@ -1,1563 +1,234 @@
-1
-00:00:06,000 --> 00:00:08,250
-♪  Komm, mach mit
-Und mach 'nen Schnitt  ♪
-
-2
-00:00:08,333 --> 00:00:11,083
-♪  Raider, der Pausensnack  ♪
-
-3
-00:00:13,041 --> 00:00:15,208
-♪  Zweimal feiner Knusperkeks  ♪
-
-4
-00:00:15,291 --> 00:00:18,416
-♪  Stillt den leichten Appetit
-Egal, wo immer du bist  ♪
-
-5
-00:00:18,500 --> 00:00:20,250
-♪  Raider, der Pausensnack  ♪
-
-6
-00:00:20,791 --> 00:00:26,000
-♪  Zweimal Schokolade und Karamell
-Raider, zweimal feiner Knusperkeks ♪
-
-7
-00:00:26,083 --> 00:00:28,333
-♪  Damit es locker weitergeht  ♪
-
-8
-00:00:28,916 --> 00:00:31,000
-♪  Komm doch mit
-Und mach 'nen Schnitt  ♪
-
-9
-00:00:32,291 --> 00:00:34,291
-[düstere Klänge]
-
-10
-00:01:06,125 --> 00:01:08,125
-[bedrohliche Musik]
-
-11
-00:01:17,250 --> 00:01:18,708
 Mama?
-
-12
-00:01:21,291 --> 00:01:23,000
 Mads?
-
-13
-00:01:26,833 --> 00:01:30,416
--Wer bist du?
--Wo sind meine Eltern?
-
-14
-00:01:39,666 --> 00:01:42,041
--Wer sind Sie?
--Weißt du, wo er ist?
-
-15
-00:01:42,833 --> 00:01:45,083
--Wo ist Mads?
--Sie tun mir weh.
-
-16
-00:01:45,166 --> 00:01:47,875
+-Wer bist du?-Wo sind meine Eltern?
+-Wer sind Sie?-Weißt du, wo er ist?
+-Wo ist Mads?-Sie tun mir weh.
 Was machst du hier? Nun sag doch was.
-
-17
-00:01:51,916 --> 00:01:54,916
 Wann kommt er denn zurück?
-
-18
-00:02:08,583 --> 00:02:11,125
 NETFLIX PRÄSENTIERT
-
-19
-00:02:11,208 --> 00:02:13,791
 EINE NETFLIX ORIGINAL SERIE
-
-20
-00:02:13,875 --> 00:02:16,541
-[Lied: "Goodbye" von Apparat]
-♪  Give me a sign  ♪
-
-21
-00:02:16,625 --> 00:02:19,375
-♪  Put down your lies  ♪
-
-22
-00:02:22,250 --> 00:02:24,916
-♪  Lay down next to me  ♪
-
-23
-00:02:25,000 --> 00:02:28,416
-♪  Don't listen when I scream  ♪
-
-24
-00:02:28,500 --> 00:02:32,208
-♪  Bury your doubts and fall asleep  ♪
-
-25
-00:02:32,291 --> 00:02:35,250
-♪  For neither ever  ♪
-
-26
-00:02:35,333 --> 00:02:37,833
-♪  Nor never  ♪
-
-27
-00:02:37,916 --> 00:02:40,708
-♪  Goodbye  ♪
-
-28
-00:02:43,458 --> 00:02:46,041
-♪  Neither ever  ♪
-
-29
-00:02:46,125 --> 00:02:48,833
-♪  Nor never  ♪
-
-30
-00:02:48,916 --> 00:02:52,125
-♪  Goodbye  ♪
-
-31
-00:02:54,583 --> 00:02:56,666
-♪  Neither ever  ♪
-
-32
-00:02:57,416 --> 00:02:59,833
-♪  Nor never  ♪
-
-33
-00:02:59,916 --> 00:03:03,333
-♪  Goodbye  ♪
-
-34
-00:03:06,291 --> 00:03:08,625
-♪  Goodbye  ♪
-
-35
-00:03:17,333 --> 00:03:20,000
-♪  Goodbye  ♪
-
-36
-00:03:42,833 --> 00:03:45,875
-[rhythmischer A-cappella-Gesang]
-
-37
-00:03:49,125 --> 00:03:51,416
 Ines, machst du die Nachtschicht?
-
-38
-00:03:51,500 --> 00:03:55,166
-Frau Schüttlers Tochter ist krank.
-Ich muss Benni fahren.
-
-39
-00:03:55,250 --> 00:03:57,208
--Du hast ja keine...
--Familie.
-
-40
-00:03:58,125 --> 00:04:01,250
--So wollte ich das nicht sagen.
--Kein Problem.
-
-41
-00:04:01,333 --> 00:04:04,083
+Frau Schüttlers Tochter ist krank.Ich muss Benni fahren.
+-Du hast ja keine...-Familie.
+-So wollte ich das nicht sagen.-Kein Problem.
 Danke. Sag bitte nichts zu Dr. Reimann.
-
-42
-00:04:09,250 --> 00:04:11,833
--Verschlossen und versiegelt.
--Danke.
-
-43
-00:04:17,958 --> 00:04:21,416
-[Rhythmischer A-cappella-Gesang
-läuft weiter.]
-
-44
-00:04:31,791 --> 00:04:34,500
-[bedrückender polyphoner Gesang]
-
-45
-00:04:52,125 --> 00:04:54,125
-[Gesang verstummt.]
-
-46
-00:04:55,916 --> 00:04:58,500
-[Radiomoderator]  Nachrichten.
-
-47
-00:04:59,625 --> 00:05:02,000
+-Verschlossen und versiegelt.-Danke.
+[Rhythmischer A-cappella-Gesangläuft weiter.]
+Nachrichten.
 5. November '86.
-
-48
-00:05:02,083 --> 00:05:06,958
-Nach dem Verschwinden eines 11-Jährigen
-in Winden vor mehr als vier Wochen
-
-49
-00:05:07,041 --> 00:05:10,750
-werden die Stimmen gegen die Ermittler
-immer lauter.
-
-50
-00:05:10,833 --> 00:05:13,916
-- Der Fall wirft einige Rätsel auf.
--[Telefon klingelt.]
-
-51
-00:05:14,000 --> 00:05:16,583
+Nach dem Verschwinden eines 11-Jährigenin Winden vor mehr als vier Wochen
+werden die Stimmen gegen die Ermittlerimmer lauter.
+- Der Fall wirft einige Rätsel auf.-
 Trotz weitflächiger Suche der Polizei
-
-52
-00:05:16,666 --> 00:05:19,666
-wurde keine einzige
-verwertbare Spur gefunden.
-
-53
-00:05:19,750 --> 00:05:23,750
--[Telefon klingelt.]
-- Die Polizei bittet weiter um Mithilfe.
-
-54
-00:05:24,750 --> 00:05:27,750
-- Nach dem Brand im Chemiekonzern...
--Tiedemann.
-
-55
-00:05:27,833 --> 00:05:29,666
+wurde keine einzigeverwertbare Spur gefunden.
+-- Die Polizei bittet weiter um Mithilfe.
+- Nach dem Brand im Chemiekonzern...-Tiedemann.
 ...spitzt sich die Lage zu.
-
-56
-00:05:29,750 --> 00:05:31,000
 Wo?
-
-57
-00:05:31,791 --> 00:05:35,875
-- Im Rhein wurden Giftstoffe nachgewiesen.
--Ich bin unterwegs.
-
-58
-00:05:39,541 --> 00:05:43,041
+- Im Rhein wurden Giftstoffe nachgewiesen.-Ich bin unterwegs.
 Gerade in Zeiten wie diesen gilt es...
-
-59
-00:05:43,916 --> 00:05:46,833
 ...sich den eigenen Ängsten zu stellen.
-
-60
-00:05:46,916 --> 00:05:48,666
 Denn die Zukunft...
-
-61
-00:05:48,750 --> 00:05:50,625
-[unverständliches Murmeln]
-
-62
-00:05:52,208 --> 00:05:54,250
 Denn die Zukunft gehört den Mutigen.
-
-63
-00:05:55,125 --> 00:05:58,208
-Nicht den Zweiflern,
-nicht den ewig Gestrigen.
-
-64
-00:06:01,791 --> 00:06:05,375
-So, wie du aussiehst,
-kannst du nicht zur Schule gehen.
-
-65
-00:06:05,458 --> 00:06:09,000
-Du hast keine Vorstellung von dem,
-was ich mache.
-
-66
-00:06:09,083 --> 00:06:12,666
-Essen, Kleidung, Fechtunterricht...
-Wer bezahlt das?
-
-67
-00:06:14,208 --> 00:06:16,625
+Nicht den Zweiflern,nicht den ewig Gestrigen.
+So, wie du aussiehst,kannst du nicht zur Schule gehen.
+Du hast keine Vorstellung von dem,was ich mache.
+Essen, Kleidung, Fechtunterricht...Wer bezahlt das?
 Du kämmst dir nicht mal die Haare.
-
-68
-00:06:17,458 --> 00:06:20,625
-Du sitzt da wie ein Schluck Wasser
-in der Kurve.
-
-69
-00:06:22,166 --> 00:06:24,250
+Du sitzt da wie ein Schluck Wasserin der Kurve.
 Hallo, Regina, ich rede mit dir.
-
-70
-00:06:25,125 --> 00:06:27,916
 Ich lasse mir das von dir nicht versauen.
-
-71
-00:06:32,333 --> 00:06:36,458
-Der Entschluss, diese Position erstmals
-einer Frau anzuvertrauen...
-
-72
-00:06:36,541 --> 00:06:39,875
-[Lied: "Shout" von Tears for Fears]
-
-73
-00:06:39,958 --> 00:06:44,708
-♪  They gave you life  ♪
-
-74
-00:06:44,791 --> 00:06:47,750
-♪  And in return you gave them hell  ♪
-
-75
-00:06:49,625 --> 00:06:53,166
-♪  As cold as ice  ♪
-
-76
-00:06:54,000 --> 00:06:58,791
-♪  I hope we live to tell the tale  ♪
-
-77
-00:06:58,875 --> 00:07:01,291
-♪  I hope we live to tell the tale  ♪
-
-78
-00:07:01,375 --> 00:07:05,333
-♪  Shout, shout, let it all out  ♪
-
-79
-00:07:05,416 --> 00:07:09,666
-♪  These are the things I can do without  ♪
-
-80
-00:07:09,750 --> 00:07:16,000
-♪  Come on
-I'm talking to you, come on  ♪
-
-81
-00:07:17,291 --> 00:07:20,833
--Das ist super. Weißt du, worum es geht?
--Nein.
-
-82
-00:07:20,916 --> 00:07:24,041
-Um einen Mann,
-der ein Mädchen entführt und verschleppt.
-
-83
-00:07:24,125 --> 00:07:27,375
-Nur wegen ihres roten Lippenstifts.
-Er bringt sie um.
-
-84
-00:07:27,458 --> 00:07:28,708
+Der Entschluss, diese Position erstmalseiner Frau anzuvertrauen...
+-Das ist super. Weißt du, worum es geht?-Nein.
+Um einen Mann,der ein Mädchen entführt und verschleppt.
+Nur wegen ihres roten Lippenstifts.Er bringt sie um.
 Heftig.
-
-85
-00:07:28,791 --> 00:07:31,125
 Lippenstift ist was für Nutten.
-
-86
-00:07:31,750 --> 00:07:34,708
-Und ich finde Nino de Angelo
-besser als Falco.
-
-87
-00:07:34,791 --> 00:07:40,208
--Hannah, du bist so alt wie der Wald.
--Komm, Katharina, sei nicht so gemein.
-
-88
-00:07:44,250 --> 00:07:47,458
-Was guckst du so?
-Warst du nicht bei Ulrich?
-
-89
-00:07:47,916 --> 00:07:49,750
+Und ich finde Nino de Angelobesser als Falco.
+-Hannah, du bist so alt wie der Wald.-Komm, Katharina, sei nicht so gemein.
+Was guckst du so?Warst du nicht bei Ulrich?
 Bist du neu hier?
-
-90
-00:07:50,416 --> 00:07:55,125
--Ich... Ich suche meine Mama.
--Hier ist nicht der Kindergarten.
-
-91
-00:07:55,208 --> 00:07:57,708
--Die ist hier Direktorin.
--Herr Hubert?
-
-92
-00:07:58,583 --> 00:08:01,375
-Der ist vielleicht 'ne Schwuchtel,
-aber keine Frau.
-
-93
-00:08:02,750 --> 00:08:05,208
+-Ich... Ich suche meine Mama.-Hier ist nicht der Kindergarten.
+-Die ist hier Direktorin.-Herr Hubert?
+Der ist vielleicht 'ne Schwuchtel,aber keine Frau.
 Ist das denn hier nicht Winden?
-
-94
-00:08:06,791 --> 00:08:11,125
--Bist du nicht zu jung für Acid?
--[Mädchen] Habt ihr Geschichte?
-
-95
-00:08:48,041 --> 00:08:50,041
--Morgen, Claudia.
--Morgen.
-
-96
-00:08:50,583 --> 00:08:52,750
--Erster Tag als Chefin?
--Ja.
-
-97
-00:08:53,291 --> 00:08:57,125
-Mein Vater sagte,
-der Vorstand stimmte einstimmig für dich.
-
-98
-00:08:58,208 --> 00:08:59,791
+-Bist du nicht zu jung für Acid?- Habt ihr Geschichte?
+-Morgen, Claudia.-Morgen.
+-Erster Tag als Chefin?-Ja.
+Mein Vater sagte,der Vorstand stimmte einstimmig für dich.
 Ich wollte...
-
-99
-00:09:00,916 --> 00:09:02,750
--Glückwunsch.
--Danke.
-
-100
-00:09:02,833 --> 00:09:05,708
+-Glückwunsch.-Danke.
 Ich wusste, dass aus dir mal was wird.
-
-101
-00:09:05,791 --> 00:09:07,833
--Ach, Helge.
--Und ich hab...
-
-102
-00:09:10,750 --> 00:09:12,750
+-Ach, Helge.-Und ich hab...
 Ein Geschenk für dich.
-
-103
-00:09:16,875 --> 00:09:18,708
 Das ist ein Buch.
-
-104
-00:09:19,541 --> 00:09:20,958
 Danke.
-
-105
-00:09:25,416 --> 00:09:28,166
 Also, ich bin spät dran. Ich muss los.
-
-106
-00:09:31,041 --> 00:09:33,041
 Wir stehen alle hinter dir, Clau...
-
-107
-00:09:40,833 --> 00:09:42,833
 KEINE ZUKUNFT
-
-108
-00:09:42,916 --> 00:09:46,958
-[Mann]  Kurz vor sechs wollte ich
-sie füttern. Und dann das.
-
-109
-00:09:50,875 --> 00:09:53,166
-[Tiedemann] Vielleicht ein Wolf?
-
-110
-00:09:55,041 --> 00:09:57,291
+Kurz vor sechs wollte ichsie füttern. Und dann das.
+Vielleicht ein Wolf?
 Keine Bissspuren. Nichts.
-
-111
-00:10:01,166 --> 00:10:02,750
 Vergiftet?
-
-112
-00:10:03,291 --> 00:10:07,666
-Gestern sprangen sie noch rum.
-Erst der Junge und jetzt das hier.
-
-113
-00:10:07,750 --> 00:10:09,791
+Gestern sprangen sie noch rum.Erst der Junge und jetzt das hier.
 Das gab es hier früher nicht.
-
-114
-00:10:10,250 --> 00:10:12,666
 Wer tötet denn einfach 33 Schafe?
-
-115
-00:10:17,000 --> 00:10:18,833
 "Sehet zu, wachet und betet.
-
-116
-00:10:19,875 --> 00:10:22,541
-Denn sie wissen nicht,
-wann die Zeit kommet."
-
-117
-00:10:25,125 --> 00:10:27,875
+Denn sie wissen nicht,wann die Zeit kommet."
 Markusevangelium 13, 33.
-
-118
-00:10:29,833 --> 00:10:32,208
 Wusste nicht, dass Sie gläubig sind.
-
-119
-00:10:32,833 --> 00:10:35,708
 Wir haben einen neuen Pfarrer. Guter Mann.
-
-120
-00:10:39,750 --> 00:10:41,750
-[düstere Klänge]
-
-121
-00:10:50,375 --> 00:10:52,750
 Frau Tiedemann! Frau Tiedemann.
-
-122
-00:10:52,833 --> 00:10:57,000
-Tronte Nielsen vom Tagesanzeiger ist da.
-Wegen dem Interview.
-
-123
-00:10:57,500 --> 00:11:01,375
-Hier sind die Werte aus '86 und '85,
-die Sie haben wollten.
-
-124
-00:11:04,541 --> 00:11:06,708
+Tronte Nielsen vom Tagesanzeiger ist da.Wegen dem Interview.
+Hier sind die Werte aus '86 und '85,die Sie haben wollten.
 Nicht einfach, da ranzukommen.
-
-125
-00:11:08,250 --> 00:11:12,833
-Herzlichen Glückwunsch.
-Unglaublich, dass wir eine Chefin haben.
-
-126
-00:11:15,083 --> 00:11:17,750
+Herzlichen Glückwunsch.Unglaublich, dass wir eine Chefin haben.
 Sind das auch die richtigen Zahlen?
-
-127
-00:11:17,833 --> 00:11:18,833
 Ja.
-
-128
-00:11:30,208 --> 00:11:33,458
-[Schreibmaschine klackt.]
-
-129
-00:11:38,750 --> 00:11:40,750
-[fröhliche Popmusik im Radio]
-
-130
-00:11:51,416 --> 00:11:54,833
--Was willst du denn hier?
--Ich...
-
-131
-00:11:55,583 --> 00:11:57,000
+-Was willst du denn hier?-Ich...
 Ich will zu meinem Vater.
-
-132
-00:12:00,541 --> 00:12:02,666
 Wie heißt er denn?
-
-133
-00:12:02,750 --> 00:12:04,083
 Ulrich Nielsen.
-
-134
-00:12:04,750 --> 00:12:07,541
 Ulrich Nielsen. Der Ulrich Nielsen?
-
-135
-00:12:08,291 --> 00:12:10,958
--Arbeitet der denn nicht hier?
--Nein.
-
-136
-00:12:11,791 --> 00:12:13,791
+-Arbeitet der denn nicht hier?-Nein.
 Das wird er bestimmt auch nie.
-
-137
-00:12:17,916 --> 00:12:21,708
-Ach, das ist ein Witz?
-Ist das auf Ulrichs Mist gewachsen?
-
-138
-00:12:22,333 --> 00:12:24,458
-[Radiomusik verstummt.]
-
-139
-00:12:33,125 --> 00:12:34,833
+Ach, das ist ein Witz?Ist das auf Ulrichs Mist gewachsen?
 War er das?
-
-140
-00:12:36,583 --> 00:12:38,291
 Hat Ulrich das gemacht?
-
-141
-00:12:41,083 --> 00:12:43,666
--Wie heißt du?
--Mikkel.
-
-142
-00:12:43,750 --> 00:12:45,583
--Weiter?
--Nielsen.
-
-143
-00:12:46,250 --> 00:12:48,125
+-Wie heißt du?-Mikkel.
+-Weiter?-Nielsen.
 Ich bin Ulrichs Sohn.
-
-144
-00:12:50,041 --> 00:12:54,166
-Sag mir, wie deine Eltern wirklich heißen.
-Dann bringe ich dich heim.
-
-145
-00:12:55,583 --> 00:12:58,416
--Welcher Tag ist heute?
--5. November.
-
-146
-00:12:59,708 --> 00:13:01,458
+Sag mir, wie deine Eltern wirklich heißen.Dann bringe ich dich heim.
+-Welcher Tag ist heute?-5. November.
 Welches Jahr?
-
-147
-00:13:01,541 --> 00:13:03,500
 1986.
-
-148
-00:13:05,000 --> 00:13:06,875
-1986.
-
-149
-00:13:06,958 --> 00:13:10,416
-[kurzes dumpfes Rauschen]
-
-150
-00:13:17,333 --> 00:13:19,333
-[unheilvolle Klänge]
-
-151
-00:13:21,708 --> 00:13:25,000
-Tiedemann.
-Ich habe hier einen verletzten Jungen.
-
-152
-00:13:25,416 --> 00:13:27,541
+Tiedemann.Ich habe hier einen verletzten Jungen.
 Kann den einer von euch holen?
-
-153
-00:13:28,416 --> 00:13:29,416
-Danke.
-
-154
-00:13:32,666 --> 00:13:36,500
-Gleich holt dich jemand ab
-und kümmert sich um das.
-
-155
-00:13:36,958 --> 00:13:40,416
-Und ich kümmere mich
-in der Zeit um Ulrich.
-
-156
-00:13:43,666 --> 00:13:47,083
-Der wird dir nicht mehr wehtun.
-Das verspreche ich dir.
-
-157
-00:14:07,791 --> 00:14:09,791
-[Absätze klacken.]
-
-158
-00:14:19,666 --> 00:14:22,791
+Gleich holt dich jemand abund kümmert sich um das.
+Und ich kümmere michin der Zeit um Ulrich.
+Der wird dir nicht mehr wehtun.Das verspreche ich dir.
 Ein Interview? Ist das dein Ernst, Tronte?
-
-159
-00:14:23,916 --> 00:14:28,333
-Die Leute interessiert das.
-Eine Frau, die ein Kernkraftwerk leitet.
-
-160
-00:14:28,416 --> 00:14:32,125
--Das ist selbst für heute progressiv.
--Ich habe keine Zeit.
-
-161
-00:14:32,208 --> 00:14:35,208
-Mach bei meiner Sekretärin
-einen neuen Termin.
-
-162
-00:14:35,833 --> 00:14:37,083
+Die Leute interessiert das.Eine Frau, die ein Kernkraftwerk leitet.
+-Das ist selbst für heute progressiv.-Ich habe keine Zeit.
+Mach bei meiner Sekretärineinen neuen Termin.
 Hey.
-
-163
-00:14:39,958 --> 00:14:41,708
 Ich vermisse dich.
-
-164
-00:14:45,458 --> 00:14:47,708
 Ich dachte, wir haben das geklärt.
-
-165
-00:14:48,916 --> 00:14:53,166
-Du kannst mich nicht so hängen lassen.
-Claudia, ich brauche dich.
-
-166
-00:14:53,250 --> 00:14:55,333
+Du kannst mich nicht so hängen lassen.Claudia, ich brauche dich.
 Mir fällt die Decke auf den Kopf.
-
-167
-00:14:55,916 --> 00:15:00,083
--Jana dreht immer mehr durch...
--Ich will, dass du gehst.
-
-168
-00:15:01,000 --> 00:15:02,625
+-Jana dreht immer mehr durch...-Ich will, dass du gehst.
 Heute Abend?
-
-169
-00:15:04,166 --> 00:15:05,500
 Bitte.
-
-170
-00:15:06,375 --> 00:15:07,416
 Vielleicht.
-
-171
-00:15:24,583 --> 00:15:26,000
-[Piepton]
-
-172
-00:15:26,083 --> 00:15:30,583
-Kein Anschluss unter dieser Nummer.
-Bitte rufen Sie die Auskunft an.
-
-173
-00:15:47,291 --> 00:15:49,291
-[düstere Klänge]
-
-174
-00:16:29,166 --> 00:16:31,250
-[Es klopft.]
-
-175
-00:16:41,208 --> 00:16:42,375
+Kein Anschluss unter dieser Nummer.Bitte rufen Sie die Auskunft an.
 Hallo.
-
-176
-00:16:49,416 --> 00:16:53,333
-Ich bin Schwester Ines.
-Aber du kannst Ines zu mir sagen.
-
-177
-00:16:59,625 --> 00:17:01,750
+Ich bin Schwester Ines.Aber du kannst Ines zu mir sagen.
 Ich bringe dich ins Krankenhaus.
-
-178
-00:17:02,750 --> 00:17:04,958
 Da schauen wir uns deinen Arm an, okay?
-
-179
-00:17:07,166 --> 00:17:09,750
 Danach bringe ich dich nach Hause.
-
-180
-00:17:30,250 --> 00:17:32,250
-[laute Heavy-Metal-Musik]
-
-181
-00:17:33,208 --> 00:17:34,833
-[Klingel ertönt.]
-
-182
-00:17:48,750 --> 00:17:49,875
 Hallo?
-
-183
-00:17:53,708 --> 00:17:54,708
-Hallo?
-
-184
-00:17:56,291 --> 00:17:58,291
-[laute Heavy-Metal-Musik]
-
-185
-00:18:01,916 --> 00:18:02,916
-Hallo?
-
-186
-00:18:16,166 --> 00:18:18,958
-[laute Heavy-Metal-Musik]
-
-187
-00:18:30,708 --> 00:18:32,750
-KEINE ZUKUNFT
-
-188
-00:18:41,291 --> 00:18:43,000
 Was wollen Sie hier?
-
-189
-00:18:45,083 --> 00:18:48,416
 "My only aim is to take many lives.
-
-190
-00:18:48,500 --> 00:18:50,208
 The more the better I feel."
-
-191
-00:18:50,750 --> 00:18:52,583
 Warum hörst du so was?
-
-192
-00:18:55,916 --> 00:18:59,541
-Der Junge, den du geschickt hast...
-Findest du das lustig?
-
-193
-00:18:59,625 --> 00:19:02,666
--Welcher Junge?
--Damit kommst du nicht durch.
-
-194
-00:19:08,125 --> 00:19:11,125
--Haben wir schon wieder gesoffen?
--Wie bitte?
-
-195
-00:19:11,208 --> 00:19:14,708
--Haben Sie wieder gesoffen?
--Für wen hältst du dich?
-
-196
-00:19:15,625 --> 00:19:19,500
-Ich will genau wie du,
-dass wir deinen Bruder finden.
-
-197
-00:19:36,583 --> 00:19:39,916
--Was ist das?
--Ein Huf. Das sieht man doch.
-
-198
-00:19:40,500 --> 00:19:43,000
--Warst du das auf der Wiese?
--Welche Wiese?
-
-199
-00:19:43,083 --> 00:19:47,000
--Hast du die Schafe getötet?
--Wenn du nicht saufen würdest...
-
-200
-00:19:48,750 --> 00:19:52,291
--Dann wäre Mads schon wieder hier.
--Herr Tiedemann.
-
-201
-00:19:57,041 --> 00:19:58,500
+Der Junge, den du geschickt hast...Findest du das lustig?
+-Welcher Junge?-Damit kommst du nicht durch.
+-Haben wir schon wieder gesoffen?-Wie bitte?
+-Haben Sie wieder gesoffen?-Für wen hältst du dich?
+Ich will genau wie du,dass wir deinen Bruder finden.
+-Was ist das?-Ein Huf. Das sieht man doch.
+-Warst du das auf der Wiese?-Welche Wiese?
+-Hast du die Schafe getötet?-Wenn du nicht saufen würdest...
+-Dann wäre Mads schon wieder hier.-Herr Tiedemann.
 Die Tür war offen.
-
-202
-00:19:58,583 --> 00:20:01,708
-Wegen Mads.
-Er hat ja den Schlüssel vergessen.
-
-203
-00:20:02,791 --> 00:20:06,000
-Er will dir
-den neusten Ermittlungsstand mitteilen.
-
-204
-00:20:06,083 --> 00:20:08,000
+Wegen Mads.Er hat ja den Schlüssel vergessen.
+Er will dirden neusten Ermittlungsstand mitteilen.
 Es gibt neue Erkenntnisse.
-
-205
-00:20:08,958 --> 00:20:10,458
 Hm?
-
-206
-00:20:10,541 --> 00:20:12,958
 Eben. Gar nichts haben Sie.
-
-207
-00:20:13,041 --> 00:20:14,875
 Jetzt verpissen Sie sich.
-
-208
-00:20:17,125 --> 00:20:19,250
-[laute Heavy-Metal-Musik]
-
-209
-00:20:57,916 --> 00:20:59,708
 Alles funktioniert noch.
-
-210
-00:21:00,833 --> 00:21:02,625
 Wie ist das passiert?
-
-211
-00:21:03,208 --> 00:21:04,500
-Hm?
-
-212
-00:21:08,000 --> 00:21:10,666
 Deinen Namen willst du uns nicht verraten?
-
-213
-00:21:13,166 --> 00:21:15,458
-[Piepsen]
-
-214
-00:21:18,791 --> 00:21:23,666
-Schwester Ines macht dir einen Verband.
-Dann kannst du wieder nach Hause.
-
-215
-00:21:48,750 --> 00:21:50,583
-[traurige Musik]
-
-216
-00:21:50,666 --> 00:21:52,458
-[leises Schluchzen]
-
-217
-00:22:04,000 --> 00:22:08,041
-Nicht weinen.
-Nicht weinen. Es wird alles wieder gut.
-
-218
-00:22:29,833 --> 00:22:31,541
-[Es klopft.]
-
-219
-00:22:31,625 --> 00:22:33,875
+Schwester Ines macht dir einen Verband.Dann kannst du wieder nach Hause.
+Nicht weinen.Nicht weinen. Es wird alles wieder gut.
 Bernd, ich muss mit dir reden.
-
-220
-00:22:40,458 --> 00:22:45,041
-Wolltest du mir das unterjubeln?
-Ich fragte dich nach Leichen im Keller.
-
-221
-00:22:46,666 --> 00:22:51,208
-Manche Dinge muss man wissen,
-und manche muss man nicht wissen,
-
-222
-00:22:51,291 --> 00:22:53,875
+Wolltest du mir das unterjubeln?Ich fragte dich nach Leichen im Keller.
+Manche Dinge muss man wissen,und manche muss man nicht wissen,
 weil man sie ohnehin nicht ändern kann.
-
-223
-00:22:54,958 --> 00:22:59,625
-Was ist das? Diese Werte haben nichts
-mit den Meldewerten zu tun. Hier.
-
-224
-00:23:02,166 --> 00:23:03,416
+Was ist das? Diese Werte haben nichtsmit den Meldewerten zu tun. Hier.
 Und hier.
-
-225
-00:23:04,708 --> 00:23:08,041
 Überall. Es geht seit drei Monaten so.
-
-226
-00:23:08,541 --> 00:23:12,375
-Weißt du,
-was sich seit Tschernobyl verändert hat?
-
-227
-00:23:13,541 --> 00:23:17,458
-Die Leute haben das Vertrauen
-in die Kernenergie verloren.
-
-228
-00:23:17,541 --> 00:23:19,250
+Weißt du,was sich seit Tschernobyl verändert hat?
+Die Leute haben das Vertrauenin die Kernenergie verloren.
 Die sahen die Bilder.
-
-229
-00:23:20,583 --> 00:23:22,500
 Das vergessen sie nicht mehr.
-
-230
-00:23:24,375 --> 00:23:28,125
-Aber Angst ist
-der schlimmste Feind des Fortschritts.
-
-231
-00:23:32,916 --> 00:23:34,041
+Aber Angst istder schlimmste Feind des Fortschritts.
 Und?
-
-232
-00:23:36,208 --> 00:23:39,541
-Wie viele Leute hier in der Gegend
-leben vom AKW?
-
-233
-00:23:42,875 --> 00:23:46,750
--Wir haben 612 Angestellte, exklusive...
--Alle.
-
-234
-00:23:46,833 --> 00:23:49,291
+Wie viele Leute hier in der Gegendleben vom AKW?
+-Wir haben 612 Angestellte, exklusive...-Alle.
 Wenn du morgen den Posten antrittst,
-
-235
-00:23:49,375 --> 00:23:52,541
-trägst du nicht nur
-die Verantwortung fürs AKW.
-
-236
-00:23:52,625 --> 00:23:56,416
-Dann trägst du auch die Verantwortung
-für die ganze Stadt.
-
-237
-00:23:57,333 --> 00:24:00,791
-Und jetzt sag mir,
-dass ich mich nicht in dir getäuscht habe.
-
-238
-00:24:09,083 --> 00:24:11,875
+trägst du nicht nurdie Verantwortung fürs AKW.
+Dann trägst du auch die Verantwortungfür die ganze Stadt.
+Und jetzt sag mir,dass ich mich nicht in dir getäuscht habe.
 Dann sollte ich wissen, was das bedeutet.
-
-239
-00:24:49,416 --> 00:24:52,291
-Und?
-Bei der Tochter alles im grünen Bereich?
-
-240
-00:24:53,541 --> 00:24:55,500
+Und?Bei der Tochter alles im grünen Bereich?
 Ja, alles grün.
-
-241
-00:24:58,458 --> 00:25:02,958
-Ist ja ein großes Ding:
-eine Frau und die Leitung des AKW.
-
-242
-00:25:03,916 --> 00:25:05,541
+Ist ja ein großes Ding:eine Frau und die Leitung des AKW.
 Ja, schon.
-
-243
-00:25:06,916 --> 00:25:09,291
--Und die Enkelin?
--Regina?
-
-244
-00:25:10,250 --> 00:25:11,875
+-Und die Enkelin?-Regina?
 Auch gut.
-
-245
-00:25:14,208 --> 00:25:16,041
 Sind die nun vergiftet worden?
-
-246
-00:25:16,541 --> 00:25:17,666
 Kaum.
-
-247
-00:25:18,291 --> 00:25:21,583
--Alles deutet auf plötzlichen Herztod hin.
--Herztod?
-
-248
-00:25:21,666 --> 00:25:23,916
--Ja.
--Alle 33?
-
-249
-00:25:24,000 --> 00:25:27,458
-Ganz typisch für Schafe.
-Sie sind echte Sensibelchen.
-
-250
-00:25:27,541 --> 00:25:31,958
-Wenn die in Panik geraten,
-steigert sich die ganze Herde da rein.
-
-251
-00:25:32,041 --> 00:25:34,166
+-Alles deutet auf plötzlichen Herztod hin.-Herztod?
+-Ja.-Alle 33?
+Ganz typisch für Schafe.Sie sind echte Sensibelchen.
+Wenn die in Panik geraten,steigert sich die ganze Herde da rein.
 Ein Teufelskreis. Die fallen um.
-
-252
-00:25:35,208 --> 00:25:36,666
 Wie die Fliegen.
-
-253
-00:25:37,583 --> 00:25:40,916
--Was kann so eine Panik auslösen?
--Alles Mögliche.
-
-254
-00:25:43,083 --> 00:25:45,791
--Auch ein Mensch?
--Ein einzelner Mensch?
-
-255
-00:25:46,541 --> 00:25:50,625
-Wenn er nicht Freddy Krueger ist,
-muss er sich schon anstrengen.
-
-256
-00:25:53,208 --> 00:25:55,666
+-Was kann so eine Panik auslösen?-Alles Mögliche.
+-Auch ein Mensch?-Ein einzelner Mensch?
+Wenn er nicht Freddy Krueger ist,muss er sich schon anstrengen.
 Hatte eines von diesen Schafen...
-
-257
-00:25:57,666 --> 00:26:00,833
 Ich meine... Fehlte dem ein Huf?
-
-258
-00:26:02,958 --> 00:26:06,541
-Nein.
-Alle so, wie der liebe Gott sie schuf.
-
-259
-00:26:09,416 --> 00:26:11,541
+Nein.Alle so, wie der liebe Gott sie schuf.
 Kennst du dich mit Satanisten aus?
-
-260
-00:26:12,958 --> 00:26:15,250
 Du glaubst, das waren Satanisten?
-
-261
-00:26:16,500 --> 00:26:20,708
-Soweit ich weiß,
-machen die da ein großes Brimborium draus.
-
-262
-00:26:20,791 --> 00:26:23,208
+Soweit ich weiß,machen die da ein großes Brimborium draus.
 Da müssten Spuren auf der Wiese sein.
-
-263
-00:26:26,750 --> 00:26:28,000
 Seltsam.
-
-264
-00:26:28,750 --> 00:26:30,250
 Komm.
-
-265
-00:26:32,500 --> 00:26:36,125
-Die Trommelfelle sind geplatzt.
-Auf beiden Seiten.
-
-266
-00:26:36,625 --> 00:26:38,125
-Seltsam.
-
-267
-00:26:40,041 --> 00:26:44,541
-Kommst du zu unserer Party?
-Meine Frau macht diese Hackfleischdinger.
-
-268
-00:26:45,875 --> 00:26:48,750
+Die Trommelfelle sind geplatzt.Auf beiden Seiten.
+Kommst du zu unserer Party?Meine Frau macht diese Hackfleischdinger.
 Sauscharf, aber auch saulecker.
-
-269
-00:26:56,375 --> 00:26:58,666
-[Wind rauscht.]
-
-270
-00:27:18,916 --> 00:27:20,875
 Was wir wissen, ist ein Tropfen.
-
-271
-00:27:21,833 --> 00:27:23,708
 Was wir nicht wissen,
-
-272
-00:27:23,791 --> 00:27:25,333
 ein Ozean.
-
-273
-00:27:35,958 --> 00:27:37,958
-[bedrohliche Klänge]
-
-274
-00:27:48,041 --> 00:27:50,041
-[spannungsvolle Musik]
-
-275
-00:28:09,625 --> 00:28:11,875
-[Sie keucht.]
-
-276
-00:28:21,208 --> 00:28:24,333
-[Ines] Willst du mir nicht sagen,
-wie du heißt?
-
-277
-00:28:28,625 --> 00:28:30,625
+Willst du mir nicht sagen,wie du heißt?
 Willst du nicht nach Hause?
-
-278
-00:28:38,166 --> 00:28:41,166
 Wenn da was passiert ist zu Hause, ja...
-
-279
-00:28:43,791 --> 00:28:46,208
 ...kannst du erst mal hierbleiben.
-
-280
-00:28:55,750 --> 00:28:58,000
 Wenn du reden willst, ich bin da.
-
-281
-00:28:59,916 --> 00:29:01,916
 Ich habe auch Nachtschicht.
-
-282
-00:29:08,375 --> 00:29:10,208
 Hier ist was zu lesen.
-
-283
-00:29:13,041 --> 00:29:14,750
 Ich komme aus der Zukunft.
-
-284
-00:29:17,416 --> 00:29:18,916
 Was hast du gesagt?
-
-285
-00:29:22,125 --> 00:29:24,041
-Ich komme aus der Zukunft.
-
-286
-00:29:36,083 --> 00:29:38,083
-[bedrohliche Klänge]
-
-287
-00:30:04,541 --> 00:30:07,458
-[Bedrohliche Klänge werden lauter.]
-
-288
-00:30:24,208 --> 00:30:26,875
-[Schlüssel klackt im Schloss.]
-
-289
-00:30:26,958 --> 00:30:28,875
-[kurzer Piepton]
-
-290
-00:30:30,375 --> 00:30:32,458
-[kurzer Piepton]
-
-291
-00:30:37,125 --> 00:30:38,291
-Mama?
-
-292
-00:30:42,625 --> 00:30:46,375
-Hier ist Mama.
-Wenn du das hörst, mach dir eine Pizza.
-
-293
-00:30:46,458 --> 00:30:49,291
+Hier ist Mama.Wenn du das hörst, mach dir eine Pizza.
 Ich komme später. Ich muss was erledigen.
-
-294
-00:31:56,000 --> 00:31:58,083
-[dumpfes Krachen in der Ferne]
-
-295
-00:32:14,416 --> 00:32:17,666
-[Knistern]
-
-296
-00:32:33,333 --> 00:32:36,250
-[melancholische Musik]
-
-297
-00:33:20,625 --> 00:33:22,458
-[stumme Szene]
-
-298
-00:33:46,791 --> 00:33:49,125
--Hey, Hannah.
--Hey, Ulrich.
-
-299
-00:34:06,291 --> 00:34:09,458
--Ist das jetzt die Apokalypse?
--Hm...
-
-300
-00:34:10,208 --> 00:34:11,750
+-Hey, Hannah.-Hey, Ulrich.
+-Ist das jetzt die Apokalypse?-Hm...
 Schon etwas enttäuschend.
-
-301
-00:34:11,833 --> 00:34:15,041
-Ich hab es mir
-irgendwie lauter vorgestellt. Greller.
-
-302
-00:34:16,875 --> 00:34:20,166
-[getragene Instrumentalmusik]
-
-303
-00:34:54,708 --> 00:34:56,708
-[Klacken]
-
-304
-00:35:06,833 --> 00:35:10,541
-Wenn die Welt heute ausgelöscht wird
-und alles neu beginnt,
-
-305
-00:35:10,625 --> 00:35:12,208
+Ich hab es mirirgendwie lauter vorgestellt. Greller.
+Wenn die Welt heute ausgelöscht wirdund alles neu beginnt,
 was würdest du dir wünschen?
-
-306
-00:35:12,291 --> 00:35:13,833
 Ganz klar.
-
-307
-00:35:14,458 --> 00:35:16,000
 Eine Welt ohne Winden.
-
-308
-00:35:22,625 --> 00:35:26,125
--Auf eine Welt ohne Winden.
--Auf eine Welt ohne Winden.
-
-309
-00:35:39,541 --> 00:35:42,041
+-Auf eine Welt ohne Winden.-Auf eine Welt ohne Winden.
 Winden will nicht so einfach weg.
-
-310
-00:35:43,250 --> 00:35:45,458
 Vielleicht beim nächsten Mal.
-
-311
-00:35:47,208 --> 00:35:50,625
-[ruhige Klaviermusik]
-
-312
-00:36:04,541 --> 00:36:08,583
-[Lied: "Familiar" von Agnes Obel]
-♪  Can you walk on the water with I  ♪
-
-313
-00:36:08,666 --> 00:36:11,041
-♪  You and I?  ♪
-
-314
-00:36:11,125 --> 00:36:15,541
-♪  "Because your blood's running cold"
-Said the familiar  ♪
-
-315
-00:36:15,625 --> 00:36:18,666
-♪  True to life ♪
-
-316
-00:36:18,750 --> 00:36:23,000
-♪  Can you walk on the water with I  ♪
-
-317
-00:36:23,083 --> 00:36:24,875
-♪  You and I?  ♪
-
-318
-00:36:24,958 --> 00:36:29,250
-♪  Or keep your eyes on the road
-And live there familiar  ♪
-
-319
-00:36:29,333 --> 00:36:32,375
-♪  Without you and I  ♪
-
-320
-00:36:33,291 --> 00:36:36,458
-♪  It glows with gates of gold  ♪
-
-321
-00:36:36,541 --> 00:36:39,833
-♪  True to life ♪
-
-322
-00:36:48,333 --> 00:36:51,916
-♪  And our love is a ghost
-That the others can't see  ♪
-
-323
-00:36:53,125 --> 00:36:57,583
-♪  It's a danger
-Every shade of us you fade down to keep  ♪
-
-324
-00:37:03,750 --> 00:37:07,083
-♪  Gonna be the death of me  ♪
-
-325
-00:37:07,166 --> 00:37:08,875
-♪  It's a danger  ♪
-
-326
-00:37:08,958 --> 00:37:14,000
-♪  'Cause our love is a ghost
-That the others can't see  ♪
-
-327
-00:37:25,166 --> 00:37:29,875
-♪  We took a walk to the summit at night  ♪
-
-328
-00:37:29,958 --> 00:37:31,791
-♪  You and I?  ♪
-
-329
-00:37:44,583 --> 00:37:49,250
-♪  And our love is a ghost
-That the others can't see  ♪
-
-330
-00:37:49,333 --> 00:37:55,208
-♪  It's a danger
-Every shade of us you fade down to keep  ♪
-
-331
-00:37:55,291 --> 00:37:58,666
-♪  Them in the dark on who we are  ♪
-
-332
-00:37:58,750 --> 00:38:03,208
-♪  Gonna be the death of me  ♪
-
-333
-00:38:03,291 --> 00:38:05,208
-♪  It's a danger  ♪
-
-334
-00:38:05,291 --> 00:38:08,500
-♪  'Cause our love is a ghost
-That the others can't see  ♪
-
-335
-00:38:15,583 --> 00:38:17,583
-[Die Musik geht weiter.]
-
-336
-00:38:32,250 --> 00:38:33,833
-[Lied verstummt.]
-
-337
-00:38:34,916 --> 00:38:37,916
-[rhythmisches Ticken]
-
-338
-00:38:39,125 --> 00:38:42,041
-[rhythmisches Ticken]
-
-339
-00:38:43,208 --> 00:38:46,041
-[rhythmisches Ticken]
-
-340
-00:38:47,291 --> 00:38:50,250
-[rhythmisches Ticken]
-
-341
-00:38:51,416 --> 00:38:54,333
-[rhythmisches Ticken]
-
-342
-00:38:55,458 --> 00:38:58,416
-[rhythmisches Ticken]
-
-343
-00:39:26,333 --> 00:39:27,541
 Ah!
-
-344
-00:39:42,541 --> 00:39:44,208
 Ah. Ah.
-
-345
-00:39:46,291 --> 00:39:47,916
-[Er stöhnt.]
-
-346
-00:40:05,583 --> 00:40:06,583
-Hallo?
-
-347
-00:40:06,666 --> 00:40:08,250
-[gedämpftes Hämmern]
-
-348
-00:40:08,333 --> 00:40:10,333
-[schreit] Hallo!
-
-349
-00:40:17,708 --> 00:40:19,208
+Hallo!
 Hilfe!
-
-350
-00:40:19,291 --> 00:40:21,375
-[Mikkel, gedämpft] Hilfe!
-
-351
-00:40:25,333 --> 00:40:27,333
-[unheilvolle Klänge]
-
-352
-00:40:32,041 --> 00:40:33,208
-Hallo?
-
-353
-00:40:49,125 --> 00:40:51,125
-[Klicken]
-
-354
-00:40:52,875 --> 00:40:54,125
-Hallo?
-
-355
-00:40:54,791 --> 00:40:56,416
 Ist da wer?
-
-356
-00:40:58,083 --> 00:40:59,291
 Mikkel?
-
-357
-00:41:01,958 --> 00:41:03,000
-Mikkel?
-
-358
-00:41:04,625 --> 00:41:07,083
-[unheilvolle Klänge]
-
-359
-00:41:45,041 --> 00:41:47,625
-[Uhren ticken laut.]
-
-360
-00:41:54,833 --> 00:41:58,000
-[spannungsvolle Musik]
-
-361
-00:42:16,583 --> 00:42:19,833
-[bedrohliches Ticken]
