@@ -1,0 +1,714 @@
+なに   ====   what
+ねんね  ====   Fancy
+よこ   ====   next
+しゃれこうべ   ====   Shaa
+ふたつ  ====   Two
+けけ   ====   Pale
+おれ   ====   I
+の    ====   of
+かち   ====   Mere
+だ    ====   is
+わるく  ====   Lick
+おもう  ====   Mob
+な    ====   NS
+よ    ====   world
+おい   ====   Oi
+りゅーく     ====   Lighter
+おまえ  ====   You
+も    ====   and
+やらない     ====   Not
+か    ====   mosquito
+たま   ====   Marble
+に    ====   NS
+は    ====   teeth
+なかま  ====   colleague
+いれよ  ====   Let me
+いや   ====   no
+いい   ====   good
+それ   ====   that
+で    ====   so
+あたし  ====   I
+してない     ====   Not
+のに   ====   In
+きゅう  ====   nine
+きれ   ====   Crisp
+できて  ====   Able
+へぇ   ====   Husband
+よるしん     ====   Echin
+くん   ====   Kun
+どう   ====   copper
+しました     ====   Did
+いま   ====   now
+ぶんしょう    ====   Bunk
+わやく  ====   Fear
+を    ====   of
+おねがいします  ====   please
+ふう   ====   Wow
+しん   ====   core
+え    ====   Huh
+したがう     ====   Thus
+べし   ====   Brief
+さ    ====   difference
+すれば  ====   if
+うみ   ====   sea
+めぐみ  ====   Megumi
+ゆたか  ====   Oyster
+なり   ====   Becoming
+あらし  ====   Storm
+やってこない   ====   Do not come
+だろう  ====   right
+ほんじつ     ====   today
+ごぜん  ====   morning
+じゅう  ====   10
+いち   ====   one
+じごろ  ====   Dawn
+かながわ     ====   Kana
+よこはまし    ====   Yokohama
+あぱーと     ====   Apa
+ぜんご  ====   Atmosphere
+と    ====   When
+みられ  ====   Be seen
+だんせい     ====   male
+が    ====   But
+ちまみれ     ====   Chimamine
+しぼうしている  ====   I'm sorry
+ところ  ====   In place
+みつかれ     ====   Founder
+けんけい     ====   Fervor
+さつじん     ====   Perserce
+じけん  ====   Jumble
+として  ====   As
+そうさします   ====   I will do it
+じ    ====   character
+にゅーす     ====   Faint
+です   ====   is
+しょうごすぎ   ====   Gye
+とうきょうと   ====   Tokyo Metropolitan area
+しぶや  ====   Spoiler
+どうきょしている     ====   How are you
+とし   ====   year
+じょせい     ====   women
+ぼうこう     ====   Blur
+くわえ  ====   Waver
+さつがいした   ====   Satsumi
+おとこ  ====   male
+うさぎ  ====   Rabbit
+ふじ   ====   Fuji
+なおき  ====   Nominal
+ようぎしゃ    ====   It looks like
+うたがい     ====   Graceful
+たいほされました     ====   I was welcome
+まいにち     ====   every day
+おなじ  ====   same
+こと   ====   matter
+くりかえし    ====   Repayment
+まったく     ====   Jeez
+くだらねぇ    ====   Not stupid
+このよ  ====   This way
+くさってる    ====   Crawling
+まじ   ====   seriously
+あんな  ====   Such
+み    ====   fruit
+いった  ====   said
+すげ   ====   Dull
+ぇ    ====   ぇ
+じかん  ====   time
+むだ   ====   Mad
+もっと  ====   more
+きん   ====   gold
+かえせ  ====   Celief
+っと   ====   In
+かんじ  ====   Pounding
+はな   ====   flower
+やすし  ====   Ease
+こ    ====   child
+しるし  ====   Slack
+ちょくやく    ====   Exactly
+で「   ====   so"
+し    ====   death
+のーと」     ====   And "
+ふん   ====   Hmm
+つかいかた    ====   Scared
+：    ====   :
+この   ====   this
+のーと  ====   With
+なまえ  ====   name
+かかれた     ====   Vague
+にんげん     ====   Palm
+しぬ   ====   Not
+!?   ====   !?
+くだらない    ====   Bouquet
+やんでる     ====   Be
+ふこう  ====   Fur
+てがみ  ====   Turtle
+から   ====   from
+ぜんぜん     ====   At all
+しんぽし     ====   Sincerely
+ちゃいない    ====   In
+が「   ====   But"
+しぬ」  ====   "
+どうか  ====   please ~
+してる  ====   Be
+ぼく   ====   I
+かく   ====   write
+じんぶつ     ====   Jutch
+かお   ====   face
+あたま  ====   head
+はいっていない  ====   Not
+こうか  ====   effect
+ない   ====   No
+ゆえに  ====   therefore
+どうせい     ====   However
+どうめい     ====   Echoing
+へん   ====   weird
+えられない    ====   Impotent
+あと   ====   after
+にんげんかい   ====   Celebration
+たんい  ====   Terrible
+びょう  ====   tack
+いないに     ====   Not
+しいん  ====   Sewing
+その   ====   That
+とおり  ====   Street
+なる   ====   Become
+かかなければ   ====   If there is no
+すべて「     ====   all"
+しんぞう     ====   Squirt
+まひ」  ====   "
+さらに  ====   Moreover
+ふんびょう    ====   Buddy
+くわしい     ====   Blunt
+じょうきょう   ====   Echo
+きさいする    ====   Described
+あたえられる   ====   Gain
+らく   ====   easy
+しなせ  ====   Mesh
+たり   ====   Or
+くるしませて   ====   Do not come
+できる  ====   can
+って   ====   In
+あくぎ  ====   Pug
+ここ   ====   here
+まで   ====   to
+てがこんでくる  ====   I will come
+ま    ====   Devil
+ぁまぁかな    ====   Amaama
+ほんとうに    ====   very
+まてよ  ====   It is
+まんがいち    ====   Manga
+しんだら     ====   Sell
+さつじんはん   ====   Satsuma
+まさか  ====   Masadish
+そんな  ====   Such
+わけ   ====   reason
+ある   ====   be
+はず   ====   Shoulder
+きのう  ====   yesterday
+しんじゅく    ====   Pure
+はんかがい    ====   Flourish
+ろく   ====   Pounding
+にん   ====   person
+もの   ====   thing
+さっしょうした  ====   Gone
+とおりま     ====   As
+なお   ====   note that
+ようじ  ====   Good
+ほいくし     ====   Huge
+はち   ====   Bee
+ひとじち     ====   With one
+ほいくえん    ====   Hoping
+たてこもっております   ====   I am here
+けいしちょう   ====   Crunchy
+はんにん     ====   Floral
+おん   ====   favor
+はらだ  ====   Fervor
+くろう  ====   black
+むしょく     ====   Mumble
+だんてい     ====   Dull
+せっとく     ====   Pile
+かいしする    ====   Blend
+もよう  ====   Also
+まひ   ====   Male
+だった  ====   was
+どころ  ====   Where
+よく   ====   Often
+わかっておりません    ====   I do not know
+ほう   ====   law
+あんき  ====   Memorization
+より   ====   Than
+き    ====   tree
+なります     ====   Become
+ね    ====   Hey
+そうですね    ====   is that so
+いじょう     ====   abnormal
+げんば  ====   Grim
+おつたえしました     ====   I was addicted
+ありがとう    ====   Thank you
+ございました   ====   Thankful
+いかが  ====   How
+でしょう     ====   Will
+はしもと     ====   Hoshino
+さん   ====   Mr. Miss
+いっこく     ====   Quite
+はやい  ====   quick
+かいけつ     ====   Dash
+のぞみます    ====   Ghost
+やっぱり     ====   on second thoughts
+おこらない    ====   Bite
+まぁ   ====   Maic
+あたりまえ    ====   obviously
+あっ   ====   Ah
+ちょっと     ====   a little bit
+まって  ====   wait
+ください     ====   Please give me
+ん    ====   Hmm
+うごき  ====   Duck
+あった  ====   there were
+よう   ====   NS
+でてきました   ====   It came
+みんな  ====   Everyone
+ぶじ   ====   Bite
+いれかわる    ====   Be crowded
+ように  ====   like
+きどうたい    ====   How to do
+とつにゅう    ====   Tatsu
+たいほ  ====   Arrest
+あ    ====   a
+はい   ====   Yes
+たったいま    ====   Maid
+じょうほう    ====   information
+はいりました   ====   entered
+ほいくえんない  ====   Huge
+しぼう  ====   Palm
+しぼうした    ====   Shibo
+?!   ====   ?!
+「    ====   "
+しゃさつした   ====   Scolded
+ない」  ====   No"
+きょうちょうしております     ====   I'm sorry
+おいつめられて  ====   Hoped
+じさつ  ====   Seedling
+という  ====   Say
+しょうげん    ====   Ghost
+とつぜん     ====   Gently
+たおれた     ====   Dashed
+はなしています  ====   speaking
+や    ====   or
+ぐうぜん     ====   Ghost
+きまってる    ====   Be
+つき   ====   moon
+もう   ====   already
+じはん  ====   Fervor
+わ    ====   circle
+きょう  ====   today
+じゅく  ====   Junk
+ひ    ====   fire
+でしょ  ====   right
+ああ   ====   Ah
+こん   ====   dark blue
+したくしてる   ====   I want to
+ですのーと    ====   That's why
+まんいち     ====   Pussy
+これ   ====   this
+ほんもの     ====   Hospitality
+したら  ====   if you do
+もういちど    ====   Any more
+ためしてみる   ====   Trim
+そう   ====   Yes
+やはり  ====   also
+はんざいしゃ   ====   Hanzzai
+しかし  ====   However
+あまり  ====   not much
+おおもの     ====   Oh
+まずい  ====   Unpalatable
+たとえ  ====   example
+しんで  ====   Shiny
+じじつ  ====   Hoped
+しばらく     ====   for a while
+かくされる    ====   Be broken
+かのうせい    ====   possibility
+すぐ   ====   soon
+けっか  ====   result
+ほしい  ====   want
+ちん   ====   Chin
+なん   ====   what
+もと   ====   source
+せん   ====   plug
+えん   ====   bond
+かして  ====   In
+また   ====   Also
+ころしてみる   ====   Let me
+みぢかな     ====   Midaka
+なるべく     ====   As much as possible
+さけた  ====   Spontaneous
+する   ====   do
+どうせ  ====   Anyway
+やつ   ====   Guy
+だれ   ====   who
+おもわない    ====   I do not think
+ひゅっー     ====   Hundow
+かえり  ====   Fragile
+げーせん     ====   Rabbit
+いく   ====   go
+ぜ    ====   NS
+まき   ====   Mackerel
+あした  ====   tomorrow
+ごうこん     ====   Pompon
+やる   ====   do
+けど   ====   but
+こない  ====   Not
+～    ====   ~
+うち   ====   home
+ばば   ====   Baby
+ぁ    ====   Ah
+むかえ  ====   Murder
+きて   ====   come
+ぇじゃねぇかよ  ====   I'm sorry
+こう   ====   shell
+とど   ====   As far as
+いつも  ====   everytime
+こいつ  ====   this guy
+ころした     ====   killed
+よのなか     ====   Especially
+ために  ====   for
+ばかり  ====   Only
+みえてくる    ====   Look at
+お    ====   Oh
+ねえさん     ====   sister
+おれら  ====   we
+あそばない    ====   Do not play
+さすが  ====   Slack
+たく   ====   Fond
+すんげ  ====   Tremendous
+びじん  ====   Bit
+げっと  ====   Long
+しぶ   ====   Shy
+いまる  ====   Burn
+たくお  ====   Fit
+りゃくして    ====   In
+しぶたく     ====   Flourish
+へ    ====   What
+つきあって    ====   There is
+すてきな     ====   nice
+こまります    ====   Owl
+こまります」   ====   "This"
+だって  ====   Because
+かわいい     ====   Tiny
+なら   ====   If
+めくって     ====   Fancy
+ぬがして     ====   In no way
+ぜんぶ  ====   At all
+えっ   ====   eh
+っす   ====   Woe
+やめて  ====   stop
+おねがい     ====   Guy
+さあ   ====   here we go
+ねぇ   ====   Hey
+けっ   ====   Terrible
+きまり  ====   Rather
+!!   ====   !!
+ば    ====   palce
+ばか   ====   fool
+やろう  ====   let's do it
+とびだしやがっ  ====   Topy
+さて   ====   Now
+そろそろ     ====   gradually
+あれ   ====   that
+ご    ====   Go game
+にち   ====   day
+おでかけ     ====   go out
+かい   ====   shellfish
+どこ   ====   where
+いたって     ====   In
+ふもう  ====   Fumer
+おとしちまった  ====   I was tight
+こんど  ====   next time
+どじ   ====   Dangerous
+した   ====   bottom
+なぁ   ====   Maple
+ぃ    ====   ぃ
+つ    ====   NS
+ぅか   ====   ぅ
+め    ====   eye
+しにがみ     ====   Persistence
+だいおう     ====   Let's go
+かた   ====   shoulder
+くら   ====   Luxuriant
+して   ====   do it
+さつ   ====   Fear
+もてた  ====   Bottle
+じゃねぇ     ====   It is not
+さつども     ====   Persuvenating
+おとした     ====   Fantastic
+わかってる    ====   I know
+おかえり     ====   Welcome back
+はやかった    ====   It was
+ただいま     ====   I'm back
+かあさん     ====   Child
+ぜんこく     ====   At all
+もし   ====   if
+はやく  ====   quick
+あら   ====   Oh
+い    ====   stomach
+がんばった    ====   I tried
+じゃあ  ====   Surely
+べんきょうする  ====   Study
+じゃましないで  ====   Do not
+でも   ====   but
+いって  ====   Go
+べつ   ====   different
+て    ====   hand
+はいった     ====   Entered
+きにいってる   ====   I'm talking
+なぜ   ====   why
+そんなに     ====   so much
+おどろく     ====   Vague
+おとしぬし    ====   Nuts
+さっき  ====   some time ago
+ようす  ====   Do
+ただ   ====   However
+じゃない     ====   not
+だろ   ====   It
+おどろいてない  ====   Unobtrused
+まってた     ====   Mackerel
+すでに  ====   already
+げんじつ     ====   Grilled
+うたがってなかった    ====   Hesitantly
+こうして     ====   thus
+いろんな     ====   various
+ちょくしする   ====   Patch
+ますます     ====   more and more
+かくしん     ====   Honey
+もって  ====   In
+こうどう     ====   Thus
+ほど   ====   So
+おどろかされる  ====   Spoil
+かこ   ====   past
+でまわった    ====   Felected
+はなし  ====   story
+ど    ====   degree
+きいた  ====   Heard
+たった  ====   only
+てん   ====   point
+やった  ====   Hooray
+はじめて     ====   first
+なみ   ====   Nothing
+じゃ   ====   well
+びびって     ====   Barely
+かけない     ====   Not
+かくご  ====   Brilliant
+できてる     ====   Be
+わかっていて   ====   I know
+つかった     ====   used
+そして  ====   and
+きた   ====   came
+たましい     ====   Mere
+とられる     ====   Be taken
+あん   ====   sweet bean
+つくった     ====   Made
+かってな     ====   It is
+いめーじ     ====   Licker
+しない  ====   do not
+ち    ====   blood
+ついた  ====   arrived
+じてん  ====   Terrible
+つまり  ====   in short
+そいつ  ====   Each
+いらなきゃ    ====   I have to
+ほか   ====   other
+まわせ  ====   Mall
+とき   ====   Time
+にかんする    ====   Pour
+きおく  ====   Kitaku
+だけ   ====   only
+けさせてもらう  ====   Get me
+だいしょう    ====   Gay
+つよいて     ====   After
+いえば  ====   Speaking
+しか   ====   deer
+おとずれない   ====   Unlikely
+くのう  ====   Dumpling
+きょうふ     ====   fear
+しんだ  ====   dead
+てんごく     ====   Palm
+じごく  ====   Hell
+いける  ====   Lay
+たのしみ     ====   た
+だいじょうぶ   ====   Dangerous
+でてみろ     ====   In
+りんご  ====   Apple
+もってきた    ====   Gone
+すそ   ====   Dust
+おとなり     ====   Fancy
+おすそわけ    ====   お お
+ぁにこんな    ====   That's why
+くらく  ====   Brute
+どういう     ====   However
+みえていない   ====   Not seen
+もともと     ====   originally
+もっていた    ====   Already
+つかう  ====   use
+なった  ====   became
+すがた  ====   appearance
+みえる  ====   Look
+もちろん     ====   of course
+こえ   ====   Heel
+きこえない    ====   I can not hear
+いわば  ====   So-called
+らいと  ====   With
+つなぐ  ====   connect
+きずな  ====   bond
+うまい  ====   good
+ひとつ  ====   one
+きく   ====   listen
+えらんだ     ====   chose
+きいてる     ====   listening
+すごい  ====   very
+ごい   ====   Dawn
+なんて  ====   How
+(    ====   (
+じゅーしー    ====   Juh
+)    ====   )
+しつもん     ====   Question
+こたえろ     ====   Duration
+えらん  ====   Fancy
+じゃいない    ====   Not
+かしこい     ====   Dull
+じぶん  ====   myself
+えらばれた    ====   selected
+おもった     ====   I thought
+うぬぼれる    ====   Be caught
+々    ====   Every
+あたり  ====   Per
+おち   ====   Fountain
+ひろった     ====   picked up
+いちばん     ====   number one
+ぽぴゅらーな   ====   Pepy
+えいご  ====   English
+せつめい     ====   explanation
+つけた  ====   Wearing
+ていねい     ====   Terrible
+かいて  ====   Draw
+まちがって    ====   Wrong
+いう   ====   say
+かっで  ====   In a row
+たいくつ     ====   boring
+じっさい     ====   actually
+ひま   ====   free
+ひるねしてる   ====   Be sick
+ばくち  ====   Bass
+うってる     ====   Be
+へた   ====   clumsy
+かいてる     ====   Be
+がんばっちゃってる    ====   I'm working hard
+」    ====   "
+わらわれる    ====   Be wandering
+しにがみかい   ====   Shino
+しなない     ====   Not
+かっと  ====   All
+いて   ====   In
+いる   ====   Be
+やっこ  ====   Palm
+ころして     ====   In
+おもしろく    ====   Interested
+なんとも     ====   Anyhow
+こっち  ====   here
+くる   ====   come
+おもしろい    ====   Funny
+ふんだ  ====   Fantastic
+それにしても   ====   As well
+ずいぶん     ====   Very much
+かいた  ====   Tight
+だんぷ  ====   Pup
+はねられた    ====   Gentle
+かいてない    ====   Not
+そこ   ====   There
+はぁ   ====   Hay
+おも   ====   Mob
+かきつくし    ====   Crushing
+じょじょに    ====   gradually
+あくにん     ====   Pile
+れべる  ====   Be able to
+さげてる     ====   Sow
+だっ   ====   It is
+どんな  ====   what kind
+けされている   ====   Being
+きづく  ====   Be
+しらしめる    ====   Lean
+そんざい     ====   Others
+せいぎ  ====   Sieve
+さばき  ====   Judgment
+くだす  ====   Oily
+くだして     ====   Okey
+つもり  ====   Go
+さいしょ     ====   at the beginning
+しんじなかった  ====   I did not know
+ためしてみたく  ====   To try
+まりょく     ====   Murdock
+ころしてしまった     ====   I was rolling
+いのち  ====   Life
+かるい  ====   Luxuriant
+かって  ====   In
+じん   ====   person
+さばく  ====   Abode
+けんり  ====   right
+ちがう  ====   Wrong
+おもってた    ====   Fantastic
+くさっている   ====   Awake
+だれか  ====   Someone
+やらなくて    ====   After all
+はいけない    ====   Do not
+みずから     ====   From
+せいしん     ====   Squirrel
+ぎせい  ====   Joy
+まま   ====   Remain
+じゃいけない   ====   Not
+た    ====   rice field
+ふ    ====   debt
+ひつような    ====   Necessary
+けす   ====   Pound
+できない     ====   Can not
+ろう   ====   Laid
+かえてやる    ====   Rally
+まずは  ====   First
+ちきゅう     ====   Chikyu
+そうじ  ====   Soot
+おもって     ====   And thought
+きょうあくはん  ====   Today
+かきつづけた   ====   Spinning
+やがて  ====   Occasionally
+わるい  ====   bad
+できなく     ====   Without
+ざい   ====   fortune
+うけて  ====   In
+とうぜん     ====   naturally
+しんでいく    ====   Shind
+うら   ====   Envy
+どうとく     ====   However
+めいわく     ====   Bewitching
+かける  ====   times
+びょうし     ====   Baby
+じこし  ====   Fingering
+すこし  ====   a little
+ずつ   ====   Each
+けしていく    ====   Willing
+かくじつ     ====   Hill
+せかい  ====   world
+ほうこう     ====   Boss
+すすんでいく   ====   I will go
+みとめた     ====   Mittle
+まじめ  ====   Seriously
+こころ  ====   heart
+やさしい     ====   Easy
+つくりあげていく     ====   I will create
+せいかく     ====   character
+ぞ    ====   Especially
+いってる     ====   Says
+にっぽんいち   ====   Nippon
+くらい  ====   About
+まじめな     ====   Serious
+ゆうとうせい   ====   Outright
+かみ   ====   God
+おもしろ     ====   interesting
+せかいじゅう   ====   Squirrel
+ちゅうもくしている    ====   I'm doing
