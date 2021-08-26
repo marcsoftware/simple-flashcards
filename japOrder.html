@@ -502,7 +502,7 @@ var kanji={};
 function interpolate(text){
     text=text.replace(/\?/g,'？');
     
-    
+    text=text.replace(/\-/g,'ー');
 
     text=text.replace(/\,/g,'、');
     Object.keys(hirigana).forEach(function(key) {
