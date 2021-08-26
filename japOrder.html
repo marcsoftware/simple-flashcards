@@ -486,7 +486,9 @@ var hirigana={
     "い":"i",
     "う":"u",
     "え":"e",
-    "お":"o"
+    "お":"o",
+
+
  }
 
  /*
@@ -498,8 +500,13 @@ console.log(objAssetSelection);
 var kanji={};
 
 function interpolate(text){
+    text=text.replace(/\?/g,'？');
+    
+    
+
+    text=text.replace(/\,/g,'、');
     Object.keys(hirigana).forEach(function(key) {
-        console.log('Key : ' + key + ', Value : ' + hirigana[key])
+        
 
         var replace = hirigana[key];
         var re = new RegExp(replace,"g");
@@ -507,6 +514,16 @@ function interpolate(text){
         text=text.replace(re,key);
     })
 
+    
+    text=text.replace(/あ=/g,'ぁ');
+    text=text.replace(/い=/g,'ぃ');
+    text=text.replace(/う=/g,'ぅ');
+    text=text.replace(/え=/g,'ぇ');
+    text=text.replace(/お=/g,'ぉ');
+    text=text.replace(/や=/g,'ゃ');
+    text=text.replace(/ゆ=/g,'ゅ');
+
+    text=text.replace(/つ=/g,'っ');
     return text;
 }
 
