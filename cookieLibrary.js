@@ -16,8 +16,11 @@ function getCookie(name) {
 
      var p = localStorage.getItem(name); 
  
+if(p==='NaN'){
+  return 0;  
+}
 
-   return p;
+   return parseInt(p);
     
 
   
