@@ -124,19 +124,17 @@
 こ    ====   child
 しるし  ====   Slack
 ちょくやく    ====   Exactly
-で「   ====   so"
+で   ====   so
 し    ====   death
-のーと」     ====   And "
+のーと     ====   And 
 ふん   ====   Hmm
 つかいかた    ====   Scared
-：    ====   :
 この   ====   this
 のーと  ====   With
 なまえ  ====   name
 かかれた     ====   Vague
 にんげん     ====   Palm
 しぬ   ====   Not
-!?   ====   !?
 くだらない    ====   Bouquet
 やんでる     ====   Be
 ふこう  ====   Fur
@@ -146,8 +144,7 @@
 しんぽし     ====   Sincerely
 ちゃいない    ====   In
 が「   ====   But"
-しぬ」  ====   "
-どうか  ====   please ~
+どうか  ====   please 
 してる  ====   Be
 ぼく   ====   I
 かく   ====   write
@@ -172,9 +169,8 @@
 とおり  ====   Street
 なる   ====   Become
 かかなければ   ====   If there is no
-すべて「     ====   all"
+すべて     ====   all
 しんぞう     ====   Squirt
-まひ」  ====   "
 さらに  ====   Moreover
 ふんびょう    ====   Buddy
 くわしい     ====   Blunt
@@ -273,7 +269,6 @@
 きどうたい    ====   How to do
 とつにゅう    ====   Tatsu
 たいほ  ====   Arrest
-あ    ====   a
 はい   ====   Yes
 たったいま    ====   Maid
 じょうほう    ====   information
@@ -281,8 +276,6 @@
 ほいくえんない  ====   Huge
 しぼう  ====   Palm
 しぼうした    ====   Shibo
-?!   ====   ?!
-「    ====   "
 しゃさつした   ====   Scolded
 ない」  ====   No"
 きょうちょうしております     ====   I'm sorry
@@ -426,9 +419,7 @@
 どじ   ====   Dangerous
 した   ====   bottom
 なぁ   ====   Maple
-ぃ    ====   ぃ
 つ    ====   NS
-ぅか   ====   ぅ
 め    ====   eye
 しにがみ     ====   Persistence
 だいおう     ====   Let's go
@@ -533,14 +524,12 @@
 てんごく     ====   Palm
 じごく  ====   Hell
 いける  ====   Lay
-たのしみ     ====   た
 だいじょうぶ   ====   Dangerous
 でてみろ     ====   In
 りんご  ====   Apple
 もってきた    ====   Gone
 すそ   ====   Dust
 おとなり     ====   Fancy
-おすそわけ    ====   お お
 ぁにこんな    ====   That's why
 くらく  ====   Brute
 どういう     ====   However
@@ -566,9 +555,7 @@
 すごい  ====   very
 ごい   ====   Dawn
 なんて  ====   How
-(    ====   (
 じゅーしー    ====   Juh
-)    ====   )
 しつもん     ====   Question
 こたえろ     ====   Duration
 えらん  ====   Fancy
@@ -601,7 +588,6 @@
 へた   ====   clumsy
 かいてる     ====   Be
 がんばっちゃってる    ====   I'm working hard
-」    ====   "
 わらわれる    ====   Be wandering
 しにがみかい   ====   Shino
 しなない     ====   Not
