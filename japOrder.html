@@ -58,7 +58,7 @@ function init() {
     file_name=file_name.replace('%2F',"/");
   document.title=file_name;
 
-  page=parseInt(getCookie("page"));
+  page=parseInt(getCookie(file_name));
   doGet("study_material/"+file_name+'.txt');
 
     
@@ -355,6 +355,7 @@ if(page>=file.length-1){
 }
     document.cookie = file_name+"page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC;SameSite=None; Secure"; 
 
+setCookie(file_name,page);
     parseFile();
 }
 //-----------------------------------------------------------------------------
