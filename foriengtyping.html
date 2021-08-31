@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html>
+
+<meta charset="UTF-8">
+<style>
+    div{
+        margin: auto;
+  width: 100%;
+  border: 3px solid white;
+  padding: 10px;
+  text-align: center;
+    }
+
+    #ans_key{
+        color:blue;
+        width:200%;
+    }
+
+    #exclamations{
+        width:200%;
+    }
+
+    .kanji{
+        color:purple;
+    }
+
+    .reading{
+        color:yellow;
+    }
+</style>
+<body>
+
+
+<script src="cookieLibrary.js"></script> 
+<script type="text/javascript" src="japaneseDictionary.js"></script>
+
+<script>
+
+//-----------------------------------------------------------------------------
+// global variables
+//-----------------------------------------------------------------------------    
+
+ file='x';
+ ans_key = '';
+ var file_name;
+ window.onload=init();
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+   
+function init() {
+  const queryString = window.location.search;
+  console.log(queryString);
+
+  const urlParams = new URLSearchParams(queryString);
+  
+   file_name = (urlParams+"").split("=")[1];
+    file_name=file_name.replace('%2F',"/");
+  document.title=file_name;
+
+  page=parseInt(getCookie(file_name));
+  doGet("study_material/"+file_name+'.txt');
+
+    
+  
+ 
+ 
+  
+}
+
+
+//-----------------------------------------------------------------
+//
+//-----------------------------------------------------------------
+function isKanji(x){
+    //  一  047000  19968   0x4E00  &#19968; 19968
+    //  䶿   046677  19903   0x4DBF  &#19903; 4dbf
+    // ( 4e00 - 9faf)
+     var code = parseInt( x.hexEncode(),16);
+     
+
+     var MIN = (0x4e00);
+     var MAX = (0x9faf);
+    if(code>=MIN && code <=MAX){
+        return true;
+    }
+    return false;
+}
+
+
+
+
+//-----------------------------------------------------------------
+//
+//-----------------------------------------------------------------
+String.prototype.hexEncode = function(){
+    var hex, i;
+
+    var result = "";
+    for (i=0; i<this.length; i++) {
+        hex = this.charCodeAt(i).toString(16);
+        result += ("000"+hex).slice(-4);
+    }
+
+    return result
+}
+
+//-----------------------------------------------------------------
+//
+//-----------------------------------------------------------------
+function showKanjiHint(input,new_key){
+    document.getElementById('kanjihint').innerHTML=''
+
+    for(var i=0;i<new_key.length;i++){
+        
+        
+        if( globalkanji[new_key[i]] != undefined){
+            // show 
+            document.getElementById('kanjihint').innerHTML+=`
+            <span class='kanji'>${new_key[i]}</span>
+            <span class='reading'>${globalkanji[new_key[i]]}</span><br/>`;
+
+        }else if(isKanji(new_key[i])){
+                document.getElementById('kanjihint').innerHTML+=`
+            <span class='kanji'>${new_key[i]}</span>
+            <span class='reading'>???</span><br/>`;
+        }
+    }
+
+}
+
+//-----------------------------------------------------------------
+//
+//-----------------------------------------------------------------
+function colorLetters(input,ans_key){
+input=interpolate(input);
+document.getElementById('input').value=input;
+  
+    
+    var spaces = ans_key;
+     var new_key = ans_key.replace(/\s/g,"").split("");
+     var new_input = input.replace(/\s/g,"").split("");
+     var result='';
+     var right_flag=true;
+
+    showKanjiHint(input,new_key);
+     
+     if(!new_key.join('').toLowerCase().match(/\S/g)){
+        //if contains no word charactess than skip.
+        handleCorrectAns();
+
+     }
+    for(var i=0;i<new_key.length;i++){
+        if(new_key[i]==="±"){
+          result+="\r";
+          new_key.splice(i, 1);
+          if(i>=new_key.length){
+            continue;
+          }
+        }
+
+         if(largeHirigana(new_key[i])===new_input[i] || smallHirigana(new_key[i])===new_input[i]){
+          result+=new_key[i];
+
+          
+        }else if(i<new_input.length){
+          result+="❕"; //WRONG LETTER -> white explamation emoji
+          right_flag=false;
+        }else{
+          result+="❗️";  //NO LETTER -> red explamation emoji
+        }
+    }
+
+       if(!result.includes("❗️") && !result.includes("❕")){
+        //if contains no word charactess than skip.
+        handleCorrectAns();
+        
+
+     }
+    if(right_flag){
+        
+    }else{
+       // playSound('keytype.wav');
+    }
+/*
+    //TODO : X. for loop input legnth 
+             X. compare to var spaces. if spaces[i] == " "
+             4.  insert space into result 
+             5. and insertspace into newinput?
+  */
+  result=result.split("");
+  //alert(result);
+    for(var i=0;i<=new_input.length;i++){
+       if(spaces[i]===" "){
+            //
+            //substring()     Extracts the characters from a string, between two specified indices
+            result.splice(i, 0, " ");
+       }
+    }
+
+    document.getElementById("exclamations").innerHTML=result.join('').replace(/</g,"&lt;");
+}
+
+
+//-----------------------------------------------------------------------------
+// replace the small hirgiana with larger
+//-----------------------------------------------------------------------------
+function largeHirigana(text){
+    //ゃぁぃぅぇぉ
+    //やあいうえお
+    //ょよゅゆ
+    
+
+    text=text.replace(/ょ/g,"よ");
+    text=text.replace(/ゅ/g,"ゆ");
+    text=text.replace(/ゃ/g,"や");
+    text=text.replace(/ぁ/g,"あ");
+    text=text.replace(/ぃ/g,"い");
+    text=text.replace(/ぅ/g,"う");
+    text=text.replace(/ぇ/g,"え");
+    text=text.replace(/ぉ/g,"お");
+    return text;
+}
+
+
+//-----------------------------------------------------------------------------
+// replace the small hirgiana with larger
+//-----------------------------------------------------------------------------
+function smallHirigana(text){
+    //ゃぁぃぅぇぉ
+    //やあいうえお
+    text=text.replace(/よ/g,"ょ");
+    text=text.replace(/ゆ/g,"ゅ");
+    text=text.replace(/や/g,"ゃ");
+    text=text.replace(/あ/g,"ぁ");
+    text=text.replace(/い/g,"ぃ");
+    text=text.replace(/う/g,"ぅ");
+    text=text.replace(/え/g,"ぇ");
+    text=text.replace(/お/g,"ぉ");
+    return text;
+}
+
+//-----------------------------------------------------------------------------
+// play audio
+//-----------------------------------------------------------------------------
+function playAudio(word){
+  var string = "audio-jp/"+word.trim().replace(/\ /g,'.')+".wav";
+  string = string.replace(/\?/g,'')
+  var audio = new Audio(string);
+  
+  console.log(audio);
+  try{
+    audio.play();
+  }catch(e){
+    console.log("USER MUST ENABLE AUTO PLAY!!!!!!!!!!!!!!!!");
+    console.log(e);
+  }
+
+}
+
+//-----------------------------------------------------------------------------
+// draw the question
+//-----------------------------------------------------------------------------
+var page;
+function parseFile(){
+    
+    
+    document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
+
+    var both=file[page].split("====");
+    document.getElementById("que").innerHTML=both[1];
+
+     ans_key = both[0].trim();
+    document.getElementById("ans_key").innerHTML=ans_key;
+
+    playAudio(ans_key);
+}
+
+
+
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+ async  function doGet(url) {
+      let response = await fetch(url);
+
+    console.log(response.status); // 200
+    console.log(response.statusText); // OK
+
+    if (response.status === 200) {
+        let data = await response.text();
+         file = data.split("\n"); 
+         //file.shift();// shift() deletes the empty element.
+        
+        parseFile();
+        // handle data
+    }
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function checkInput(input){
+    if(input==" "){
+        playAudio(ans_key);
+        document.getElementById('input').value='';    
+        return;
+    }
+    
+    var check=interpolate(input) ;
+    document.getElementById('input').value=check;
+    colorLetters(input,ans_key);
+    if(compare(check,ans_key)){
+        handleCorrectAns();
+    }else{
+        
+    }
+}
+
+
+
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function handleCorrectAns(){
+document.getElementById('exclamations').innerHTML='';
+    
+    document.getElementById('input').value='';
+    page++;
+
+if(page>=file.length-1){
+  page=0;
+  document.getElementById("feedback").innerHTML='----------------------';
+
+}
+    document.cookie = file_name+"page="+page+"; expires=Thu, 18 Dec 3013 12:00:00 UTC;SameSite=None; Secure"; 
+
+setCookie(file_name,page);
+    parseFile();
+}
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function compare(left,right){
+    if(left ==='????'){
+        return true;
+    }
+    //[。，、‥…『』〝〟〜：！？♪]
+    left=left.replace(/[^\S]/g,"");
+    right=right.replace(/[^\S]/g,"");
+
+    left=left.replace(/[。，、‥…『』〝〟〜：！？♪]/g,"");
+    right=right.replace(/[。，、‥…『』〝〟〜：！？♪]/g,"");
+    
+    feedback(left);
+    left=left.toLowerCase().trim();
+    right=right.toLowerCase().trim();
+    return left === right;
+}
+
+
+//-----------------------------------------------------------------------------
+// repalce english letters with japanese hirigana
+//-----------------------------------------------------------------------------
+var hirigana={
+  "ぢ":"dji",
+    "ぢ":"dji",
+  "づ":"dzu",
+"ち":"chi",
+    "つ":"tsu",
+"し":"shi",
+  "が":"ga",
+  "ぎ":"gi",
+  "ぐ":"gu",
+  "げ":"ge",
+  "ご":"go",
+  
+  "ざ":"za",
+  "じ":"ji",
+  "ず":"zu",
+  "ぜ":"ze",
+  "ぞ":"zo",
+  
+  "だ":"da",
+   "で":"de",
+  "ど":"do",
+  
+  "ば":"ba",
+  "び":"bi",
+  "ぶ":"bu",
+  "べ":"be",
+  "ぼ":"bo",
+  
+  "ぱ":"pa",
+  "ぴ":"pi",
+  "ぷ":"pu",
+  "ぺ":"pe",
+  "ぽ":"po",
+
+ "が":"ga",
+  "ざ":"za",
+  "だ":"da",
+  "ば":"ba",
+  "ぱ":"pa",
+  "ぎ":"gi",
+  "じ":"ji",
+  
+  "び":"bi",
+  "ぴ":"pi",
+  "ぐ":"gu",
+  "ず":"zu",
+  
+  "ぶ":"bu",
+  "ぷ":"pu",
+  "げ":"ge",
+  "ぜ":"ze",
+  "で":"de",
+  "べ":"be",
+  "ぺ":"pe",
+  "ご":"go",
+  "ぞ":"zo",
+  "ど":"do",
+  "ぼ":"bo",
+  "ぽ":"po",
+
+    "か":"ka",
+    "き":"ki",
+    "く":"ku",
+    "け":"ke",
+    "こ":"ko",
+    "さ":"sa",
+    
+    "す":"su",
+    "せ":"se",
+    "そ":"so",
+    "た":"ta",
+    
+    "て":"te",
+    "と":"to",
+    "な":"na",
+    "に":"ni",
+    "ぬ":"nu",
+    "ね":"ne",
+    "の":"no",
+    "は":"ha",
+    "ひ":"hi",
+    "ふ":"fu",
+    "へ":"he",
+    "ほ":"ho",
+    "ま":"ma",
+    "み":"mi",
+    "む":"mu",
+    "め":"me",
+    "も":"mo",
+    "や":"ya",
+    "ゆ":"yu",
+    "よ":"yo",
+    "ら":"ra",
+    "り":"ri",
+    "る":"ru",
+    "れ":"re",
+    "ろ":"ro",
+    "わ":"wa",
+    "を":"wo",
+    "ん":"nn",
+    "あ":"a",
+    "い":"i",
+    "う":"u",
+    "え":"e",
+    "お":"o",
+
+
+ }
+
+ /*
+ var reverse = $.parseJSON(strAssetSelection);
+objAssetSelection.info.reverse();
+console.log(objAssetSelection);
+*/
+
+var kanji={};
+
+function interpolate(text){
+    text=text.replace(/\?/g,'？');
+    
+    text=text.replace(/\-/g,'ー');
+
+    text=text.replace(/\,/g,'、');
+    Object.keys(hirigana).forEach(function(key) {
+        
+
+        var replace = hirigana[key];
+        var re = new RegExp(replace,"g");
+
+        text=text.replace(re,key);
+    })
+
+    
+    text=text.replace(/あ=/g,'ぁ');
+    text=text.replace(/い=/g,'ぃ');
+    text=text.replace(/う=/g,'ぅ');
+    text=text.replace(/え=/g,'ぇ');
+    text=text.replace(/お=/g,'ぉ');
+    text=text.replace(/や=/g,'ゃ');
+    text=text.replace(/ゆ=/g,'ゅ');
+
+    text=text.replace(/つ=/g,'っ');
+    return text;
+}
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function feedback(text){
+  console.log('key'+ans_key);
+    
+}
+</script>
+<div>
+
+<span id='page'></span><br/>
+<span id='que'></span><br/>
+
+<input type="text" id='input' onkeyup='checkInput(this.value)'/> <br/>
+
+<span id='ans_key'></span><br/>
+
+<span id='exclamations'></span><br/>
+
+<span id='kanjihint'>x</span><br/>
+
+<span id='feedback'></span><br/>
+<span id='color'></span><br/>
+</div>
+</body>
+</html>
+
+
