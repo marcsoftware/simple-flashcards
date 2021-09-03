@@ -366,41 +366,55 @@ function compare(left,right){
 // repalce english letters with japanese hirigana
 //-----------------------------------------------------------------------------
 
+var russian={
+    "й":"q",
+    "ц":"w",
+    "у":"e",
+    "к":"r",
+    "е":"t",
+    "н":"y",
+    "г":"u",
+    "ш":"i",
+    "щ":"o",
+    "з":"p",
+  
+    "ф":"a",
+    "ы":"s",
+    "в":"d",
+    "а":"f",
+    "п":"g",
+    "р":"h",
+    "о":"j",
+    "л":"k",
+    "д":"l",
+    "ж":";",
+    "э":"'",
+    "я":"z",
+    "ч":"x",
+    "с":"c",
+    "м":"v",
+    "и":"b",
+    "т":"n",
+    "ь":"m",
+    "б":",",
+    "ю":"."
+    
+}
+
+
 
 function interpolate(text){
     
-   text=text.replace(/q/g,"й");
-   text=text.replace(/w/g,"ц");
-   text=text.replace(/e/g,"у");
-   text=text.replace(/r/g,"к");
-   text=text.replace(/t/g,"е");
-   text=text.replace(/y/g,"н");
-   text=text.replace(/u/g,"г");
-   text=text.replace(/i/g,"ш");
-   text=text.replace(/o/g,"щ");
-   text=text.replace(/p/g,"з");
-   text=text.replace(/\[/g,"х");
-   text=text.replace(/\]/g,"ъ");
-   text=text.replace(/a/g,"ф");
-   text=text.replace(/s/g,"ы");
-   text=text.replace(/d/g,"в");
-   text=text.replace(/f/g,"а");
-   text=text.replace(/g/g,"п");
-   text=text.replace(/h/g,"р");
-   text=text.replace(/j/g,"о");
-   text=text.replace(/k/g,"л");
-   text=text.replace(/l/g,"д");
-   text=text.replace(/;/g,"ж");
-   text=text.replace(/\'/g,"э");
-   text=text.replace(/z/g,"я");
-   text=text.replace(/x/g,"ч");
-   text=text.replace(/c/g,"с");
-   text=text.replace(/v/g,"м");
-   text=text.replace(/b/g,"и");
-   text=text.replace(/n/g,"т");
-   text=text.replace(/m/g,"ь");
-   text=text.replace(/,/g,"б");
-   text=text.replace(/\./g,"ю");
+     Object.keys(russian).forEach(function(key) {
+        
+
+        var replace = russian[key];
+        
+        var re = new RegExp(replace,"g");
+
+        text=text.replace(re,key);
+    })
+
 
 
 
