@@ -133,7 +133,8 @@ function showKanjiHint(input,new_key){
 //
 //-----------------------------------------------------------------
 function colorLetters(input,ans_key){
-input=interpolate(input);
+   input=interpolate(input);
+
 document.getElementById('input').value=input;
   
     
@@ -364,149 +365,45 @@ function compare(left,right){
 //-----------------------------------------------------------------------------
 // repalce english letters with japanese hirigana
 //-----------------------------------------------------------------------------
-var hirigana={
-  "ぢ":"dji",
-    "ぢ":"dji",
-  "づ":"dzu",
-"ち":"chi",
-    "つ":"tsu",
-"し":"shi",
-  "が":"ga",
-  "ぎ":"gi",
-  "ぐ":"gu",
-  "げ":"ge",
-  "ご":"go",
-  
-  "ざ":"za",
-  "じ":"ji",
-  "ず":"zu",
-  "ぜ":"ze",
-  "ぞ":"zo",
-  
-  "だ":"da",
-   "で":"de",
-  "ど":"do",
-  
-  "ば":"ba",
-  "び":"bi",
-  "ぶ":"bu",
-  "べ":"be",
-  "ぼ":"bo",
-  
-  "ぱ":"pa",
-  "ぴ":"pi",
-  "ぷ":"pu",
-  "ぺ":"pe",
-  "ぽ":"po",
 
- "が":"ga",
-  "ざ":"za",
-  "だ":"da",
-  "ば":"ba",
-  "ぱ":"pa",
-  "ぎ":"gi",
-  "じ":"ji",
-  
-  "び":"bi",
-  "ぴ":"pi",
-  "ぐ":"gu",
-  "ず":"zu",
-  
-  "ぶ":"bu",
-  "ぷ":"pu",
-  "げ":"ge",
-  "ぜ":"ze",
-  "で":"de",
-  "べ":"be",
-  "ぺ":"pe",
-  "ご":"go",
-  "ぞ":"zo",
-  "ど":"do",
-  "ぼ":"bo",
-  "ぽ":"po",
-
-    "か":"ka",
-    "き":"ki",
-    "く":"ku",
-    "け":"ke",
-    "こ":"ko",
-    "さ":"sa",
-    
-    "す":"su",
-    "せ":"se",
-    "そ":"so",
-    "た":"ta",
-    
-    "て":"te",
-    "と":"to",
-    "な":"na",
-    "に":"ni",
-    "ぬ":"nu",
-    "ね":"ne",
-    "の":"no",
-    "は":"ha",
-    "ひ":"hi",
-    "ふ":"fu",
-    "へ":"he",
-    "ほ":"ho",
-    "ま":"ma",
-    "み":"mi",
-    "む":"mu",
-    "め":"me",
-    "も":"mo",
-    "や":"ya",
-    "ゆ":"yu",
-    "よ":"yo",
-    "ら":"ra",
-    "り":"ri",
-    "る":"ru",
-    "れ":"re",
-    "ろ":"ro",
-    "わ":"wa",
-    "を":"wo",
-    "ん":"nn",
-    "あ":"a",
-    "い":"i",
-    "う":"u",
-    "え":"e",
-    "お":"o",
-
-
- }
-
- /*
- var reverse = $.parseJSON(strAssetSelection);
-objAssetSelection.info.reverse();
-console.log(objAssetSelection);
-*/
-
-var kanji={};
 
 function interpolate(text){
-    text=text.replace(/\?/g,'？');
     
-    text=text.replace(/\-/g,'ー');
+   text=text.replace(/q/g,"й");
+   text=text.replace(/w/g,"ц");
+   text=text.replace(/e/g,"у");
+   text=text.replace(/r/g,"к");
+   text=text.replace(/t/g,"е");
+   text=text.replace(/y/g,"н");
+   text=text.replace(/u/g,"г");
+   text=text.replace(/i/g,"ш");
+   text=text.replace(/o/g,"щ");
+   text=text.replace(/p/g,"з");
+   text=text.replace(/\[/g,"х");
+   text=text.replace(/\]/g,"ъ");
+   text=text.replace(/a/g,"ф");
+   text=text.replace(/s/g,"ы");
+   text=text.replace(/d/g,"в");
+   text=text.replace(/f/g,"а");
+   text=text.replace(/g/g,"п");
+   text=text.replace(/h/g,"р");
+   text=text.replace(/j/g,"о");
+   text=text.replace(/k/g,"л");
+   text=text.replace(/l/g,"д");
+   text=text.replace(/;/g,"ж");
+   text=text.replace(/\'/g,"э");
+   text=text.replace(/z/g,"я");
+   text=text.replace(/x/g,"ч");
+   text=text.replace(/c/g,"с");
+   text=text.replace(/v/g,"м");
+   text=text.replace(/b/g,"и");
+   text=text.replace(/n/g,"т");
+   text=text.replace(/m/g,"ь");
+   text=text.replace(/,/g,"б");
+   text=text.replace(/\./g,"ю");
 
-    text=text.replace(/\,/g,'、');
-    Object.keys(hirigana).forEach(function(key) {
-        
 
-        var replace = hirigana[key];
-        var re = new RegExp(replace,"g");
 
-        text=text.replace(re,key);
-    })
-
-    
-    text=text.replace(/あ=/g,'ぁ');
-    text=text.replace(/い=/g,'ぃ');
-    text=text.replace(/う=/g,'ぅ');
-    text=text.replace(/え=/g,'ぇ');
-    text=text.replace(/お=/g,'ぉ');
-    text=text.replace(/や=/g,'ゃ');
-    text=text.replace(/ゆ=/g,'ゅ');
-
-    text=text.replace(/つ=/g,'っ');
     return text;
 }
 
