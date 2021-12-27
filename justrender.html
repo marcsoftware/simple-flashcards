@@ -173,7 +173,7 @@ function parseFile(){
     
     
     document.getElementById("testpage").innerHTML="/"+Math.floor(file.length/100);
-document.getElementById('original').innerHTML=file;
+
 original=file;
     var both=file[page].split("====");
      audio_key=both[0].trim();
@@ -181,7 +181,7 @@ original=file;
 
      ans_key = both[1].trim();
     
-
+turnPage(0);
     playAudio(both[0]);
 }
 
@@ -297,11 +297,22 @@ function turnPage(number=0){
     testpage+=number;
     var section = original.slice(testpage*100,(testpage*100)+100);
     
+   section=section.map(parseHover);
+
     document.getElementById("testpage").innerHTML=testpage+"/"+Math.floor(file.length/100);
     document.getElementById('original').innerHTML=section;
     
 }
 
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function parseHover(element){
+    var both = element.split('====');
+    var left = both[0];
+    var right = both[1];
+    return left +'-'+right;
+}
 
 
 </script>
