@@ -19,6 +19,16 @@
     #exclamations{
         width:200%;
     }
+
+    button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-size:5px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 </style>
 <body>
 
@@ -158,11 +168,13 @@ function playAudio(word){
 // draw the question
 //-----------------------------------------------------------------------------
 var page;
+var original;
 function parseFile(){
     
     
-    document.getElementById("page").innerHTML=(page+1)+"/"+file.length;
+    document.getElementById("testpage").innerHTML="/"+Math.floor(file.length/100);
 document.getElementById('original').innerHTML=file;
+original=file;
     var both=file[page].split("====");
      audio_key=both[0].trim();
     document.getElementById("que").innerHTML=both[0];
@@ -275,10 +287,28 @@ function feedback(text){
   console.log('key'+ans_key);
     
 }
+
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+var testpage=0;
+function turnPage(number=0){
+    testpage+=number;
+    var section = original.slice(testpage*100,(testpage*100)+100);
+    
+    document.getElementById("testpage").innerHTML=testpage+"/"+Math.floor(file.length/100);
+    document.getElementById('original').innerHTML=section;
+    
+}
+
+
+
 </script>
 <div>
-
-<span id='page'></span><br/>
+<button type="button" onclick='turnPage(-1)'>PREV</button>
+<span id='testpage'></span>
+<button type="button" onclick='turnPage(1)'>NEXT</button>
 <pre id='original'></pre><br/>
 <span id='que'></span><br/>
 
