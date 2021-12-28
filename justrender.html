@@ -37,6 +37,10 @@
 .right{
     color:purple;
 }
+
+.group{
+    
+}
 </style>
 <body>
 
@@ -308,20 +312,26 @@ function turnPage(number=0){
    section=section.map(parseHover);
 
     document.getElementById("testpage").innerHTML=testpage+"/"+Math.floor(file.length/100);
-    document.getElementById('original').innerHTML=section;
+    document.getElementById('original').innerHTML=section.join('\n');
     
 }
 
 //-----------------------------------------------------------------------------
 //
 //-----------------------------------------------------------------------------
-function parseHover(element){
+function parseHover(element,index){
+    className='';
+    newline='';
+    if(index%7==0 && index !== 0){
+        className='class="group"';
+        newline='<br/><br/>';
+    }
     var both = element.split('====');
     var left = both[0].trim();
     var right = both[1].trim();
     
-    return `<span onmouseenter="reveal(this,'${left}','${right}')" 
-                onmouseleave="hideAll(this,'${left}','${right}')" >${left}</span><br/>`;
+    return `<span ${className} onmouseenter="reveal(this,'${left}','${right}')" 
+                onmouseleave="hideAll(this,'${left}','${right}')" >${left}</span>${newline}`;
 }
 
 //-----------------------------------------------------------------------------
