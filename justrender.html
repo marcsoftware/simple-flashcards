@@ -29,6 +29,14 @@
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.left{
+    color:red;
+}
+
+.right{
+    color:purple;
+}
 </style>
 <body>
 
@@ -309,11 +317,33 @@ function turnPage(number=0){
 //-----------------------------------------------------------------------------
 function parseHover(element){
     var both = element.split('====');
-    var left = both[0];
-    var right = both[1];
-    return left +'-'+right;
+    var left = both[0].trim();
+    var right = both[1].trim();
+    
+    return `<span onmouseenter="reveal(this,'${left}','${right}')" 
+                onmouseleave="hideAll(this,'${left}','${right}')" >${left}</span><br/>`;
 }
 
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function reveal(handle,left,right=''){
+    
+    left=`<span class=left>${left}</span>`;
+    right=`<span class=right>${right}</span>`;
+    handle.innerHTML=left+"==="+right;
+
+}
+
+
+//-----------------------------------------------------------------------------
+//
+//-----------------------------------------------------------------------------
+function hideAll(handle,left,right=''){
+    console.log(1);
+    handle.innerHTML=left+"==="+right.charAt(0);
+
+}
 
 </script>
 <div>
