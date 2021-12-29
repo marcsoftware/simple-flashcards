@@ -311,7 +311,7 @@ function turnPage(number=0){
     
    section=section.map(parseHover);
 
-    document.getElementById("testpage").innerHTML=testpage+"/"+Math.floor(file.length/100);
+    document.getElementById("testpage").innerHTML=(testpage+1)+"/"+Math.ceil(file.length/100);
     document.getElementById('original').innerHTML=section.join('\n');
     
 }
