@@ -1,31 +1,80 @@
+Wer  ====   who
+Wenn     ====   if
+kann     ====   can
+ihr  ====   your
+euch     ====   you
+ein  ====   a
+Alle     ====   All
+deiner   ====   yours
+zum  ====   to the
+beim     ====   at the
+bei  ====   at
+Wo   ====   Where
+mein     ====   my
+Bist     ====   Are you
+kommst   ====   come
+meine    ====   my
+Einen    ====   A
+zu   ====   to
+am   ====   at the
+Damit    ====   In order to
+Im   ====   in the
+dem  ====   to the
+Allerdings   ====   However
+im   ====   in the
+Das  ====   That
+diese    ====   these
+Warum    ====   why
+sein     ====   be
+so   ====   so
+hat  ====   Has
+er   ====   he
+wenn     ====   if
+es   ====   it
+Wie  ====   As
+war  ====   was
+dich     ====   you
+zur  ====   to the
+sind     ====   are
+Bis  ====   To
+in   ====   in
+sich     ====   themselves
+selber   ====   himself
+deinen   ====   yours
+sich     ====   themselves
+selber   ====   himself
+das  ====   the
+Der  ====   Of the
+du   ====   you
+da   ====   there
+den  ====   the
+die  ====   the
+dass     ====   that
+eine     ====   one
+man  ====   one
+einem    ====   a
+Ein  ====   A
 Wir  ====   we
 vertrauen    ====   to trust
 darauf   ====   thereon
-dass     ====   that
-die  ====   the
 Zeit     ====   Time
 linear   ====   linear
 verläuft     ====   run
-Dass     ====   That
 sie  ====   she
 auf  ====   on
 ewig     ====   eternal
 gleichförmig     ====   uniform
 voranschreitet   ====   progress
-Bis  ====   To
-in   ====   in
 Unendlichkeit    ====   infinity
 Aber     ====   but
 Unterscheidung   ====   Distinction
 von  ====   from
 Vergangenheit    ====   past
 Gegenwart    ====   presence
-und  ====   and
 Zukunft  ====   future
 ist  ====   is
 nichts   ====   nothing
 als  ====   as
-eine     ====   one
 Illusion     ====   illusion
 Gestern  ====   Yesterday
 heute    ====   today
@@ -33,9 +82,6 @@ morgen   ====   morning
 folgen   ====   follow
 nicht    ====   not
 aufeinander  ====   on each other
-Sie  ====   she
-sind     ====   are
-einem    ====   a
 ewigen   ====   eternal
 Kreis    ====   circle
 miteinander  ====   together
@@ -44,12 +90,9 @@ Alles    ====   Everything
 Mama     ====   mummy
 Mit  ====   With
 müssten  ====   be
-sich     ====   themselves
-selber   ====   himself
 Toast    ====   toast
 machen   ====   do
 können   ====   can
-Der  ====   Of the
 Strom    ====   current
 geht     ====   goes
 wieder   ====   again
@@ -57,39 +100,28 @@ Danke    ====   thanks
 fürs     ====   for
 Frühstück    ====   breakfast
 Kommst   ====   Come
-du   ====   you
-zur  ====   to the
 Versammlung  ====   Assembly
 Ich  ====   I
 weiß     ====   White
 Katharina    ====   Catharina
-da   ====   there
 Und  ====   and
-ich  ====   I
 bin  ====   am
 Ja   ====   Yes
 bist     ====   are you
 Genau    ====   Exactly
 Ulrich   ====   Ulrich
 liebe    ====   love
-dich     ====   you
 Schön    ====   Nice
-Wie  ====   As
-war  ====   was
-es   ====   it
 für  ====   for
 waren    ====   was
 letzten  ====   last
 zwei     ====   two
 Monate   ====   months
-Du   ====   You
 musst    ====   must
 drüber   ====   over
 reden    ====   talk
-wenn     ====   if
 willst   ====   want
 hab  ====   have
-den  ====   the
 medizinischen    ====   medical
 Bericht  ====   report
 gelesen  ====   had read
@@ -100,48 +132,36 @@ vor  ====   before
 allem    ====   all
 Gruppensitzungen     ====   Group sessions
 seh  ====   see
-ihn  ====   him
 immer    ====   always
 noch     ====   still
-In   ====   In
-deinen   ====   yours
 Träumen  ====   dream
 Was  ====   What
 glaubst  ====   believe
 warum    ====   why
 Sollten  ====   Should
 mir  ====   me
-das  ====   the
 Therapeut    ====   therapist
 sagen    ====   to say
 Nimmst   ====   Take
 Medikamente  ====   Drug
 glaube   ====   faith
-er   ====   he
 will     ====   want
 etwas    ====   some
 vielleicht   ====   perhaps
 auch     ====   even
 nur  ====   only
 was  ====   What
-sein     ====   be
 könnte   ====   could
-Warum    ====   why
 gegangen     ====   went
-so   ====   so
 Scheiße  ====   crap
 mal  ====   times
 erhängt  ====   hung
-hat  ====   Has
 kein     ====   no
 Wort     ====   word
 hinterlassen     ====   leave behind
 Nichts   ====   nothing
-diese    ====   these
 ganze    ====   whole
 erklärt  ====   explained
-Das  ====   That
-AKW  ====   Akw
 Winden   ====   Wind
 lange    ====   Long
 Geschichte   ====   story
@@ -151,19 +171,15 @@ des  ====   of
 Kraftwerks   ====   Power plant
 wurden   ====   became
 bereits  ====   already
-im   ====   in the
 Jahr     ====   year
 geschmiedet  ====   forged
-Allerdings   ====   However
 wurde    ====   became
 der  ====   the
 Bau  ====   building
 erst     ====   first
 nach     ====   after
-dem  ====   to the
 Atomgesetz   ====   Atomic law
 bewilligt    ====   approved
-Im   ====   in the
 Zuge     ====   Trains
 Regierung    ====   government
 schrittweise     ====   gradual
@@ -177,26 +193,18 @@ vom  ====   from the
 Netz     ====   network
 gehen    ====   walk
 müssen   ====   have to
-Damit    ====   In order to
 gehört   ====   heard
-zu   ====   to
-am   ====   at the
 längsten     ====   long
 störungsfrei     ====   trouble-free
 betriebenen  ====   operated
 deutschen    ====   German
-AKWs     ====   Akws
-Mikkel   ====   Mikkel
 gehst    ====   go
 Schule   ====   school
-Einen    ====   A
 Zauberer     ====   wizard
 muss     ====   got to
-man  ====   one
 wiedererkennen   ====   recover
 Umziehen     ====   Relocate
 schön    ====   Nice
-meine    ====   my
 Arbeitskleidung  ====   Workwear
 außerdem     ====   aside from that
 scheiße  ====   crap
@@ -204,20 +212,15 @@ Haudini  ====   Haudini
 sicher   ====   for sure
 Houdini  ====   Houdini
 Martha   ====   Martha
-kommst   ====   come
 frühstücken  ====   have breakfast
-Bist     ====   Are you
 adoptiert    ====   adopted
 Mann     ====   man
 nervst   ====   nervous
 heißt    ====   called
 Aua  ====   Aua
-Wo   ====   Where
-mein     ====   my
 schwarzer    ====   black
 Kapuzenpulli     ====   Hoodie
 Vielleicht   ====   Maybe
-bei  ====   at
 Jacken   ====   Jackets
 Musst    ====   Must
 trampeln     ====   trample
@@ -227,23 +230,17 @@ gedauert     ====   took
 Erster   ====   First
 Schultag     ====   school day
 Riesenschlange   ====   Huge snake
-beim     ====   at the
 Bäcker   ====   Baker
-Die  ====   the
 Apokalypse   ====   Apocalypse
 naht     ====   seam
-zum  ====   to the
 Essen    ====   eat
-deiner   ====   yours
 Sporttasche  ====   Sports bag
 denn     ====   because
 los  ====   Come on
 Hungerstreik     ====   Hunger strike
-Alle     ====   All
 zehn     ====   ten
 Sekunden     ====   Seconds
 verhungert   ====   starved
-ein  ====   a
 Kind     ====   child
 fresse   ====   face
 mich     ====   me
@@ -256,16 +253,12 @@ Pulli    ====   Sweater
 geklaut  ====   Stolen
 Nein     ====   no
 Könnt    ====   Can
-ihr  ====   your
-euch     ====   you
 vertragen    ====   tolerate
 gemacht  ====   made
-kann     ====   can
 Kriege   ====   Wars
 Text     ====   text
 Dein     ====   Your
 Wäsche   ====   Laundry
-Wenn     ====   if
 verhungerst  ====   starving
 nützt    ====   beneficial
 keinem   ====   no
@@ -275,7 +268,6 @@ Letzte   ====   Last
 Verwarnung   ====   warning
 kommen   ====   come
 spät     ====   late
-Wer  ====   who
 wollte   ====   wanted to
 Kinder   ====   children
 Machst   ====   Make
@@ -283,7 +275,6 @@ stehst   ====   stand
 Weg  ====   path
 verstanden   ====   Understood
 Also     ====   So
-Ein  ====   A
 letzter  ====   last
 Trick    ====   trick
 dann     ====   then
